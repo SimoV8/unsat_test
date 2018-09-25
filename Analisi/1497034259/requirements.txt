@@ -1,0 +1,16 @@
+After a0 = 1, it is always the case that if a0 < 3 holds, then a0 <= 1 eventually holds.
+After a0 >= 1, it is always the case that if a0 <= 1 holds and is succeeded by a0 >= 0, then a0 <= 3 previously held.
+Between a0 = 0 and a0 >= 2, it is always the case that if a0 >= 2 holds, then a0 = 0 previously held.
+After a0 = 3, it is always the case that if a0 < 3 holds, then a0 = 2 eventually holds and is succeeded by a0 = 1 .
+Between a0 = 3 and a0 <= 3, it is always the case that if a0 > 0 holds, then a0 = 1 eventually holds.
+Globally, it is always the case that if a0 <= 0 holds, then a0 < 1 previously held and was preceded by a0 <= 1 .
+After a0 > 3, it is always the case that if a0 <= 1 holds, then a0 < 1 eventually holds.
+Globally, it is always the case that a0 <= 0 holds.
+Globally, it is always the case that if a0 <= 0 holds, then a0 < 0 eventually holds and is succeeded by a0 > 2, where a0 > 1 does not hold between a0 < 0 and a0 > 2 .
+After a0 = 3, it is always the case that if a0 >= 0 holds, then a0 < 1 previously held.
+Globally, it is always the case that if a0 > 0 holds, then a0 >= 1 previously held and was preceded by a0 < 1 .
+After a0 > 1, it is always the case that if a0 >= 0 holds, then a0 >= 2 previously held.
+After a0 <= 2, it is always the case that if a0 >= 2 holds, then a0 >= 3 eventually holds.
+Globally, it is never the case that a0 >= 3 holds.
+After a0 <= 3 until a0 < 3, a0 >= 2 eventually holds.
+Globally, a0 <= 2 eventually holds.

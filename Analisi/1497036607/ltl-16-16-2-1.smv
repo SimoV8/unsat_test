@@ -1,0 +1,97 @@
+MODULE main
+VAR
+
+	_lower_o00 : boolean; -- o0 < 0.0
+	_equal_o00 : boolean; -- o0 = 0.0
+	_lower_n00 : boolean; -- n0 < 1.0
+	_equal_n00 : boolean; -- n0 = 1.0
+	_lower_m00 : boolean; -- m0 < 0.0
+	_equal_m00 : boolean; -- m0 = 0.0
+	_lower_l00 : boolean; -- l0 < 0.0
+	_equal_l00 : boolean; -- l0 = 0.0
+	_lower_l01 : boolean; -- l0 < 1.0
+	_equal_l01 : boolean; -- l0 = 1.0
+	_lower_k00 : boolean; -- k0 < 0.0
+	_equal_k00 : boolean; -- k0 = 0.0
+	_lower_k01 : boolean; -- k0 < 1.0
+	_equal_k01 : boolean; -- k0 = 1.0
+	_lower_j00 : boolean; -- j0 < 0.0
+	_equal_j00 : boolean; -- j0 = 0.0
+	_lower_j01 : boolean; -- j0 < 1.0
+	_equal_j01 : boolean; -- j0 = 1.0
+	_lower_i01 : boolean; -- i0 < 0.0
+	_equal_i01 : boolean; -- i0 = 0.0
+	_lower_i00 : boolean; -- i0 < 1.0
+	_equal_i00 : boolean; -- i0 = 1.0
+	_lower_h00 : boolean; -- h0 < 0.0
+	_equal_h00 : boolean; -- h0 = 0.0
+	_lower_h01 : boolean; -- h0 < 1.0
+	_equal_h01 : boolean; -- h0 = 1.0
+	_lower_g00 : boolean; -- g0 < 1.0
+	_equal_g00 : boolean; -- g0 = 1.0
+	_lower_f00 : boolean; -- f0 < 1.0
+	_equal_f00 : boolean; -- f0 = 1.0
+	_lower_e00 : boolean; -- e0 < 0.0
+	_equal_e00 : boolean; -- e0 = 0.0
+	_lower_d00 : boolean; -- d0 < 0.0
+	_equal_d00 : boolean; -- d0 = 0.0
+	_lower_d01 : boolean; -- d0 < 1.0
+	_equal_d01 : boolean; -- d0 = 1.0
+	_lower_c00 : boolean; -- c0 < 1.0
+	_equal_c00 : boolean; -- c0 = 1.0
+	_lower_b00 : boolean; -- b0 < 1.0
+	_equal_b00 : boolean; -- b0 = 1.0
+	_lower_a00 : boolean; -- a0 < 1.0
+	_equal_a00 : boolean; -- a0 = 1.0
+
+INVAR (! _lower_o00) | (! _equal_o00);
+INVAR (! _lower_n00) | (! _equal_n00);
+INVAR (! _lower_m00) | (! _equal_m00);
+INVAR (! _lower_l00) | (! _equal_l00);
+INVAR (! _lower_l00) | (! _lower_l01);
+INVAR (! _lower_l00) | (! _equal_l01);
+INVAR (! _equal_l00) | (! _lower_l01);
+INVAR (! _equal_l00) | (! _equal_l01);
+INVAR (! _lower_l01) | (! _equal_l01);
+INVAR (! _lower_k00) | (! _equal_k00);
+INVAR (! _lower_k00) | (! _lower_k01);
+INVAR (! _lower_k00) | (! _equal_k01);
+INVAR (! _equal_k00) | (! _lower_k01);
+INVAR (! _equal_k00) | (! _equal_k01);
+INVAR (! _lower_k01) | (! _equal_k01);
+INVAR (! _lower_j00) | (! _equal_j00);
+INVAR (! _lower_j00) | (! _lower_j01);
+INVAR (! _lower_j00) | (! _equal_j01);
+INVAR (! _equal_j00) | (! _lower_j01);
+INVAR (! _equal_j00) | (! _equal_j01);
+INVAR (! _lower_j01) | (! _equal_j01);
+INVAR (! _lower_i01) | (! _equal_i01);
+INVAR (! _lower_i01) | (! _lower_i00);
+INVAR (! _lower_i01) | (! _equal_i00);
+INVAR (! _equal_i01) | (! _lower_i00);
+INVAR (! _equal_i01) | (! _equal_i00);
+INVAR (! _lower_i00) | (! _equal_i00);
+INVAR (! _lower_h00) | (! _equal_h00);
+INVAR (! _lower_h00) | (! _lower_h01);
+INVAR (! _lower_h00) | (! _equal_h01);
+INVAR (! _equal_h00) | (! _lower_h01);
+INVAR (! _equal_h00) | (! _equal_h01);
+INVAR (! _lower_h01) | (! _equal_h01);
+INVAR (! _lower_g00) | (! _equal_g00);
+INVAR (! _lower_f00) | (! _equal_f00);
+INVAR (! _lower_e00) | (! _equal_e00);
+INVAR (! _lower_d00) | (! _equal_d00);
+INVAR (! _lower_d00) | (! _lower_d01);
+INVAR (! _lower_d00) | (! _equal_d01);
+INVAR (! _equal_d00) | (! _lower_d01);
+INVAR (! _equal_d00) | (! _equal_d01);
+INVAR (! _lower_d01) | (! _equal_d01);
+INVAR (! _lower_c00) | (! _equal_c00);
+INVAR (! _lower_b00) | (! _equal_b00);
+INVAR (! _lower_a00) | (! _equal_a00);
+
+-- Negated Formula
+LTLSPEC !((G(((! _lower_f00) -> ( _equal_h00 -> ((! _lower_e00) U ((( _equal_g00 & (! _lower_e00)) & (!((((! _lower_h00) & (! _equal_h00)) & (! _lower_h01)) & (! _equal_h01)))) & (X(((! _lower_e00) & (!((((! _lower_h00) & (! _equal_h00)) & (! _lower_h01)) & (! _equal_h01)))) U  _equal_m00)))))) U ( _lower_e00 | (G( _equal_h00 -> (( _equal_g00 & (!((((! _lower_h00) & (! _equal_h00)) & (! _lower_h01)) & (! _equal_h01)))) & (X((!((((! _lower_h00) & (! _equal_h00)) & (! _lower_h01)) & (! _equal_h01))) U  _equal_m00)))))))) & (G((( _lower_m00 & (!((! _lower_f00) & (! _equal_f00)))) & (F((! _lower_f00) & (! _equal_f00)))) -> ((! _lower_o00) U ((! _lower_f00) & (! _equal_f00))))) & ((G(!((! _lower_o00) & (! _equal_o00)))) | ((!((! _lower_o00) & (! _equal_o00))) U ((((! _lower_o00) & (! _equal_o00)) & (F _equal_k00)) -> ((! _equal_k00) U (((! _lower_f00) & (! _equal_k00)) & (X((! _equal_k00) U ((( _lower_i01 |  _equal_i01) |  _lower_i00) |  _equal_i00)))))))) & (G((! _lower_k00) -> (G(!( _lower_l00 |  _equal_l00))))) & (G _equal_a00) & ((F(((( _lower_k00 |  _equal_k00) |  _lower_k01) |  _equal_k01) & (X(F((! _lower_j00) & (! _equal_j00)))))) -> ((!((( _lower_k00 |  _equal_k00) |  _lower_k01) |  _equal_k01)) U  _lower_h00)) & (G((((! _lower_n00) & (! _equal_n00)) & (F((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01)))) -> ((!(( _lower_j00 & (!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01)))) & (X((!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01))) U (((( _lower_k00 |  _equal_k00) |  _lower_k01) |  _equal_k01) & (!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01)))))))) U (((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01)) | ((! _lower_b00) & (! _equal_b00)))))) & (G( _lower_g00 |  _equal_g00)) & (F _equal_d00) & ((F(( _lower_d00 |  _equal_d00) |  _lower_d01)) -> ((!((((! _lower_k00) & (! _equal_k00)) & (! _lower_k01)) & (! _equal_k01))) U (( _lower_d00 |  _equal_d00) |  _lower_d01))) & (G(!(( _lower_d00 |  _equal_d00) |  _lower_d01))) & (G( _equal_j01 -> (G(! _lower_g00)))) & (G(((! _lower_o00) & (X(F _equal_i00))) -> (X(F( _equal_i00 & (F _equal_f00)))))) & (G(( _lower_a00 & (!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01)))) -> ((!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01))) U (((! _lower_c00) & (! _equal_c00)) & (!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01))))))) & (G((( _lower_o00 & (!( _lower_i01 |  _equal_i01))) & (F( _lower_i01 |  _equal_i01))) -> ((( _lower_k00 |  _equal_k00) -> ((!( _lower_i01 |  _equal_i01)) U ((! _lower_l00) & (!( _lower_i01 |  _equal_i01))))) U ( _lower_i01 |  _equal_i01)))) & (G(( _lower_h00 |  _equal_h00) -> (G(((! _lower_b00) & (! _equal_b00)) -> (F((! _lower_h00) & (! _equal_h00))))))));
+
+-- Directed Formula
+LTLSPEC ((G(((! _lower_f00) -> ( _equal_h00 -> ((! _lower_e00) U ((( _equal_g00 & (! _lower_e00)) & (!((((! _lower_h00) & (! _equal_h00)) & (! _lower_h01)) & (! _equal_h01)))) & (X(((! _lower_e00) & (!((((! _lower_h00) & (! _equal_h00)) & (! _lower_h01)) & (! _equal_h01)))) U  _equal_m00)))))) U ( _lower_e00 | (G( _equal_h00 -> (( _equal_g00 & (!((((! _lower_h00) & (! _equal_h00)) & (! _lower_h01)) & (! _equal_h01)))) & (X((!((((! _lower_h00) & (! _equal_h00)) & (! _lower_h01)) & (! _equal_h01))) U  _equal_m00)))))))) & (G((( _lower_m00 & (!((! _lower_f00) & (! _equal_f00)))) & (F((! _lower_f00) & (! _equal_f00)))) -> ((! _lower_o00) U ((! _lower_f00) & (! _equal_f00))))) & ((G(!((! _lower_o00) & (! _equal_o00)))) | ((!((! _lower_o00) & (! _equal_o00))) U ((((! _lower_o00) & (! _equal_o00)) & (F _equal_k00)) -> ((! _equal_k00) U (((! _lower_f00) & (! _equal_k00)) & (X((! _equal_k00) U ((( _lower_i01 |  _equal_i01) |  _lower_i00) |  _equal_i00)))))))) & (G((! _lower_k00) -> (G(!( _lower_l00 |  _equal_l00))))) & (G _equal_a00) & ((F(((( _lower_k00 |  _equal_k00) |  _lower_k01) |  _equal_k01) & (X(F((! _lower_j00) & (! _equal_j00)))))) -> ((!((( _lower_k00 |  _equal_k00) |  _lower_k01) |  _equal_k01)) U  _lower_h00)) & (G((((! _lower_n00) & (! _equal_n00)) & (F((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01)))) -> ((!(( _lower_j00 & (!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01)))) & (X((!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01))) U (((( _lower_k00 |  _equal_k00) |  _lower_k01) |  _equal_k01) & (!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01)))))))) U (((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01)) | ((! _lower_b00) & (! _equal_b00)))))) & (G( _lower_g00 |  _equal_g00)) & (F _equal_d00) & ((F(( _lower_d00 |  _equal_d00) |  _lower_d01)) -> ((!((((! _lower_k00) & (! _equal_k00)) & (! _lower_k01)) & (! _equal_k01))) U (( _lower_d00 |  _equal_d00) |  _lower_d01))) & (G(!(( _lower_d00 |  _equal_d00) |  _lower_d01))) & (G( _equal_j01 -> (G(! _lower_g00)))) & (G(((! _lower_o00) & (X(F _equal_i00))) -> (X(F( _equal_i00 & (F _equal_f00)))))) & (G(( _lower_a00 & (!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01)))) -> ((!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01))) U (((! _lower_c00) & (! _equal_c00)) & (!((((! _lower_l00) & (! _equal_l00)) & (! _lower_l01)) & (! _equal_l01))))))) & (G((( _lower_o00 & (!( _lower_i01 |  _equal_i01))) & (F( _lower_i01 |  _equal_i01))) -> ((( _lower_k00 |  _equal_k00) -> ((!( _lower_i01 |  _equal_i01)) U ((! _lower_l00) & (!( _lower_i01 |  _equal_i01))))) U ( _lower_i01 |  _equal_i01)))) & (G(( _lower_h00 |  _equal_h00) -> (G(((! _lower_b00) & (! _equal_b00)) -> (F((! _lower_h00) & (! _equal_h00))))))));

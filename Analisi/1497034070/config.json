@@ -1,0 +1,9 @@
+{
+  "requirements":{"min":4,"max":4},
+  "formulaNumbers":{"min":0,"max":2},
+  "seed":"1497034070",
+  "density":{"patterns":["0.1","0.1","0.1","0.1","0.1","0.1","0.1","0.1","0.1","0.1"],
+    "scopes":["0.2","0.2","0.2","0.2","0.2"]},
+    "formulas":{"min":2,"max":2},
+    "timeUnits":{"min":20,"max":35}
+}

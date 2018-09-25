@@ -1,0 +1,32 @@
+Before a0 >= 7, it is always the case that if b0 = 4 holds and is succeeded by a0 <= 5, then c0 > 7 eventually holds after a0 <= 5 .
+Before b0 > 3, it is always the case that if c0 <= 0 holds, then a0 = 0 previously held and was preceded by a0 = 6 .
+After a0 >= 1, it is always the case that if b0 < 3 holds, then b0 < 2 previously held and was preceded by b0 <= 2 .
+After c0 < 4, it is always the case that if c0 > 4 holds, then c0 >= 7 eventually holds and is succeeded by c0 >= 7 .
+After c0 <= 3 until c0 < 0, it is always the case that a0 >= 4 holds.
+Before a0 > 5, it is always the case that if b0 <= 7 holds, then b0 >= 0 previously held.
+After a0 <= 6 until c0 >= 3, it is always the case that if c0 = 3 holds and is succeeded by b0 > 1, then a0 >= 0 previously held.
+Globally, it is always the case that if b0 <= 0 holds and is succeeded by c0 < 6, then a0 < 1 previously held.
+Between a0 >= 4 and c0 >= 7, it is always the case that if c0 <= 5 holds, then c0 >= 7 eventually holds and is succeeded by b0 >= 2, where b0 <= 7 does not hold between c0 >= 7 and b0 >= 2 .
+After c0 < 6, it is always the case that if c0 = 4 holds, then b0 > 0 eventually holds.
+Globally, it is always the case that if a0 < 7 holds, then b0 >= 4 previously held.
+Globally, it is always the case that if a0 <= 6 holds, then c0 <= 4 previously held and was preceded by c0 >= 2 .
+Between a0 > 0 and b0 > 2, it is always the case that a0 >= 7 holds.
+After b0 >= 1, it is always the case that if c0 = 3 holds, then c0 <= 1 previously held and was preceded by a0 <= 1 .
+Globally, b0 >= 3 eventually holds.
+After b0 > 4, it is always the case that if b0 < 5 holds and is succeeded by a0 = 7, then b0 < 2 previously held.
+After a0 > 6 until a0 > 0, it is never the case that b0 >= 7 holds.
+Between a0 > 1 and a0 >= 2, it is always the case that if b0 >= 7 holds, then c0 < 3 previously held.
+Globally, it is always the case that b0 < 7 holds.
+After b0 > 0, it is always the case that if b0 > 4 holds, then a0 <= 0 previously held.
+Between b0 > 6 and c0 = 6, it is always the case that if c0 > 0 holds, then b0 < 5 previously held and was preceded by c0 > 0 .
+Globally, it is always the case that if c0 < 1 holds, then b0 >= 7 eventually holds and is succeeded by c0 < 6, where a0 <= 1 does not hold between b0 >= 7 and c0 < 6 .
+Between b0 < 0 and a0 <= 7, it is never the case that b0 < 1 holds.
+Before b0 = 3, it is always the case that if c0 > 7 holds, then c0 > 7 eventually holds and is succeeded by c0 <= 6 .
+After c0 >= 5, it is always the case that if c0 <= 2 holds, then a0 > 4 previously held and was preceded by a0 > 1 .
+After c0 < 3, it is always the case that a0 <= 2 holds.
+After c0 >= 4 until a0 = 0, it is always the case that if a0 > 4 holds and is succeeded by a0 <= 5, then b0 < 0 previously held.
+Globally, it is always the case that if a0 > 7 holds, then a0 <= 7 eventually holds.
+Between c0 > 3 and a0 > 1, it is always the case that b0 > 3 holds.
+Globally, it is always the case that if c0 > 6 holds and is succeeded by a0 = 6, then a0 > 1 previously held.
+After b0 = 1 until c0 >= 7, it is always the case that if c0 = 1 holds, then a0 < 1 eventually holds.
+After c0 > 6, it is never the case that b0 < 7 holds.

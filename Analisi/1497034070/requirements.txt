@@ -1,0 +1,4 @@
+Globally, it is always the case that if a0 > 1 holds, then a0 = 1 previously held and was preceded by a0 = 0 .
+After a0 = 1 until a0 <= 0, it is always the case that if a0 < 0 holds, then a0 > 1 previously held.
+Between a0 >= 1 and a0 >= 0, it is always the case that if a0 <= 1 holds, then a0 <= 0 eventually holds.
+Globally, it is never the case that a0 <= 1 holds.

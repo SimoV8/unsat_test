@@ -1,0 +1,16 @@
+Before k0 = 2, it is always the case that if a0 <= 3 holds, then j0 <= 5 previously held.
+Globally, it is never the case that k0 >= 4 holds.
+Between c0 < 6 and k0 = 4, it is always the case that if g0 = 3 holds, then h0 = 2 eventually holds and is succeeded by c0 <= 4, where i0 < 5 does not hold between h0 = 2 and c0 <= 4 .
+After i0 > 1 until o0 = 0, it is always the case that if k0 <= 2 holds, then m0 <= 3 eventually holds and is succeeded by a0 >= 1, where c0 >= 1 does not hold between m0 <= 3 and a0 >= 1 .
+Globally, it is always the case that if o0 < 6 holds and is succeeded by i0 <= 0, then o0 >= 1 previously held.
+After f0 > 4 until k0 >= 2, it is always the case that if o0 > 0 holds, then i0 >= 4 eventually holds and is succeeded by c0 > 5 .
+Between l0 = 1 and l0 < 7, it is always the case that if o0 = 2 holds, then d0 > 7 eventually holds.
+Before d0 < 7, it is always the case that if l0 = 1 holds, then f0 > 4 eventually holds and is succeeded by o0 < 6 .
+Between l0 < 0 and n0 >= 0, it is always the case that if o0 > 4 holds, then b0 > 4 eventually holds and is succeeded by k0 = 3 .
+After d0 = 6 until h0 <= 4, j0 >= 7 eventually holds.
+After k0 > 4 until g0 < 3, o0 >= 5 eventually holds.
+Before m0 < 3, it is always the case that if o0 >= 3 holds, then h0 > 5 eventually holds and is succeeded by g0 < 0 .
+After c0 > 5 until b0 < 0, it is always the case that if l0 <= 7 holds, then a0 < 1 eventually holds and is succeeded by m0 > 0, where d0 > 6 does not hold between a0 < 1 and m0 > 0 .
+After k0 >= 1, it is never the case that m0 <= 4 holds.
+Before k0 = 2, it is always the case that l0 < 6 holds.
+Globally, it is always the case that if m0 > 4 holds and is succeeded by l0 > 4, then k0 < 2 eventually holds after l0 > 4 .

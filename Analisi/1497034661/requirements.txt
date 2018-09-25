@@ -1,0 +1,16 @@
+After a0 <= 2, it is always the case that if c0 > 3 holds and is succeeded by a0 < 1, then c0 < 0 eventually holds after a0 < 1 .
+After c0 <= 2 until c0 <= 1, it is never the case that b0 = 0 holds.
+Before b0 < 2, it is never the case that a0 = 0 holds.
+Between a0 >= 0 and c0 = 3, it is always the case that if a0 = 0 holds and is succeeded by a0 >= 2, then b0 <= 3 eventually holds after a0 >= 2 .
+Between b0 < 2 and b0 >= 2, it is always the case that if a0 > 0 holds, then b0 > 0 eventually holds and is succeeded by c0 > 3, where a0 = 1 does not hold between b0 > 0 and c0 > 3 .
+After c0 < 0, it is always the case that if b0 < 1 holds, then a0 >= 2 eventually holds and is succeeded by b0 <= 2 .
+Before c0 > 2, a0 <= 3 eventually holds.
+Before c0 < 1, it is never the case that a0 > 2 holds.
+Before b0 > 1, it is always the case that b0 >= 3 holds.
+Between b0 > 1 and b0 >= 1, it is never the case that a0 > 0 holds.
+Globally, it is always the case that c0 <= 0 holds.
+Before b0 >= 3, a0 = 3 eventually holds.
+Globally, it is always the case that if b0 = 1 holds, then c0 > 2 previously held.
+Globally, it is never the case that a0 < 0 holds.
+Before b0 >= 3, it is always the case that if c0 <= 3 holds, then b0 <= 2 eventually holds.
+Globally, it is always the case that if a0 >= 2 holds, then b0 = 2 eventually holds and is succeeded by c0 > 3, where c0 = 2 does not hold between b0 = 2 and c0 > 3 .

@@ -1,0 +1,16 @@
+After c0 <= 1, it is always the case that if c0 = 0 holds, then a0 < 1 eventually holds and is succeeded by a0 > 0, where b0 > 0 does not hold between a0 < 1 and a0 > 0 .
+Globally, it is always the case that if a0 < 0 holds, then b0 < 0 eventually holds and is succeeded by b0 <= 1 .
+Globally, it is always the case that if a0 > 1 holds, then a0 <= 1 previously held.
+Globally, it is never the case that a0 = 0 holds.
+After a0 <= 1, it is always the case that b0 <= 0 holds.
+Globally, it is never the case that c0 >= 0 holds.
+Before b0 >= 1, it is always the case that if a0 < 1 holds, then c0 >= 0 eventually holds and is succeeded by c0 < 0, where c0 < 0 does not hold between c0 >= 0 and c0 < 0 .
+Between c0 = 0 and c0 < 1, it is always the case that if a0 <= 0 holds, then c0 <= 1 eventually holds.
+Globally, it is never the case that c0 >= 0 holds.
+Before c0 > 1, it is always the case that if c0 <= 0 holds, then c0 = 1 eventually holds and is succeeded by a0 <= 1 .
+Before c0 >= 1, c0 <= 1 eventually holds.
+Globally, b0 < 0 eventually holds.
+Globally, it is never the case that b0 <= 1 holds.
+Between a0 >= 1 and b0 < 1, it is always the case that if a0 <= 0 holds and is succeeded by a0 = 0, then a0 < 1 eventually holds after a0 = 0 .
+Before b0 = 1, b0 < 0 eventually holds.
+Before b0 = 0, it is never the case that a0 >= 1 holds.

@@ -1,0 +1,8 @@
+After a0 >= 0 until a0 >= 0, it is always the case that if a0 >= 1 holds and is succeeded by a0 <= 0, then a0 < 0 previously held.
+Before a0 <= 1, it is always the case that if a0 > 0 holds, then a0 > 0 eventually holds.
+Globally, it is never the case that a0 < 1 holds.
+Before a0 <= 1, a0 < 1 eventually holds.
+Between a0 = 0 and a0 = 0, it is always the case that a0 > 0 holds.
+After a0 = 0 until a0 >= 0, it is always the case that if a0 < 1 holds, then a0 > 1 previously held and was preceded by a0 >= 0 .
+After a0 <= 0, it is always the case that if a0 > 0 holds, then a0 < 1 eventually holds.
+After a0 > 0, it is always the case that if a0 >= 0 holds and is succeeded by a0 < 0, then a0 < 0 previously held.
