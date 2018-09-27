@@ -1,0 +1,120 @@
+Globally, it is always the case that if c0 > 9 holds, then d0 > 4 eventually holds.
+After b0 = 5 until p0 = 0, it is always the case that if c0 < 1 holds, then f0 = 5 previously held and was preceded by q0 > 0 .
+After l0 = 5 until r0 > 12, it is always the case that if i0 = 19 holds and is succeeded by p0 <= 27, then l0 < 19 eventually holds after p0 <= 27 .
+After c0 < 7 until j0 > 5, it is always the case that if h0 >= 26 holds, then m0 < 7 eventually holds.
+After b0 >= 22 until a0 = 15, it is always the case that e0 <= 22 holds.
+After m0 <= 24 until s0 >= 22, it is always the case that if f0 <= 22 holds, then b0 = 7 previously held.
+Before e0 < 11, it is always the case that if o0 = 1 holds and is succeeded by m0 = 24, then h0 >= 21 eventually holds after m0 = 24 .
+Before n0 >= 22, it is never the case that d0 > 28 holds.
+Between i0 > 6 and j0 > 22, it is always the case that if n0 >= 17 holds, then h0 >= 14 eventually holds and is succeeded by n0 >= 9 .
+Before g0 = 28, it is always the case that if h0 < 17 holds, then p0 <= 8 eventually holds and is succeeded by e0 >= 31 .
+Before d0 = 17, it is always the case that if q0 > 3 holds and is succeeded by l0 > 17, then e0 > 24 eventually holds after l0 > 17 .
+After o0 <= 29 until b0 <= 19, it is always the case that if e0 = 19 holds, then a0 > 10 previously held.
+After p0 = 5, it is always the case that if p0 >= 18 holds, then n0 < 21 eventually holds and is succeeded by r0 <= 10 .
+Globally, it is always the case that if b0 <= 27 holds, then m0 < 22 eventually holds.
+After c0 > 6 until i0 < 20, it is always the case that if k0 = 11 holds, then q0 >= 31 eventually holds and is succeeded by n0 = 20, where e0 >= 3 does not hold between q0 >= 31 and n0 = 20 .
+After i0 = 6 until c0 = 16, it is always the case that if h0 > 25 holds, then a0 > 12 eventually holds and is succeeded by i0 >= 1 .
+After n0 = 21, it is always the case that if a0 = 8 holds and is succeeded by k0 = 25, then h0 > 11 eventually holds after k0 = 25 .
+Between i0 > 17 and q0 < 30, it is always the case that if i0 > 24 holds, then j0 > 29 eventually holds and is succeeded by i0 > 30, where j0 < 7 does not hold between j0 > 29 and i0 > 30 .
+After s0 <= 19 until n0 < 5, it is always the case that if q0 = 31 holds and is succeeded by i0 > 14, then i0 <= 19 previously held.
+Before r0 < 20, it is always the case that if c0 = 11 holds, then q0 = 2 eventually holds and is succeeded by j0 <= 5 .
+After g0 <= 12, it is always the case that if j0 < 28 holds, then c0 = 26 eventually holds and is succeeded by p0 = 21, where q0 >= 29 does not hold between c0 = 26 and p0 = 21 .
+Between p0 >= 30 and a0 >= 10, it is always the case that if f0 >= 11 holds and is succeeded by r0 >= 15, then c0 = 8 previously held.
+After a0 = 6, s0 <= 20 eventually holds.
+Between b0 < 17 and s0 = 30, it is always the case that d0 <= 13 holds.
+After l0 > 29 until i0 > 25, it is always the case that if d0 <= 1 holds, then a0 > 6 eventually holds and is succeeded by l0 >= 14, where p0 >= 18 does not hold between a0 > 6 and l0 >= 14 .
+Between p0 = 8 and b0 < 29, it is always the case that if m0 >= 18 holds and is succeeded by a0 = 31, then s0 > 31 previously held.
+Before f0 <= 6, it is never the case that n0 = 9 holds.
+After e0 = 17, it is always the case that r0 = 28 holds.
+Before n0 <= 16, o0 < 26 eventually holds.
+After o0 > 4, it is always the case that if a0 <= 29 holds, then l0 < 8 previously held.
+Globally, it is never the case that f0 < 2 holds.
+Before h0 > 31, it is always the case that if h0 = 10 holds, then o0 < 18 eventually holds and is succeeded by s0 < 19, where o0 > 19 does not hold between o0 < 18 and s0 < 19 .
+Between a0 <= 11 and f0 >= 6, it is always the case that p0 <= 12 holds.
+After i0 < 6 until i0 <= 25, it is never the case that e0 >= 14 holds.
+After a0 < 27, it is never the case that j0 <= 11 holds.
+After k0 > 8 until g0 > 8, g0 >= 17 eventually holds.
+After n0 > 9, it is always the case that if g0 >= 22 holds and is succeeded by d0 >= 29, then d0 <= 31 previously held.
+Between l0 < 2 and c0 < 10, it is always the case that if d0 > 24 holds, then k0 < 2 eventually holds and is succeeded by a0 >= 8, where e0 <= 12 does not hold between k0 < 2 and a0 >= 8 .
+Before p0 > 5, it is always the case that if k0 > 14 holds, then h0 > 0 eventually holds and is succeeded by o0 = 26, where o0 <= 30 does not hold between h0 > 0 and o0 = 26 .
+Between f0 = 4 and q0 < 24, f0 < 20 eventually holds.
+Before m0 >= 23, it is always the case that if f0 > 13 holds, then m0 < 28 previously held and was preceded by e0 >= 16 .
+Between k0 < 3 and p0 >= 17, it is always the case that if m0 < 8 holds, then f0 > 3 previously held.
+Globally, it is always the case that if c0 > 9 holds and is succeeded by n0 < 30, then h0 > 13 eventually holds after n0 < 30 .
+After i0 >= 21, it is always the case that if a0 < 20 holds, then f0 <= 26 eventually holds and is succeeded by e0 > 10 .
+After b0 < 3 until c0 < 5, it is always the case that if a0 >= 18 holds, then r0 < 11 eventually holds.
+After d0 >= 9, a0 = 2 eventually holds.
+After r0 <= 1, d0 <= 25 eventually holds.
+Globally, it is always the case that if a0 >= 26 holds, then m0 <= 30 eventually holds and is succeeded by g0 > 8, where h0 < 31 does not hold between m0 <= 30 and g0 > 8 .
+After i0 = 15, it is always the case that if r0 <= 5 holds, then m0 > 5 previously held.
+After k0 > 16, it is always the case that if q0 = 16 holds, then m0 = 15 previously held and was preceded by b0 <= 30 .
+Before f0 < 5, it is always the case that if d0 >= 11 holds, then g0 <= 3 previously held and was preceded by g0 > 16 .
+Before r0 >= 26, it is always the case that if s0 > 11 holds, then e0 >= 16 previously held and was preceded by l0 >= 6 .
+Between l0 = 7 and o0 >= 30, it is always the case that if b0 >= 24 holds, then q0 < 16 previously held and was preceded by b0 >= 10 .
+Before a0 > 3, it is always the case that if a0 > 21 holds, then f0 >= 10 eventually holds and is succeeded by o0 < 14 .
+Before g0 < 9, it is always the case that if c0 <= 13 holds, then k0 <= 25 previously held.
+Between r0 >= 20 and l0 <= 26, it is always the case that if k0 = 11 holds and is succeeded by c0 > 24, then d0 >= 15 previously held.
+After e0 > 7 until o0 < 11, it is always the case that if f0 > 16 holds, then d0 < 12 eventually holds.
+After f0 < 23, it is always the case that if b0 = 20 holds, then g0 <= 6 previously held.
+After o0 < 19, it is always the case that if n0 >= 5 holds, then s0 >= 24 previously held and was preceded by h0 <= 23 .
+Before r0 > 2, it is always the case that if m0 > 14 holds and is succeeded by n0 = 4, then d0 < 2 eventually holds after n0 = 4 .
+After l0 <= 17, it is always the case that if m0 >= 3 holds, then e0 < 29 eventually holds and is succeeded by s0 < 2 .
+Between r0 = 22 and f0 < 12, it is always the case that if e0 >= 1 holds, then c0 <= 23 eventually holds and is succeeded by e0 <= 22 .
+Before c0 <= 13, it is always the case that if n0 >= 6 holds, then d0 > 4 previously held and was preceded by h0 <= 14 .
+Before i0 < 21, it is never the case that r0 >= 16 holds.
+Before f0 <= 3, it is always the case that if a0 >= 7 holds, then e0 <= 0 eventually holds and is succeeded by r0 < 27, where o0 = 5 does not hold between e0 <= 0 and r0 < 27 .
+Between s0 >= 17 and s0 < 10, it is always the case that if g0 > 7 holds, then a0 <= 26 previously held and was preceded by o0 <= 6 .
+After a0 < 23 until m0 > 15, it is always the case that if k0 > 9 holds and is succeeded by e0 >= 12, then b0 > 8 previously held.
+Before p0 = 9, it is always the case that if l0 <= 22 holds, then f0 < 31 eventually holds and is succeeded by k0 <= 16, where n0 = 14 does not hold between f0 < 31 and k0 <= 16 .
+Globally, it is never the case that s0 > 8 holds.
+Between i0 < 1 and j0 >= 15, it is always the case that if q0 >= 4 holds, then r0 <= 9 eventually holds and is succeeded by p0 > 26 .
+Before p0 = 7, it is always the case that if i0 > 7 holds, then o0 >= 24 eventually holds and is succeeded by r0 = 24 .
+After h0 < 28, it is always the case that if k0 = 19 holds, then d0 <= 17 previously held and was preceded by e0 >= 27 .
+After e0 <= 10, it is always the case that if j0 = 9 holds and is succeeded by f0 <= 25, then a0 > 11 previously held.
+Globally, it is always the case that if a0 < 18 holds and is succeeded by q0 < 0, then d0 >= 25 eventually holds after q0 < 0 .
+Before o0 >= 0, it is always the case that s0 <= 21 holds.
+Globally, it is always the case that i0 = 1 holds.
+Between o0 >= 6 and j0 = 24, it is always the case that if k0 > 25 holds, then b0 <= 25 eventually holds and is succeeded by m0 <= 31 .
+Before n0 <= 31, it is always the case that if b0 > 20 holds, then q0 = 12 previously held and was preceded by k0 >= 20 .
+After a0 < 25 until k0 > 18, it is always the case that if b0 > 9 holds, then p0 >= 9 previously held and was preceded by g0 >= 12 .
+Between q0 < 10 and g0 = 19, it is always the case that if k0 < 1 holds and is succeeded by e0 >= 24, then n0 >= 0 previously held.
+After o0 < 21, it is always the case that if o0 = 20 holds, then k0 >= 11 eventually holds.
+After a0 <= 20, it is always the case that if p0 = 13 holds, then l0 = 12 eventually holds.
+Globally, it is always the case that if b0 > 26 holds, then n0 <= 17 eventually holds and is succeeded by n0 >= 13, where l0 < 20 does not hold between n0 <= 17 and n0 >= 13 .
+After j0 <= 5, it is always the case that if q0 <= 10 holds, then q0 > 10 previously held.
+After o0 < 12 until d0 < 7, it is always the case that if r0 = 24 holds, then p0 >= 26 previously held.
+Before r0 = 7, h0 <= 0 eventually holds.
+Between f0 < 10 and h0 > 21, it is always the case that if r0 >= 17 holds and is succeeded by a0 > 26, then o0 < 25 previously held.
+After m0 >= 13 until i0 >= 26, it is always the case that s0 < 22 holds.
+Between k0 > 1 and q0 <= 10, it is always the case that if j0 = 8 holds, then b0 <= 17 eventually holds and is succeeded by m0 < 19, where l0 = 27 does not hold between b0 <= 17 and m0 < 19 .
+After c0 > 17, it is always the case that if p0 <= 5 holds, then b0 = 2 eventually holds and is succeeded by p0 < 5, where h0 >= 0 does not hold between b0 = 2 and p0 < 5 .
+After n0 < 10 until q0 = 11, it is never the case that g0 > 6 holds.
+Globally, it is always the case that h0 < 5 holds.
+Globally, it is always the case that if h0 = 22 holds, then d0 < 16 eventually holds and is succeeded by r0 > 28, where j0 >= 19 does not hold between d0 < 16 and r0 > 28 .
+Between m0 = 9 and j0 < 11, it is always the case that if l0 < 5 holds, then m0 < 6 eventually holds.
+Before k0 = 17, it is always the case that if f0 >= 27 holds and is succeeded by c0 < 18, then m0 <= 9 previously held.
+After g0 > 28 until j0 >= 5, it is always the case that if o0 < 2 holds, then h0 = 3 previously held.
+After g0 >= 8 until p0 <= 7, m0 = 24 eventually holds.
+Before e0 < 23, it is always the case that if s0 >= 12 holds and is succeeded by b0 >= 28, then g0 = 30 eventually holds after b0 >= 28 .
+After o0 < 5 until i0 < 4, it is always the case that if j0 <= 22 holds, then s0 <= 1 eventually holds.
+Globally, it is always the case that if k0 < 30 holds and is succeeded by e0 <= 28, then m0 <= 8 eventually holds after e0 <= 28 .
+After k0 = 1 until d0 >= 2, it is always the case that if i0 <= 6 holds, then i0 = 4 eventually holds and is succeeded by j0 < 9, where h0 > 1 does not hold between i0 = 4 and j0 < 9 .
+After r0 >= 14 until e0 < 28, it is always the case that if k0 > 7 holds, then g0 <= 22 eventually holds and is succeeded by j0 > 9 .
+After a0 < 23, it is always the case that if g0 = 8 holds, then m0 < 26 eventually holds.
+Before p0 < 24, it is always the case that h0 >= 17 holds.
+After e0 > 17, p0 = 19 eventually holds.
+Between h0 >= 24 and b0 >= 19, it is always the case that if p0 >= 0 holds and is succeeded by s0 < 12, then b0 = 2 previously held.
+Between a0 > 4 and r0 <= 27, it is never the case that i0 = 26 holds.
+Globally, it is always the case that if c0 = 15 holds, then g0 < 16 eventually holds.
+After k0 > 26, it is always the case that if o0 > 15 holds, then b0 > 10 eventually holds and is succeeded by b0 < 9, where c0 > 16 does not hold between b0 > 10 and b0 < 9 .
+Between g0 < 24 and j0 >= 4, it is never the case that e0 <= 3 holds.
+Between h0 > 21 and p0 >= 2, it is always the case that if o0 >= 22 holds, then d0 > 11 eventually holds and is succeeded by f0 <= 7, where o0 <= 6 does not hold between d0 > 11 and f0 <= 7 .
+Between m0 <= 28 and a0 >= 7, it is always the case that o0 = 8 holds.
+Globally, it is always the case that if d0 < 14 holds, then i0 < 12 eventually holds and is succeeded by d0 >= 3, where k0 > 1 does not hold between i0 < 12 and d0 >= 3 .
+After h0 <= 13, it is always the case that if p0 >= 17 holds, then l0 <= 23 eventually holds and is succeeded by l0 = 1, where q0 <= 29 does not hold between l0 <= 23 and l0 = 1 .
+Before k0 = 19, it is always the case that if e0 = 23 holds, then i0 <= 30 eventually holds and is succeeded by a0 <= 5 .
+Before h0 = 24, it is always the case that if n0 < 27 holds, then m0 = 30 eventually holds.
+After l0 = 17 until s0 >= 14, it is always the case that g0 >= 15 holds.
+Before r0 = 28, it is always the case that if m0 > 19 holds, then c0 < 28 previously held and was preceded by j0 = 10 .
+After r0 >= 26 until p0 <= 3, b0 <= 7 eventually holds.
+After i0 >= 27 until n0 = 28, it is always the case that if m0 >= 30 holds, then p0 <= 21 eventually holds and is succeeded by i0 > 4 .

@@ -1,0 +1,240 @@
+After u2 >= 6, k1 <= 6 eventually holds.
+Before z1 < 4, it is always the case that if p2 < 6 holds, then x0 >= 14 previously held.
+Globally, it is always the case that z1 >= 14 holds.
+After l0 <= 10, it is always the case that if o2 < 10 holds, then v2 < 8 eventually holds.
+After g0 < 12, it is always the case that if v2 >= 12 holds, then n1 > 7 previously held and was preceded by x2 >= 2 .
+Globally, it is always the case that if i1 >= 1 holds and is succeeded by e2 > 13, then r0 = 5 previously held.
+Between y1 <= 2 and b2 = 6, it is always the case that if l1 <= 13 holds and is succeeded by c1 >= 8, then a1 >= 6 eventually holds after c1 >= 8 .
+After j2 = 6, it is never the case that r0 >= 6 holds.
+After j1 > 14, it is always the case that if y0 = 8 holds, then f2 >= 5 eventually holds and is succeeded by f0 >= 8 .
+Globally, it is always the case that if p0 < 0 holds, then n0 <= 0 eventually holds and is succeeded by u2 > 15, where i1 < 13 does not hold between n0 <= 0 and u2 > 15 .
+Globally, it is always the case that if o1 > 10 holds and is succeeded by a1 > 9, then b2 = 9 eventually holds after a1 > 9 .
+Before i1 < 3, it is always the case that if i1 >= 14 holds, then w1 > 6 eventually holds and is succeeded by m0 < 4 .
+Before v0 >= 13, it is always the case that if y0 < 15 holds and is succeeded by q1 < 15, then t1 > 5 eventually holds after q1 < 15 .
+Globally, it is always the case that if b0 >= 10 holds, then x1 = 4 previously held and was preceded by m2 > 0 .
+Before p1 = 4, it is never the case that r2 >= 12 holds.
+Between v2 < 15 and s1 < 3, it is always the case that if k2 = 4 holds, then a3 < 14 previously held.
+After u0 <= 4, it is always the case that g2 = 11 holds.
+Globally, it is never the case that e2 >= 13 holds.
+Before u0 >= 7, it is never the case that m1 >= 8 holds.
+Before r2 = 6, it is always the case that if m2 > 2 holds and is succeeded by j2 = 3, then l0 < 6 eventually holds after j2 = 3 .
+After y1 >= 10 until b1 >= 15, it is never the case that k0 < 3 holds.
+Globally, it is always the case that if x2 > 0 holds, then q2 >= 0 eventually holds and is succeeded by n2 < 14 .
+Before k2 < 9, it is always the case that if x2 <= 13 holds, then t2 < 12 eventually holds and is succeeded by r2 <= 3 .
+Globally, it is always the case that if t1 > 0 holds, then v2 <= 4 previously held.
+Globally, it is always the case that if y1 = 6 holds, then r0 >= 7 eventually holds and is succeeded by z1 >= 9, where q0 <= 2 does not hold between r0 >= 7 and z1 >= 9 .
+After e2 < 6 until o0 <= 15, it is always the case that if e1 <= 3 holds, then a0 = 1 eventually holds.
+Globally, it is always the case that i1 < 8 holds.
+After m0 = 1 until g2 >= 7, it is always the case that if h2 <= 13 holds, then k1 = 11 eventually holds and is succeeded by c1 >= 0, where n2 <= 12 does not hold between k1 = 11 and c1 >= 0 .
+After o0 <= 11 until i0 < 1, x0 >= 15 eventually holds.
+After m2 < 4 until z2 <= 1, it is always the case that if l2 >= 3 holds and is succeeded by n1 < 7, then c2 > 12 eventually holds after n1 < 7 .
+After f1 > 10 until j2 < 6, it is always the case that w1 < 3 holds.
+After k0 <= 4 until w1 <= 11, it is always the case that if j2 > 10 holds, then l2 >= 9 eventually holds.
+After v0 = 8 until a3 > 0, it is always the case that if v1 = 5 holds and is succeeded by s0 > 15, then n1 >= 4 eventually holds after s0 > 15 .
+Globally, it is always the case that if a2 <= 3 holds, then s0 <= 15 eventually holds and is succeeded by q0 > 13, where z1 < 3 does not hold between s0 <= 15 and q0 > 13 .
+Globally, it is always the case that m1 = 5 holds.
+After a2 > 6 until g2 > 5, n1 <= 7 eventually holds.
+Globally, it is always the case that if a1 = 5 holds, then y1 >= 10 eventually holds.
+Before q2 >= 4, it is never the case that y2 > 15 holds.
+Between j2 = 5 and u0 <= 5, it is always the case that if f1 <= 15 holds, then m1 = 6 eventually holds.
+Before e2 = 11, it is always the case that if w1 > 0 holds, then s1 >= 13 previously held.
+Globally, it is always the case that if r0 <= 14 holds, then r0 >= 9 eventually holds and is succeeded by n1 = 4 .
+After p0 > 9, it is always the case that if a1 = 3 holds, then t2 <= 8 previously held.
+Before g1 > 12, it is always the case that if a3 <= 0 holds and is succeeded by d0 = 7, then f0 = 3 previously held.
+Between p1 < 0 and q2 <= 8, it is always the case that c2 >= 7 holds.
+Between z0 <= 8 and d2 <= 15, it is always the case that if p0 = 15 holds, then h2 <= 10 previously held and was preceded by o2 < 5 .
+Between s1 <= 9 and a0 > 15, it is always the case that if n1 < 11 holds, then c2 > 14 previously held.
+Between y0 > 5 and v0 = 5, it is never the case that y1 <= 6 holds.
+After j0 > 7, it is always the case that if w1 > 12 holds, then b0 >= 8 eventually holds and is succeeded by l2 <= 2 .
+After o2 <= 4, it is always the case that q1 >= 6 holds.
+Globally, it is always the case that if c0 < 3 holds, then d0 <= 9 previously held.
+Globally, it is always the case that if g2 > 10 holds and is succeeded by o0 = 9, then c2 <= 3 eventually holds after o0 = 9 .
+Between q0 >= 12 and r2 > 12, it is always the case that if x1 < 3 holds and is succeeded by l2 <= 3, then x1 <= 0 eventually holds after l2 <= 3 .
+After f2 <= 8, it is always the case that c1 = 5 holds.
+Between r1 = 14 and v2 < 7, it is always the case that l1 < 4 holds.
+After s2 < 0 until f1 < 4, t2 >= 15 eventually holds.
+Globally, it is always the case that if f0 <= 2 holds and is succeeded by g0 <= 1, then c1 = 7 previously held.
+Globally, it is always the case that if t0 < 2 holds and is succeeded by x0 > 12, then k2 > 2 previously held.
+Between d1 < 0 and v2 <= 0, it is always the case that if x0 <= 4 holds, then q1 = 12 eventually holds and is succeeded by o1 <= 5 .
+After r2 >= 15 until x1 >= 15, it is always the case that if l0 >= 9 holds, then n1 <= 14 previously held and was preceded by m0 > 4 .
+After g1 < 12, it is always the case that if h0 >= 14 holds and is succeeded by c2 = 3, then a3 <= 4 eventually holds after c2 = 3 .
+After r2 = 15 until d2 >= 4, it is always the case that if m0 >= 11 holds, then q2 >= 4 eventually holds.
+After o2 < 3 until j1 > 2, it is never the case that h2 > 9 holds.
+After m2 > 13, it is always the case that if e2 < 8 holds and is succeeded by l0 < 12, then m2 > 10 previously held.
+After j1 = 14, it is always the case that if t0 < 11 holds and is succeeded by w1 < 13, then k2 > 7 previously held.
+Globally, it is always the case that l1 >= 12 holds.
+After c2 >= 5 until n1 = 10, it is always the case that if c0 = 14 holds, then d2 <= 9 eventually holds and is succeeded by o0 > 12 .
+After c2 < 15 until k0 < 3, it is always the case that if o0 < 13 holds, then p1 > 4 eventually holds and is succeeded by y0 <= 3, where t0 <= 0 does not hold between p1 > 4 and y0 <= 3 .
+Before q0 = 14, it is always the case that if g1 < 13 holds and is succeeded by g1 = 8, then l0 <= 13 eventually holds after g1 = 8 .
+Globally, it is never the case that q2 <= 9 holds.
+Globally, it is never the case that v1 = 1 holds.
+After k0 > 12 until c0 > 12, it is always the case that if r0 < 1 holds and is succeeded by z1 = 5, then b1 > 4 previously held.
+After a0 >= 11 until g2 < 11, it is always the case that if g1 <= 13 holds and is succeeded by g2 = 13, then g2 <= 6 previously held.
+After d2 > 7, it is always the case that if j2 <= 12 holds, then t2 > 5 eventually holds and is succeeded by s0 = 3, where e0 < 13 does not hold between t2 > 5 and s0 = 3 .
+Globally, it is always the case that g0 >= 0 holds.
+After x0 > 13 until a0 > 3, it is always the case that if p2 > 0 holds, then e1 > 8 eventually holds and is succeeded by f1 < 6 .
+Between h1 <= 14 and w0 <= 12, it is always the case that if t2 <= 9 holds, then l2 > 14 previously held.
+After x2 < 9, it is never the case that n2 >= 2 holds.
+Before k2 = 1, it is always the case that if n0 = 0 holds and is succeeded by y0 = 11, then i1 > 11 previously held.
+Between e0 >= 4 and c2 < 10, it is never the case that t1 >= 6 holds.
+Before m0 <= 2, it is always the case that i1 = 1 holds.
+After l0 > 15, u1 <= 12 eventually holds.
+After g1 = 2, p2 > 7 eventually holds.
+Globally, it is always the case that if w1 < 0 holds, then w0 <= 14 eventually holds and is succeeded by f0 > 4 .
+After l1 >= 7 until y1 <= 3, it is always the case that x1 = 11 holds.
+After s2 < 7, it is always the case that if e0 <= 9 holds, then i0 > 8 previously held and was preceded by o2 > 8 .
+After u1 > 11, it is always the case that if g0 > 13 holds, then n2 <= 15 previously held and was preceded by f0 = 12 .
+After o1 >= 0, it is always the case that if m2 > 2 holds and is succeeded by g0 >= 9, then j0 <= 8 eventually holds after g0 >= 9 .
+After r1 < 2, it is always the case that if k1 >= 12 holds and is succeeded by n2 < 15, then c2 >= 9 eventually holds after n2 < 15 .
+Before q1 < 4, it is always the case that if k1 <= 13 holds, then y2 = 14 eventually holds.
+After z0 <= 4 until w2 = 1, it is always the case that if q1 < 14 holds, then d2 <= 7 previously held.
+After s0 = 9, it is always the case that if t0 > 6 holds and is succeeded by s1 < 10, then f1 = 15 previously held.
+Before g2 > 14, x0 > 6 eventually holds.
+Globally, it is always the case that if g1 >= 7 holds and is succeeded by t2 < 2, then o2 >= 9 previously held.
+Before q2 < 7, it is always the case that b0 = 8 holds.
+Globally, it is always the case that if q2 >= 3 holds, then j2 < 8 eventually holds and is succeeded by q2 >= 8, where h0 >= 5 does not hold between j2 < 8 and q2 >= 8 .
+Before f0 <= 5, it is always the case that if b2 = 6 holds, then p1 < 8 previously held.
+After p0 > 1, it is always the case that if w1 < 12 holds, then j2 >= 11 previously held.
+Before t2 <= 9, it is always the case that if t2 <= 4 holds and is succeeded by l1 <= 10, then v2 > 3 previously held.
+Globally, it is never the case that e0 = 11 holds.
+Between a3 <= 7 and e1 > 10, it is never the case that b2 >= 2 holds.
+Between o1 <= 12 and d0 > 2, it is always the case that if w0 < 10 holds, then u2 < 9 eventually holds and is succeeded by n1 = 8 .
+Between i2 > 2 and z1 <= 15, it is always the case that if h0 <= 7 holds, then j0 >= 12 previously held and was preceded by u2 >= 7 .
+After e2 >= 14, it is never the case that j1 < 3 holds.
+Globally, it is always the case that if u1 = 7 holds, then i0 >= 7 previously held and was preceded by z1 < 11 .
+Before l2 < 15, p1 < 5 eventually holds.
+After p2 > 0, it is always the case that if v1 <= 1 holds, then l2 >= 13 eventually holds.
+After c2 > 6, it is always the case that if f1 <= 14 holds, then g1 < 8 eventually holds and is succeeded by x2 <= 1, where l0 > 2 does not hold between g1 < 8 and x2 <= 1 .
+Before j2 <= 8, it is always the case that if t0 > 9 holds, then o1 >= 15 previously held and was preceded by d2 < 2 .
+Globally, it is always the case that if d0 = 14 holds, then o0 < 15 previously held and was preceded by t1 <= 1 .
+Between h2 = 8 and r1 > 13, it is always the case that if y2 > 1 holds, then b2 = 6 eventually holds and is succeeded by e0 <= 3 .
+After o1 = 4, it is always the case that s2 > 8 holds.
+Globally, it is always the case that if l2 > 7 holds and is succeeded by p2 = 0, then p1 <= 10 previously held.
+After f0 < 12, it is always the case that if j1 = 12 holds and is succeeded by m2 >= 12, then v2 <= 15 previously held.
+Globally, it is always the case that if d0 >= 11 holds and is succeeded by u0 > 15, then o1 = 5 eventually holds after u0 > 15 .
+Before u1 < 13, it is always the case that if w2 >= 0 holds, then w0 < 15 eventually holds and is succeeded by v0 <= 3 .
+Between m0 = 11 and y2 < 0, it is always the case that if j0 > 2 holds and is succeeded by h1 < 5, then w0 <= 0 previously held.
+After f0 = 1 until e2 = 4, it is always the case that if v1 > 11 holds and is succeeded by z2 > 15, then j1 >= 13 previously held.
+After h2 < 4 until b1 = 6, it is always the case that if q1 <= 15 holds, then g0 < 13 previously held.
+Before w0 > 6, it is always the case that if i1 > 5 holds, then v1 < 6 eventually holds and is succeeded by f1 > 9, where b0 > 10 does not hold between v1 < 6 and f1 > 9 .
+After y2 < 7, it is always the case that if j0 = 9 holds, then m0 > 11 previously held and was preceded by b2 > 15 .
+After b1 <= 1 until d1 = 0, it is always the case that if l2 = 15 holds, then k0 < 5 eventually holds and is succeeded by e2 <= 6, where y1 = 3 does not hold between k0 < 5 and e2 <= 6 .
+After o0 < 8 until o0 < 11, it is always the case that if m0 >= 3 holds and is succeeded by c0 <= 13, then t1 > 6 previously held.
+After m2 = 3 until v1 < 5, it is always the case that if u1 < 2 holds, then c0 = 4 eventually holds.
+After e1 >= 15, it is always the case that if q2 > 2 holds, then a2 < 0 previously held and was preceded by s1 = 15 .
+Globally, it is always the case that if c2 < 1 holds and is succeeded by z0 < 11, then k0 = 8 eventually holds after z0 < 11 .
+After a0 <= 15 until p1 = 15, it is always the case that if b1 < 0 holds and is succeeded by t0 = 0, then a0 < 13 previously held.
+After w2 < 9 until o2 < 12, it is always the case that m1 < 2 holds.
+After m1 < 6, it is always the case that if r1 > 3 holds, then e1 < 8 previously held.
+Before a3 >= 6, o2 >= 9 eventually holds.
+After x1 < 10 until m2 = 4, it is always the case that if n2 < 5 holds, then w2 = 6 eventually holds.
+Between n0 < 3 and n0 > 15, it is always the case that if d0 = 9 holds, then b1 < 8 previously held.
+Globally, u2 <= 4 eventually holds.
+Globally, it is always the case that if n0 <= 8 holds and is succeeded by z2 = 11, then p0 >= 10 eventually holds after z2 = 11 .
+Before e2 = 11, a0 >= 9 eventually holds.
+Between e1 < 8 and n1 <= 3, it is always the case that if d1 <= 6 holds and is succeeded by i0 > 5, then y2 > 9 previously held.
+After n0 < 9 until i2 < 3, it is always the case that if e1 <= 2 holds, then d0 < 8 eventually holds and is succeeded by g2 > 8 .
+After v2 < 10 until v1 <= 7, r2 <= 11 eventually holds.
+Globally, it is never the case that p0 <= 10 holds.
+Before w2 = 10, v0 <= 11 eventually holds.
+After s1 <= 14 until d1 = 2, it is always the case that if p2 >= 1 holds, then j2 > 13 eventually holds and is succeeded by q1 <= 1 .
+After m1 >= 13 until v0 = 0, it is always the case that e1 <= 14 holds.
+After m0 >= 12 until v2 >= 6, it is always the case that if h2 = 13 holds, then s0 = 8 previously held and was preceded by m1 < 4 .
+After l0 = 10, q0 <= 3 eventually holds.
+Globally, it is always the case that if i1 = 1 holds, then o0 < 15 eventually holds.
+Between h2 >= 9 and a0 = 9, it is always the case that if y2 > 2 holds, then r2 >= 9 previously held.
+Between r1 <= 12 and a1 < 7, it is always the case that q0 >= 2 holds.
+Globally, it is always the case that if l2 >= 9 holds and is succeeded by a1 > 13, then j2 <= 1 eventually holds after a1 > 13 .
+Globally, it is always the case that if t0 = 8 holds, then x1 >= 10 eventually holds and is succeeded by b2 <= 14, where b0 <= 4 does not hold between x1 >= 10 and b2 <= 14 .
+Between i0 > 11 and x1 >= 4, it is always the case that if w0 >= 7 holds, then m0 = 14 previously held.
+Between u2 = 7 and u0 <= 15, it is always the case that if s0 > 3 holds and is succeeded by j1 >= 2, then m1 > 2 previously held.
+After w1 <= 15, it is never the case that z0 >= 4 holds.
+Globally, it is never the case that c0 > 1 holds.
+Before w0 >= 14, it is always the case that if e2 <= 2 holds, then f0 = 3 eventually holds.
+After n1 > 8, it is always the case that if v1 = 12 holds and is succeeded by e1 < 11, then e1 <= 2 previously held.
+After z2 = 11, it is always the case that if x0 = 14 holds, then g2 <= 8 eventually holds.
+After s2 <= 5, it is always the case that if y2 >= 8 holds, then n1 > 9 eventually holds and is succeeded by i2 = 6 .
+After s1 = 6 until z2 = 0, it is never the case that x2 <= 8 holds.
+Between f2 = 7 and k2 < 1, it is never the case that u0 = 10 holds.
+Before v1 > 6, it is always the case that if y2 >= 15 holds, then e2 <= 14 previously held and was preceded by r1 < 12 .
+After i0 = 6 until z2 < 0, it is always the case that if j0 < 14 holds and is succeeded by w0 < 6, then m2 >= 0 eventually holds after w0 < 6 .
+Before k1 <= 10, it is always the case that if h0 > 10 holds, then u1 < 14 previously held and was preceded by v2 <= 10 .
+After v2 < 4, it is always the case that if p1 = 6 holds, then a2 = 3 previously held.
+Before b1 = 2, h0 > 10 eventually holds.
+After v2 < 3, it is always the case that if m2 < 4 holds and is succeeded by z1 > 11, then t1 > 12 previously held.
+After a0 >= 7 until g2 < 5, it is always the case that if f2 = 11 holds, then f2 = 14 previously held and was preceded by b1 <= 11 .
+After v0 > 6 until s2 < 12, it is always the case that if l2 > 2 holds, then h0 >= 7 previously held.
+After d1 <= 7, it is always the case that if c1 <= 4 holds and is succeeded by w2 >= 10, then z0 = 12 eventually holds after w2 >= 10 .
+Before t0 >= 12, it is never the case that g0 >= 14 holds.
+Globally, it is always the case that s2 > 0 holds.
+After z2 > 13, it is always the case that if p0 > 4 holds and is succeeded by x2 >= 0, then g0 = 14 eventually holds after x2 >= 0 .
+After g2 >= 11, j2 = 1 eventually holds.
+Between b1 > 1 and y1 < 15, a2 > 10 eventually holds.
+After e1 >= 11 until x1 > 15, it is always the case that if q2 > 5 holds, then u0 < 14 eventually holds and is succeeded by f0 = 6, where b0 <= 4 does not hold between u0 < 14 and f0 = 6 .
+After a2 > 8, it is always the case that if y1 > 6 holds, then e2 = 15 eventually holds and is succeeded by y2 = 13 .
+Before l1 < 11, it is always the case that if j1 > 1 holds, then o2 >= 14 eventually holds.
+After s1 = 2 until l1 >= 10, it is always the case that f2 <= 8 holds.
+Before z0 > 1, it is always the case that if p1 = 11 holds, then e0 < 1 previously held.
+Globally, it is always the case that if s2 >= 13 holds, then d0 >= 13 previously held.
+Before g1 < 7, it is always the case that if h0 <= 3 holds, then r0 = 5 eventually holds and is succeeded by y1 < 4, where u2 < 2 does not hold between r0 = 5 and y1 < 4 .
+Globally, it is always the case that if p1 >= 9 holds and is succeeded by y2 < 4, then y2 < 8 eventually holds after y2 < 4 .
+Between e2 <= 9 and l0 = 3, it is always the case that m0 > 2 holds.
+Between z2 <= 11 and i0 <= 8, it is always the case that if z0 >= 10 holds, then v1 = 14 previously held.
+Globally, it is always the case that if l0 <= 3 holds, then p1 >= 0 eventually holds and is succeeded by l2 <= 0, where f2 < 4 does not hold between p1 >= 0 and l2 <= 0 .
+Globally, it is always the case that if b0 = 2 holds and is succeeded by g0 >= 8, then h1 <= 9 eventually holds after g0 >= 8 .
+After c1 = 6 until r2 > 1, it is always the case that if d2 >= 14 holds, then s1 < 6 previously held.
+Globally, it is always the case that if t0 > 14 holds, then u2 > 15 eventually holds.
+After d1 = 10 until d1 >= 11, it is always the case that if a3 <= 5 holds and is succeeded by s1 > 7, then f0 < 7 previously held.
+After b1 >= 12 until u1 <= 1, it is never the case that y2 > 1 holds.
+Before d1 < 1, it is always the case that if w2 < 8 holds and is succeeded by x2 < 1, then h1 <= 4 previously held.
+Between a3 <= 15 and u0 >= 10, it is always the case that if n2 > 9 holds, then j2 = 11 previously held and was preceded by u0 < 2 .
+After y1 > 12 until n2 > 6, it is always the case that if p2 < 14 holds and is succeeded by z2 <= 13, then d2 >= 8 eventually holds after z2 <= 13 .
+After g1 < 7, it is never the case that q0 <= 15 holds.
+Between x2 >= 7 and a0 < 6, it is always the case that if c0 = 14 holds, then y1 < 9 previously held and was preceded by t1 <= 1 .
+After i0 = 8, it is always the case that if p0 = 9 holds and is succeeded by p1 < 6, then t1 >= 3 eventually holds after p1 < 6 .
+After p2 <= 12, it is always the case that if u1 >= 15 holds, then l2 < 7 eventually holds and is succeeded by q1 <= 4, where b1 < 10 does not hold between l2 < 7 and q1 <= 4 .
+Globally, it is always the case that if a3 > 8 holds, then h1 > 5 previously held.
+Before w1 <= 2, it is never the case that x0 = 0 holds.
+After v1 > 13, it is always the case that if j0 < 4 holds, then i2 = 11 previously held.
+Before m1 >= 10, it is never the case that s0 >= 6 holds.
+Before k0 < 13, it is always the case that if i0 >= 15 holds, then d0 >= 15 eventually holds and is succeeded by x0 <= 4 .
+Between l2 = 1 and v0 < 4, it is always the case that if f2 > 6 holds and is succeeded by f1 <= 13, then x2 < 11 previously held.
+Before l2 < 9, r0 >= 6 eventually holds.
+After a3 > 14, it is never the case that s0 >= 11 holds.
+After r0 > 3, it is never the case that k0 <= 9 holds.
+After w1 >= 3, it is always the case that if n1 < 14 holds, then r2 = 2 eventually holds.
+After z1 = 5, j2 = 9 eventually holds.
+After r0 > 5, it is always the case that if j1 >= 10 holds, then w1 = 12 eventually holds and is succeeded by k1 > 5 .
+After k2 >= 8 until g2 <= 15, it is always the case that if y2 < 13 holds, then o0 < 1 eventually holds and is succeeded by l2 >= 10, where t2 <= 8 does not hold between o0 < 1 and l2 >= 10 .
+Between p0 = 3 and w0 >= 2, it is always the case that if v1 > 15 holds and is succeeded by i2 >= 0, then n2 = 15 previously held.
+After r2 = 2 until w1 < 9, it is always the case that if y2 >= 5 holds and is succeeded by s0 > 13, then w2 > 14 eventually holds after s0 > 13 .
+After g0 >= 14, it is always the case that if t2 = 9 holds, then a2 = 12 previously held and was preceded by g0 <= 0 .
+After y1 > 13 until r2 = 7, it is always the case that if w0 < 11 holds, then k2 < 4 previously held.
+Globally, it is always the case that if e1 >= 6 holds, then y1 > 9 previously held and was preceded by t1 <= 13 .
+Between i0 < 2 and h2 >= 13, t2 <= 8 eventually holds.
+Between n0 <= 6 and z2 > 12, it is never the case that f0 > 8 holds.
+Before l1 <= 10, it is never the case that z2 = 9 holds.
+After g2 < 1, it is never the case that a1 >= 8 holds.
+Globally, it is always the case that i1 < 15 holds.
+Between o2 < 8 and d2 <= 4, it is always the case that if x2 > 12 holds, then q1 < 0 eventually holds and is succeeded by g1 = 8 .
+After u0 >= 11 until i1 = 1, w0 = 4 eventually holds.
+After m1 > 2, it is never the case that a0 < 15 holds.
+Between l2 > 13 and j0 > 10, it is always the case that if h2 >= 5 holds, then x2 >= 0 eventually holds.
+Before b2 >= 4, it is never the case that c0 <= 1 holds.
+Between n2 <= 0 and g0 = 14, it is never the case that f2 < 2 holds.
+Between t1 = 0 and t1 >= 15, it is always the case that if l1 >= 10 holds, then g2 < 1 previously held.
+Between w1 > 7 and x1 > 8, it is always the case that if t0 = 3 holds and is succeeded by b0 = 2, then b1 >= 15 previously held.
+Before h2 = 15, it is always the case that if v0 < 13 holds, then c2 <= 4 eventually holds and is succeeded by p0 <= 6 .
+Globally, it is always the case that if x1 >= 15 holds, then g2 <= 9 eventually holds.
+Globally, w0 < 13 eventually holds.
+Between z2 < 10 and e0 >= 2, it is always the case that if c0 < 1 holds, then e1 < 14 eventually holds and is succeeded by z0 >= 6 .
+Before y1 <= 9, it is always the case that if r0 = 3 holds, then r1 <= 15 previously held.
+Before w2 > 11, it is always the case that if x0 < 4 holds, then e0 < 9 previously held.
+After u0 >= 13, it is always the case that if n2 > 11 holds, then v1 > 9 previously held.
+After m1 >= 5 until z1 <= 12, it is always the case that if y1 >= 10 holds and is succeeded by i1 = 9, then s2 > 15 previously held.
+After i1 < 1 until a2 < 7, it is always the case that if x1 >= 1 holds, then y2 < 15 eventually holds and is succeeded by u2 <= 3 .
+Globally, it is always the case that q0 = 1 holds.
+After d2 < 7 until u1 >= 8, it is always the case that if x2 < 15 holds, then p1 <= 9 previously held and was preceded by r2 < 1 .
+After w1 = 8, it is always the case that if j2 > 10 holds, then y2 <= 3 previously held and was preceded by o2 = 1 .
+After q0 < 6, it is always the case that if z2 <= 13 holds, then i0 > 13 eventually holds and is succeeded by r1 >= 15 .
+After r1 <= 5, it is always the case that if h0 >= 6 holds and is succeeded by y1 >= 2, then t2 < 8 eventually holds after y1 >= 2 .

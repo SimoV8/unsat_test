@@ -1,0 +1,120 @@
+After r0 <= 1 until r0 = 0, it is always the case that if g0 > 2 holds, then e0 >= 1 eventually holds and is succeeded by p0 >= 0 .
+After h0 >= 1 until k0 = 0, it is always the case that o0 = 3 holds.
+Globally, it is always the case that if i0 < 1 holds and is succeeded by m0 >= 3, then k0 = 2 eventually holds after m0 >= 3 .
+Between c0 = 2 and k0 <= 1, it is always the case that if r0 <= 3 holds, then e0 <= 0 eventually holds.
+After l0 < 2 until a0 <= 1, it is always the case that if o0 <= 0 holds, then a0 < 1 eventually holds and is succeeded by e0 > 1, where q0 < 3 does not hold between a0 < 1 and e0 > 1 .
+Before e0 > 1, it is always the case that if k0 < 2 holds, then p0 = 0 previously held.
+After n0 = 1 until r0 = 3, it is always the case that if p0 <= 1 holds, then q0 <= 3 previously held.
+After g0 >= 3 until b0 = 3, g0 >= 2 eventually holds.
+Before j0 >= 0, it is always the case that if f0 <= 3 holds, then r0 > 3 eventually holds and is succeeded by a0 <= 2 .
+After d0 > 3 until f0 = 0, it is always the case that if s0 <= 1 holds, then a0 <= 2 eventually holds and is succeeded by l0 < 0, where n0 >= 0 does not hold between a0 <= 2 and l0 < 0 .
+Before m0 <= 2, it is always the case that if o0 >= 3 holds and is succeeded by b0 > 1, then s0 <= 2 eventually holds after b0 > 1 .
+Globally, it is always the case that if f0 = 3 holds, then h0 <= 1 eventually holds and is succeeded by l0 = 1 .
+After p0 <= 2 until e0 < 2, it is always the case that if n0 < 0 holds, then r0 < 3 previously held.
+After j0 = 0 until g0 >= 1, n0 <= 2 eventually holds.
+Between k0 = 2 and e0 <= 3, it is always the case that if m0 < 3 holds, then i0 < 3 previously held.
+After j0 > 0, it is always the case that if h0 >= 1 holds, then q0 > 3 eventually holds.
+Globally, it is always the case that if i0 > 1 holds, then m0 >= 3 eventually holds and is succeeded by g0 > 0 .
+After p0 >= 1, it is always the case that if c0 >= 2 holds, then l0 = 2 previously held.
+Globally, it is always the case that if e0 >= 1 holds, then c0 < 3 previously held and was preceded by d0 = 0 .
+After k0 < 3 until j0 = 0, g0 > 0 eventually holds.
+After i0 > 1 until q0 >= 2, it is never the case that o0 = 0 holds.
+After j0 < 0, it is always the case that if h0 < 2 holds, then n0 = 0 eventually holds.
+After n0 < 1, it is always the case that if s0 = 1 holds and is succeeded by l0 < 0, then f0 = 0 previously held.
+Globally, it is always the case that if e0 <= 0 holds, then e0 >= 3 previously held and was preceded by f0 < 3 .
+Globally, it is always the case that if p0 <= 3 holds and is succeeded by b0 > 1, then l0 <= 3 previously held.
+After p0 <= 3, it is always the case that if k0 < 1 holds, then c0 <= 1 eventually holds and is succeeded by r0 = 3 .
+Between a0 >= 1 and e0 = 0, it is always the case that l0 = 2 holds.
+After f0 <= 1, g0 >= 0 eventually holds.
+After m0 <= 0 until c0 >= 0, it is always the case that if r0 >= 0 holds, then f0 <= 0 eventually holds.
+Between r0 <= 0 and o0 <= 3, it is always the case that if g0 = 1 holds, then q0 < 2 previously held and was preceded by s0 >= 1 .
+Globally, it is always the case that if b0 < 0 holds, then n0 = 0 eventually holds and is succeeded by s0 = 1, where b0 <= 0 does not hold between n0 = 0 and s0 = 1 .
+Between p0 = 1 and b0 <= 2, r0 < 1 eventually holds.
+Between p0 <= 3 and a0 < 1, it is always the case that if o0 = 3 holds, then e0 = 3 eventually holds and is succeeded by l0 <= 1 .
+Between l0 > 3 and g0 <= 1, it is always the case that if d0 > 0 holds, then n0 < 2 previously held.
+After c0 > 1 until k0 > 0, it is never the case that n0 = 0 holds.
+After g0 >= 0 until g0 >= 3, it is always the case that l0 > 2 holds.
+Globally, it is always the case that b0 > 0 holds.
+Before p0 = 2, it is always the case that if g0 >= 2 holds and is succeeded by e0 = 2, then a0 <= 2 previously held.
+After q0 > 2 until n0 >= 3, it is never the case that e0 = 3 holds.
+After p0 <= 0, a0 < 1 eventually holds.
+After e0 < 3 until d0 > 2, it is always the case that if g0 > 3 holds and is succeeded by n0 < 2, then p0 >= 3 previously held.
+After q0 > 0, it is never the case that l0 > 0 holds.
+After f0 >= 2 until i0 = 3, it is always the case that if j0 > 0 holds and is succeeded by h0 = 1, then e0 < 2 previously held.
+Before k0 < 1, it is never the case that i0 >= 3 holds.
+Between e0 <= 3 and l0 >= 2, it is always the case that if j0 < 3 holds, then p0 >= 0 eventually holds and is succeeded by m0 <= 1, where o0 <= 0 does not hold between p0 >= 0 and m0 <= 1 .
+Globally, it is always the case that if s0 = 1 holds and is succeeded by p0 >= 3, then p0 > 1 eventually holds after p0 >= 3 .
+Between e0 > 2 and b0 < 3, it is always the case that if j0 <= 2 holds and is succeeded by e0 > 2, then j0 < 1 previously held.
+Globally, it is always the case that if f0 <= 3 holds, then d0 >= 0 eventually holds and is succeeded by n0 >= 3, where i0 = 0 does not hold between d0 >= 0 and n0 >= 3 .
+Globally, it is always the case that if h0 <= 1 holds and is succeeded by i0 <= 1, then e0 = 3 previously held.
+Globally, k0 <= 1 eventually holds.
+After h0 < 2 until n0 <= 0, it is always the case that if i0 <= 0 holds and is succeeded by i0 >= 3, then q0 >= 3 previously held.
+After m0 < 0 until j0 <= 0, h0 < 0 eventually holds.
+After d0 < 2 until h0 = 2, it is always the case that if l0 <= 0 holds, then n0 = 2 previously held and was preceded by l0 = 1 .
+Globally, f0 > 2 eventually holds.
+Between p0 < 3 and j0 = 0, it is always the case that if m0 <= 3 holds, then k0 > 0 eventually holds.
+Globally, it is always the case that if i0 = 3 holds, then f0 > 0 eventually holds.
+Between s0 > 0 and o0 > 0, it is always the case that if l0 > 3 holds, then a0 > 0 eventually holds and is succeeded by d0 >= 1 .
+Between f0 <= 0 and o0 = 3, it is always the case that if p0 >= 3 holds and is succeeded by i0 = 3, then e0 = 2 eventually holds after i0 = 3 .
+Before r0 > 0, it is always the case that if r0 = 2 holds and is succeeded by b0 <= 2, then r0 <= 0 eventually holds after b0 <= 2 .
+Before b0 <= 3, j0 >= 0 eventually holds.
+After n0 < 2, it is never the case that k0 = 3 holds.
+Globally, l0 >= 0 eventually holds.
+Globally, it is always the case that if d0 >= 1 holds, then g0 >= 2 previously held.
+Between h0 < 0 and o0 >= 0, it is never the case that k0 >= 0 holds.
+Globally, it is always the case that if m0 >= 3 holds, then c0 < 3 previously held.
+Between c0 > 1 and q0 < 2, it is always the case that if h0 <= 2 holds, then e0 = 2 previously held.
+After j0 = 0, it is always the case that if c0 = 2 holds, then l0 >= 0 eventually holds and is succeeded by b0 < 1, where s0 = 3 does not hold between l0 >= 0 and b0 < 1 .
+Globally, it is always the case that if d0 = 2 holds, then g0 > 2 eventually holds.
+Between d0 >= 2 and p0 < 2, it is always the case that if h0 < 3 holds and is succeeded by l0 <= 1, then p0 = 3 previously held.
+Between f0 > 3 and a0 = 3, it is always the case that if o0 < 3 holds, then s0 < 0 eventually holds and is succeeded by l0 >= 2 .
+Globally, a0 >= 1 eventually holds.
+After l0 >= 1 until m0 > 1, it is never the case that j0 > 3 holds.
+Globally, it is always the case that if p0 >= 3 holds, then l0 < 2 previously held.
+After n0 > 1 until l0 < 1, o0 > 3 eventually holds.
+After h0 <= 1, it is always the case that if p0 < 1 holds and is succeeded by i0 = 3, then f0 > 2 eventually holds after i0 = 3 .
+Between r0 < 0 and c0 < 2, it is always the case that if s0 < 1 holds, then o0 > 2 eventually holds and is succeeded by c0 >= 2, where s0 >= 0 does not hold between o0 > 2 and c0 >= 2 .
+Globally, it is always the case that if h0 <= 2 holds, then g0 >= 3 eventually holds and is succeeded by m0 > 0, where e0 < 0 does not hold between g0 >= 3 and m0 > 0 .
+Globally, it is always the case that e0 <= 0 holds.
+After b0 <= 2 until i0 < 2, it is always the case that d0 <= 0 holds.
+Before p0 < 3, g0 < 3 eventually holds.
+Before c0 > 3, p0 <= 1 eventually holds.
+Globally, it is always the case that o0 < 2 holds.
+After f0 >= 0 until i0 > 3, it is always the case that c0 = 0 holds.
+Before b0 <= 3, it is always the case that k0 = 3 holds.
+Before i0 > 2, it is always the case that if a0 <= 0 holds and is succeeded by m0 > 2, then c0 <= 3 eventually holds after m0 > 2 .
+Between p0 <= 2 and q0 < 2, it is always the case that if o0 <= 1 holds, then p0 <= 2 eventually holds and is succeeded by k0 = 3, where c0 > 3 does not hold between p0 <= 2 and k0 = 3 .
+Between r0 <= 1 and b0 = 1, it is always the case that if k0 = 0 holds, then f0 > 0 previously held.
+Between f0 <= 2 and n0 <= 2, it is always the case that if p0 = 2 holds, then b0 > 3 eventually holds and is succeeded by p0 <= 2 .
+Before l0 >= 0, it is never the case that m0 = 1 holds.
+Before r0 = 1, it is always the case that if f0 = 1 holds, then n0 > 1 previously held and was preceded by b0 > 1 .
+After a0 <= 2 until d0 = 1, it is always the case that if d0 = 1 holds and is succeeded by p0 >= 0, then l0 < 3 eventually holds after p0 >= 0 .
+After i0 >= 2 until m0 < 0, it is always the case that if o0 < 3 holds and is succeeded by g0 <= 0, then f0 >= 1 eventually holds after g0 <= 0 .
+Globally, it is always the case that if r0 > 2 holds, then h0 > 1 eventually holds and is succeeded by d0 <= 2 .
+Before m0 > 1, s0 < 3 eventually holds.
+Before c0 >= 3, it is always the case that if a0 <= 3 holds and is succeeded by m0 > 0, then i0 = 2 eventually holds after m0 > 0 .
+Before e0 = 1, it is always the case that if a0 < 0 holds, then c0 >= 1 previously held and was preceded by i0 >= 3 .
+Between s0 = 0 and j0 = 1, it is never the case that e0 <= 2 holds.
+Before h0 > 1, m0 < 1 eventually holds.
+After h0 >= 1, it is always the case that if g0 <= 0 holds, then g0 > 3 previously held.
+Before o0 = 2, it is never the case that k0 <= 1 holds.
+After e0 > 1, l0 < 2 eventually holds.
+After e0 < 0 until g0 >= 0, it is always the case that if m0 > 2 holds and is succeeded by c0 = 0, then d0 >= 2 eventually holds after c0 = 0 .
+After n0 < 2, it is always the case that if i0 = 2 holds and is succeeded by g0 = 0, then e0 = 3 previously held.
+After n0 < 0 until j0 < 3, it is always the case that d0 > 0 holds.
+Between b0 > 2 and c0 >= 2, k0 >= 0 eventually holds.
+Globally, it is always the case that k0 = 1 holds.
+After l0 < 3 until o0 = 3, it is never the case that a0 = 3 holds.
+After e0 <= 2 until h0 < 1, l0 >= 1 eventually holds.
+After k0 > 3 until o0 = 3, it is always the case that if o0 > 3 holds, then l0 <= 3 eventually holds.
+Before q0 >= 2, it is always the case that if s0 = 2 holds, then g0 <= 1 eventually holds and is succeeded by m0 = 1, where h0 = 1 does not hold between g0 <= 1 and m0 = 1 .
+Between j0 > 1 and s0 >= 2, it is never the case that n0 >= 0 holds.
+Between p0 > 3 and d0 >= 0, it is always the case that if m0 = 1 holds, then n0 < 1 previously held.
+Between f0 <= 3 and g0 <= 2, it is always the case that o0 >= 0 holds.
+Before o0 >= 2, it is always the case that if e0 < 3 holds, then q0 >= 3 eventually holds and is succeeded by k0 < 3, where c0 <= 0 does not hold between q0 >= 3 and k0 < 3 .
+Globally, it is never the case that b0 > 0 holds.
+After k0 <= 1 until s0 = 3, it is always the case that if e0 >= 0 holds, then b0 = 3 previously held and was preceded by g0 > 3 .
+Before b0 >= 0, it is never the case that l0 > 2 holds.
+Between e0 < 0 and l0 = 0, it is always the case that if b0 = 3 holds, then r0 <= 3 eventually holds and is succeeded by i0 <= 2 .
+Before k0 <= 0, it is never the case that d0 = 0 holds.
+After k0 > 3 until s0 <= 2, it is always the case that if e0 <= 2 holds, then e0 <= 2 eventually holds and is succeeded by f0 < 1, where s0 = 3 does not hold between e0 <= 2 and f0 < 1 .

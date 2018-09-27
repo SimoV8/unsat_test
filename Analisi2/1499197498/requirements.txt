@@ -1,0 +1,60 @@
+After d0 >= 4 until h0 > 5, b0 >= 4 eventually holds.
+Before c0 >= 5, it is never the case that b0 > 3 holds.
+Before h0 > 7, e0 = 0 eventually holds.
+After a0 = 0, it is never the case that h0 >= 7 holds.
+Between c0 = 5 and g0 = 3, it is always the case that if g0 = 1 holds, then e0 = 0 eventually holds and is succeeded by g0 > 1 .
+Globally, it is always the case that if h0 > 2 holds and is succeeded by f0 <= 2, then d0 >= 7 eventually holds after f0 <= 2 .
+Before h0 <= 2, it is always the case that if i0 < 0 holds, then c0 = 6 previously held and was preceded by d0 >= 1 .
+Globally, it is always the case that if e0 >= 4 holds, then f0 >= 6 eventually holds and is succeeded by a0 > 1 .
+Before i0 < 1, it is always the case that if h0 < 0 holds, then g0 <= 2 eventually holds and is succeeded by b0 >= 7, where e0 <= 0 does not hold between g0 <= 2 and b0 >= 7 .
+Between e0 >= 2 and e0 > 3, it is always the case that if i0 = 4 holds, then a0 <= 1 previously held and was preceded by d0 < 5 .
+Between f0 < 6 and b0 <= 4, a0 = 7 eventually holds.
+Globally, it is always the case that if g0 > 1 holds, then a0 <= 1 previously held and was preceded by f0 <= 4 .
+After c0 <= 2, it is always the case that if e0 >= 4 holds and is succeeded by g0 > 7, then i0 > 2 eventually holds after g0 > 7 .
+Globally, it is always the case that if i0 > 0 holds and is succeeded by f0 <= 1, then e0 = 2 eventually holds after f0 <= 1 .
+Before b0 >= 3, it is never the case that d0 = 5 holds.
+Between g0 = 0 and a0 = 2, g0 > 6 eventually holds.
+After b0 >= 5, it is always the case that if i0 = 6 holds, then f0 = 4 eventually holds and is succeeded by f0 = 0 .
+Globally, it is always the case that if a0 <= 1 holds, then b0 = 7 previously held.
+After g0 > 4 until h0 > 7, it is always the case that if i0 < 4 holds, then i0 >= 7 previously held.
+Globally, it is always the case that if f0 >= 4 holds, then g0 >= 7 eventually holds.
+After f0 = 4, it is always the case that if e0 >= 0 holds, then e0 > 4 eventually holds.
+After h0 < 7 until b0 = 0, it is always the case that b0 < 4 holds.
+After d0 = 1 until d0 <= 0, c0 < 3 eventually holds.
+Between d0 <= 1 and a0 >= 1, it is always the case that a0 <= 0 holds.
+Between g0 = 0 and h0 < 5, it is always the case that if i0 <= 0 holds and is succeeded by f0 <= 4, then f0 >= 2 eventually holds after f0 <= 4 .
+Globally, it is always the case that if h0 >= 0 holds and is succeeded by g0 > 1, then a0 >= 5 eventually holds after g0 > 1 .
+After g0 = 5 until c0 >= 4, e0 <= 2 eventually holds.
+After d0 < 5 until f0 < 6, it is always the case that if f0 = 6 holds, then i0 >= 3 previously held and was preceded by c0 > 4 .
+After i0 < 3, it is always the case that if g0 < 0 holds and is succeeded by e0 >= 2, then g0 >= 5 previously held.
+After e0 > 2 until a0 < 4, it is never the case that d0 <= 1 holds.
+Between b0 > 7 and a0 <= 7, it is always the case that if h0 < 2 holds, then a0 < 7 eventually holds.
+After d0 >= 1, it is always the case that if c0 >= 5 holds, then b0 <= 6 previously held and was preceded by h0 <= 7 .
+Between f0 = 2 and f0 < 4, it is always the case that if g0 = 3 holds and is succeeded by d0 >= 0, then f0 < 1 previously held.
+Before i0 <= 3, it is always the case that if i0 < 1 holds, then a0 < 0 eventually holds and is succeeded by b0 > 6 .
+Between f0 = 4 and f0 < 2, it is always the case that e0 >= 6 holds.
+Between c0 < 3 and f0 < 6, it is always the case that if g0 <= 5 holds, then h0 < 6 eventually holds and is succeeded by i0 >= 7 .
+Between d0 < 5 and f0 <= 7, it is always the case that if b0 < 0 holds, then h0 < 5 eventually holds.
+Globally, it is always the case that if a0 <= 3 holds, then g0 <= 0 eventually holds and is succeeded by g0 < 7 .
+Globally, it is never the case that h0 = 0 holds.
+After a0 = 2, it is always the case that if a0 < 3 holds and is succeeded by i0 = 2, then e0 > 7 eventually holds after i0 = 2 .
+After i0 > 4, it is always the case that f0 >= 3 holds.
+Before g0 < 6, it is always the case that if b0 >= 2 holds, then a0 = 3 previously held.
+After d0 > 4, it is always the case that if d0 = 3 holds, then g0 = 6 previously held and was preceded by b0 > 4 .
+After c0 >= 2 until f0 <= 5, it is always the case that if g0 >= 4 holds, then d0 > 6 previously held and was preceded by d0 = 1 .
+Between d0 < 5 and i0 < 7, it is always the case that if h0 >= 5 holds, then b0 > 7 eventually holds and is succeeded by i0 < 7, where c0 >= 6 does not hold between b0 > 7 and i0 < 7 .
+Before a0 < 6, it is always the case that if e0 <= 6 holds, then h0 <= 4 eventually holds and is succeeded by g0 < 6, where d0 <= 0 does not hold between h0 <= 4 and g0 < 6 .
+Globally, it is always the case that e0 < 0 holds.
+After a0 >= 2, it is always the case that if c0 = 2 holds, then b0 < 3 eventually holds and is succeeded by f0 = 0, where g0 > 0 does not hold between b0 < 3 and f0 = 0 .
+Between a0 <= 5 and i0 > 4, it is always the case that if a0 > 4 holds and is succeeded by e0 > 4, then f0 <= 3 eventually holds after e0 > 4 .
+Between b0 < 3 and e0 <= 4, it is always the case that if g0 < 0 holds and is succeeded by b0 <= 2, then g0 >= 6 previously held.
+Between i0 = 6 and c0 > 4, it is always the case that if i0 < 6 holds, then e0 < 3 previously held and was preceded by e0 < 2 .
+After g0 > 6, it is always the case that h0 = 4 holds.
+Before d0 < 2, it is always the case that if a0 <= 0 holds, then h0 = 0 eventually holds.
+Between f0 <= 7 and g0 = 1, it is always the case that if d0 < 5 holds, then i0 > 0 eventually holds and is succeeded by i0 >= 6, where g0 >= 2 does not hold between i0 > 0 and i0 >= 6 .
+Between d0 = 2 and e0 > 6, it is always the case that g0 <= 1 holds.
+Between g0 > 0 and i0 < 5, it is always the case that if f0 > 1 holds, then i0 >= 0 eventually holds and is succeeded by f0 > 3, where b0 > 2 does not hold between i0 >= 0 and f0 > 3 .
+Globally, it is always the case that if g0 >= 3 holds, then e0 <= 6 eventually holds.
+Before b0 >= 4, it is always the case that if d0 <= 3 holds and is succeeded by h0 <= 7, then e0 <= 4 previously held.
+After f0 <= 3 until h0 <= 5, it is always the case that if h0 >= 1 holds and is succeeded by c0 > 1, then a0 <= 2 eventually holds after c0 > 1 .
+Globally, it is never the case that g0 < 5 holds.

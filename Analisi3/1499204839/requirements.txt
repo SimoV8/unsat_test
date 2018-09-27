@@ -1,0 +1,960 @@
+After l8 <= 0, it is always the case that if r3 >= 0 holds, then u12 >= 3 previously held.
+Before z10 >= 0, it is always the case that if e21 = 2 holds, then r16 >= 3 eventually holds and is succeeded by w4 > 2 .
+After o24 >= 1 until d7 <= 3, e6 >= 3 eventually holds.
+Between q1 <= 3 and h6 >= 1, h12 <= 2 eventually holds.
+Globally, it is always the case that if u3 > 1 holds, then a14 >= 3 eventually holds.
+After b24 > 0 until n17 = 0, it is always the case that if s22 < 0 holds, then g24 >= 3 eventually holds and is succeeded by n12 >= 3, where d4 < 1 does not hold between g24 >= 3 and n12 >= 3 .
+After g7 < 2, it is always the case that if o15 < 3 holds, then d23 > 2 previously held and was preceded by v2 >= 2 .
+After n12 = 3 until x16 >= 2, it is always the case that d17 = 0 holds.
+Between m23 >= 0 and n3 < 2, it is always the case that if v22 > 1 holds, then c0 >= 3 eventually holds and is succeeded by s19 <= 0, where t15 > 3 does not hold between c0 >= 3 and s19 <= 0 .
+Between q17 > 3 and f5 <= 3, it is never the case that z21 = 1 holds.
+Globally, it is always the case that t23 = 2 holds.
+Before t17 = 0, it is always the case that if t0 = 0 holds and is succeeded by o19 <= 3, then a22 > 2 eventually holds after o19 <= 3 .
+After g21 > 2, it is always the case that if g18 = 3 holds, then h2 >= 2 previously held and was preceded by b22 <= 0 .
+After f3 = 3 until j7 > 1, it is always the case that if x19 <= 1 holds, then v1 < 2 previously held and was preceded by r8 <= 0 .
+Globally, it is always the case that if r5 = 3 holds, then r19 < 0 previously held and was preceded by x8 >= 1 .
+After e11 <= 2 until h3 <= 2, it is always the case that if a15 = 3 holds, then j11 > 3 eventually holds.
+After y9 > 3, it is always the case that if t20 > 2 holds, then b18 > 2 previously held.
+Between d11 >= 3 and f16 = 0, it is always the case that if u14 > 0 holds, then n2 >= 3 eventually holds and is succeeded by p14 <= 3, where v9 = 3 does not hold between n2 >= 3 and p14 <= 3 .
+Before m0 > 3, n13 > 3 eventually holds.
+Globally, it is always the case that if x11 < 0 holds, then j6 <= 2 eventually holds.
+After y13 >= 1 until b1 > 0, it is always the case that if h4 > 1 holds, then d5 >= 3 eventually holds and is succeeded by p8 < 0, where t5 = 1 does not hold between d5 >= 3 and p8 < 0 .
+After a13 < 3, it is always the case that if z17 = 0 holds, then w19 = 3 eventually holds and is succeeded by j12 > 1, where l2 <= 0 does not hold between w19 = 3 and j12 > 1 .
+Globally, it is never the case that q8 <= 1 holds.
+Before w23 > 2, q10 < 0 eventually holds.
+After k24 = 2 until u7 <= 1, it is always the case that if h6 >= 2 holds, then d18 <= 1 eventually holds and is succeeded by m1 > 2 .
+Between g23 <= 1 and d19 <= 3, it is never the case that x1 < 1 holds.
+Globally, it is always the case that j24 = 1 holds.
+Before s1 <= 1, it is always the case that if e1 < 3 holds and is succeeded by h13 >= 1, then a2 < 0 eventually holds after h13 >= 1 .
+After k6 < 3, it is always the case that v1 <= 0 holds.
+After c14 > 2, it is always the case that if f19 > 3 holds, then m21 > 3 eventually holds and is succeeded by b10 > 0, where q22 > 3 does not hold between m21 > 3 and b10 > 0 .
+After c8 <= 2 until g23 = 2, it is always the case that if p3 < 0 holds, then m19 < 0 eventually holds.
+Between q16 <= 2 and n19 >= 3, it is never the case that o14 <= 2 holds.
+Globally, it is never the case that r5 = 3 holds.
+Between v20 >= 2 and s0 >= 3, it is always the case that if r5 > 1 holds, then z11 < 2 eventually holds and is succeeded by r15 >= 2, where v17 < 2 does not hold between z11 < 2 and r15 >= 2 .
+After v8 < 2 until g6 = 0, it is always the case that if o17 > 3 holds and is succeeded by x12 >= 0, then q4 >= 2 previously held.
+After x10 >= 0, it is always the case that if r18 = 0 holds and is succeeded by c4 <= 2, then b10 <= 2 previously held.
+Between i11 < 0 and j22 < 2, it is always the case that if r19 >= 3 holds and is succeeded by s3 >= 3, then f19 < 1 eventually holds after s3 >= 3 .
+Between q22 = 3 and u16 < 0, it is always the case that if u23 < 2 holds, then v22 <= 0 eventually holds and is succeeded by e17 > 1, where s13 < 3 does not hold between v22 <= 0 and e17 > 1 .
+After g24 > 1, it is always the case that if x12 = 3 holds and is succeeded by j7 <= 2, then y19 > 2 eventually holds after j7 <= 2 .
+After u16 <= 0 until w21 >= 3, it is always the case that if c12 >= 1 holds, then m10 < 2 previously held and was preceded by e4 > 1 .
+After h22 < 2, it is always the case that if m12 > 0 holds, then w15 <= 3 previously held.
+After o6 <= 0 until s9 = 3, it is always the case that if s12 > 1 holds, then f16 < 1 eventually holds and is succeeded by w9 = 0, where w17 >= 1 does not hold between f16 < 1 and w9 = 0 .
+After q5 >= 1 until l10 <= 1, it is always the case that r12 > 3 holds.
+After u16 = 2, it is always the case that if d23 = 3 holds, then e17 <= 3 previously held and was preceded by h20 = 0 .
+Before v8 = 3, it is always the case that if c3 <= 1 holds and is succeeded by z2 >= 2, then j1 >= 1 eventually holds after z2 >= 2 .
+Before x18 = 2, it is always the case that if u1 >= 0 holds, then k15 >= 3 eventually holds and is succeeded by s21 = 1, where t8 < 3 does not hold between k15 >= 3 and s21 = 1 .
+Globally, it is always the case that v13 = 2 holds.
+After h16 > 0, it is always the case that if t13 >= 0 holds, then z9 >= 1 eventually holds.
+Before m20 = 3, it is always the case that if c15 < 3 holds, then a2 = 3 eventually holds.
+Before m24 > 1, it is always the case that if r17 > 1 holds, then r19 < 3 eventually holds and is succeeded by x23 > 1 .
+After k23 < 3, it is always the case that if l23 <= 2 holds, then c22 > 1 eventually holds and is succeeded by j15 >= 3, where w7 <= 1 does not hold between c22 > 1 and j15 >= 3 .
+Before p0 = 3, it is never the case that w3 < 2 holds.
+After j19 <= 2, it is always the case that if h8 >= 2 holds and is succeeded by v9 < 0, then d3 = 3 previously held.
+Before j20 = 1, it is always the case that if q1 < 1 holds and is succeeded by l4 > 1, then q7 = 2 eventually holds after l4 > 1 .
+Between a7 > 3 and v2 < 3, it is always the case that if j22 = 3 holds and is succeeded by s21 < 2, then u19 = 0 eventually holds after s21 < 2 .
+Between r2 = 0 and e10 >= 0, it is always the case that if t10 <= 2 holds and is succeeded by s13 = 3, then q23 >= 3 previously held.
+Before f6 <= 3, it is always the case that if j24 <= 1 holds, then z12 < 2 eventually holds and is succeeded by a18 > 3 .
+After p14 <= 0 until e0 >= 3, it is never the case that c21 <= 0 holds.
+After g7 <= 3 until d21 > 2, i24 = 3 eventually holds.
+Before u20 >= 2, it is always the case that if n21 = 0 holds, then a21 <= 2 eventually holds.
+Before f14 >= 3, it is always the case that if h13 > 0 holds, then h18 > 3 previously held.
+Before n24 >= 3, it is always the case that if b4 < 3 holds and is succeeded by w18 <= 3, then f3 > 3 previously held.
+Between e13 > 1 and i17 < 3, it is always the case that if b16 > 3 holds, then p18 > 0 eventually holds and is succeeded by z0 < 1, where o24 >= 1 does not hold between p18 > 0 and z0 < 1 .
+Between q5 >= 0 and n12 < 3, it is always the case that if y6 < 3 holds and is succeeded by j6 <= 0, then a24 = 0 eventually holds after j6 <= 0 .
+After a5 < 3, it is always the case that m10 < 2 holds.
+Globally, it is never the case that v10 = 3 holds.
+Globally, it is always the case that if o9 > 0 holds and is succeeded by d5 < 3, then q13 >= 2 previously held.
+After b17 > 1 until o13 <= 0, it is always the case that if d14 > 3 holds and is succeeded by d20 < 3, then d22 = 0 previously held.
+After y6 < 1, it is always the case that l6 <= 1 holds.
+After q21 > 2 until u17 < 0, it is always the case that if g24 < 0 holds, then r9 = 3 eventually holds.
+Between w18 >= 2 and m4 < 2, it is always the case that if x7 > 3 holds, then q11 = 3 eventually holds and is succeeded by v19 >= 2, where w13 > 3 does not hold between q11 = 3 and v19 >= 2 .
+Before l15 >= 0, it is always the case that if j15 > 1 holds, then g10 < 3 previously held and was preceded by b9 = 1 .
+Globally, it is always the case that if y9 > 3 holds, then r12 > 3 eventually holds and is succeeded by y11 = 3, where e5 > 3 does not hold between r12 > 3 and y11 = 3 .
+Before q19 >= 2, it is always the case that if x15 >= 1 holds, then k0 <= 1 eventually holds.
+After o9 < 1, it is always the case that if j15 = 0 holds and is succeeded by c19 <= 0, then r6 = 2 previously held.
+Before c20 >= 0, it is always the case that if t4 <= 1 holds, then q20 <= 3 eventually holds and is succeeded by j14 <= 0 .
+Before f7 > 1, it is always the case that if d12 = 1 holds, then z3 > 2 eventually holds.
+After e4 >= 2 until w5 >= 0, it is always the case that if y8 > 3 holds and is succeeded by c23 > 3, then c23 < 2 previously held.
+Between v20 < 0 and b20 > 0, it is always the case that if s17 <= 0 holds, then w18 = 2 previously held.
+After k18 = 2, it is always the case that if k18 < 0 holds, then m14 < 1 eventually holds and is succeeded by t22 < 3 .
+Globally, it is never the case that m23 < 2 holds.
+Between l24 < 2 and k23 <= 3, it is always the case that if v4 > 1 holds, then b15 >= 2 previously held and was preceded by v3 < 1 .
+Globally, it is always the case that v0 <= 2 holds.
+Before d4 < 2, d20 > 3 eventually holds.
+Before l22 >= 2, it is always the case that if n0 < 2 holds and is succeeded by x21 < 2, then y23 > 1 previously held.
+After h17 = 0, it is always the case that if o22 = 3 holds and is succeeded by g0 <= 0, then t22 = 0 previously held.
+After x7 < 2 until b8 <= 3, it is always the case that if s8 > 2 holds and is succeeded by e1 = 3, then q13 > 3 previously held.
+After e2 >= 0, it is always the case that if s0 > 1 holds, then v10 <= 0 eventually holds and is succeeded by y18 > 3 .
+After p6 = 3, it is always the case that if h22 >= 0 holds and is succeeded by g0 < 3, then t2 <= 0 eventually holds after g0 < 3 .
+After y17 >= 0, it is always the case that if y0 = 3 holds, then n0 > 0 previously held.
+After r8 = 3, d19 > 3 eventually holds.
+Before y18 = 1, n10 = 3 eventually holds.
+After a9 = 1 until r2 = 3, g11 > 2 eventually holds.
+Before s23 = 0, it is always the case that if i5 <= 1 holds and is succeeded by b6 < 3, then x18 > 1 previously held.
+Between v12 <= 0 and v14 < 0, it is always the case that if e11 < 2 holds, then d2 <= 3 eventually holds and is succeeded by k15 < 1 .
+After a19 >= 0, it is always the case that if a2 >= 0 holds, then c0 <= 3 previously held.
+Before p23 >= 1, it is never the case that d13 <= 3 holds.
+After x23 < 3 until x10 > 2, it is always the case that if j1 = 0 holds, then e5 <= 1 eventually holds and is succeeded by g3 > 1, where x0 > 1 does not hold between e5 <= 1 and g3 > 1 .
+Before o17 = 0, it is always the case that if e7 >= 3 holds and is succeeded by e22 > 3, then n13 < 0 eventually holds after e22 > 3 .
+Globally, it is always the case that if t13 = 0 holds, then z16 >= 1 previously held.
+Before e19 >= 3, it is always the case that if z20 >= 0 holds, then d16 <= 3 eventually holds and is succeeded by i17 >= 2 .
+Between c3 >= 2 and d23 > 1, it is always the case that if i17 >= 0 holds, then l9 < 3 previously held.
+After g7 = 2, it is always the case that if f14 < 1 holds and is succeeded by t16 <= 0, then d15 >= 0 previously held.
+After o11 >= 2 until s18 = 2, it is always the case that if p15 >= 0 holds, then k16 > 1 eventually holds.
+After c17 <= 1, it is never the case that m9 < 2 holds.
+Globally, it is always the case that if g23 <= 2 holds, then c15 < 3 previously held and was preceded by h11 < 2 .
+After n3 >= 2 until h13 <= 2, it is always the case that s5 <= 0 holds.
+Between e0 >= 2 and q21 >= 2, it is always the case that if p20 < 0 holds and is succeeded by w8 <= 2, then g17 = 3 previously held.
+After b6 = 1 until b15 = 3, it is always the case that if l22 = 3 holds, then k1 >= 1 eventually holds and is succeeded by w15 = 2 .
+Globally, it is always the case that if g2 > 1 holds, then j18 <= 0 eventually holds and is succeeded by e20 >= 0 .
+Between s14 > 0 and i10 > 2, it is never the case that l9 >= 1 holds.
+After u22 > 2, it is always the case that if v13 = 0 holds, then t5 > 1 previously held and was preceded by v12 > 0 .
+Globally, it is always the case that if d24 < 3 holds, then s8 >= 1 eventually holds and is succeeded by d13 = 3 .
+Before p3 >= 2, it is always the case that if c5 >= 2 holds, then l15 <= 2 eventually holds.
+Globally, it is always the case that if g17 >= 2 holds, then t0 <= 0 eventually holds and is succeeded by h0 < 0, where c18 < 1 does not hold between t0 <= 0 and h0 < 0 .
+After u19 >= 1, it is never the case that r16 >= 0 holds.
+After j10 > 3 until s23 <= 0, it is always the case that if k14 >= 2 holds, then k16 <= 0 eventually holds and is succeeded by p2 <= 3, where m8 < 2 does not hold between k16 <= 0 and p2 <= 3 .
+Before v5 <= 0, it is always the case that if t4 < 0 holds and is succeeded by a13 >= 1, then q17 < 2 eventually holds after a13 >= 1 .
+Before x13 < 2, it is always the case that if f14 >= 1 holds, then n16 < 3 eventually holds.
+Between i14 < 1 and s8 > 3, it is always the case that if d22 = 3 holds, then m9 > 0 previously held and was preceded by q7 < 0 .
+Before z18 = 3, it is always the case that if f11 > 0 holds and is succeeded by u12 = 0, then a18 >= 3 eventually holds after u12 = 0 .
+After f18 >= 0 until i20 > 2, it is always the case that t0 > 3 holds.
+Before w3 > 3, it is always the case that if r0 < 3 holds, then q13 <= 3 eventually holds.
+Between t0 >= 3 and v18 > 0, it is always the case that if h15 < 2 holds, then m23 >= 0 previously held.
+Globally, it is always the case that if s15 > 3 holds, then g4 < 1 previously held and was preceded by v0 <= 1 .
+Before l17 <= 2, it is always the case that if z4 > 2 holds, then b15 > 1 previously held and was preceded by v22 > 2 .
+After b0 < 0, it is always the case that if n24 < 1 holds, then m4 > 0 eventually holds and is succeeded by m19 < 1 .
+After d23 = 0, it is always the case that if t21 > 2 holds, then k4 = 0 previously held.
+Between f4 <= 2 and q19 > 1, it is always the case that if m13 = 1 holds, then z12 >= 3 previously held.
+After b3 <= 1 until r3 = 2, it is always the case that if i17 < 3 holds and is succeeded by z9 < 1, then n0 >= 1 eventually holds after z9 < 1 .
+After s2 = 1 until h11 < 3, it is always the case that k22 < 1 holds.
+Before m9 = 2, it is always the case that if b11 >= 0 holds, then t3 = 2 eventually holds and is succeeded by w6 = 0, where v19 < 0 does not hold between t3 = 2 and w6 = 0 .
+After h24 = 0 until r14 >= 2, v10 > 0 eventually holds.
+Globally, it is always the case that if u3 < 2 holds, then n12 = 2 eventually holds and is succeeded by t6 <= 3 .
+Before e5 < 1, it is always the case that if c5 > 3 holds and is succeeded by z5 <= 3, then j5 <= 3 eventually holds after z5 <= 3 .
+Before z3 > 0, it is always the case that j22 <= 2 holds.
+Globally, it is always the case that if f23 <= 0 holds, then z8 = 3 eventually holds and is succeeded by h17 > 0 .
+After z17 >= 2 until h4 >= 0, it is always the case that o6 <= 0 holds.
+After r10 >= 3 until x9 > 1, it is always the case that if r20 >= 0 holds, then j21 < 2 previously held and was preceded by d20 < 2 .
+After u11 <= 3 until w15 = 3, it is always the case that if t3 >= 3 holds, then q14 > 1 previously held.
+After c15 = 0, it is always the case that if r4 >= 1 holds, then h13 = 1 eventually holds.
+After c10 <= 2 until a9 = 1, it is never the case that x15 <= 2 holds.
+After a17 <= 2, t6 > 1 eventually holds.
+Globally, it is always the case that if q20 = 1 holds, then u1 > 0 previously held and was preceded by i9 <= 0 .
+After t13 > 0, it is always the case that if i21 < 2 holds, then u0 >= 3 previously held.
+Before b7 < 1, it is always the case that k4 <= 0 holds.
+After n14 < 0, it is always the case that i7 > 2 holds.
+Before q18 < 3, k4 > 2 eventually holds.
+Between i17 < 0 and u19 >= 2, s19 >= 2 eventually holds.
+After a23 = 0 until f2 = 2, it is always the case that if f9 > 1 holds, then m19 <= 3 previously held.
+Globally, it is always the case that if s17 = 2 holds, then s22 = 3 eventually holds and is succeeded by r20 < 2 .
+After i3 = 0 until p10 > 2, it is always the case that if k5 > 3 holds, then o24 >= 1 eventually holds and is succeeded by p18 = 1, where z21 <= 2 does not hold between o24 >= 1 and p18 = 1 .
+After d4 >= 1 until x13 >= 3, x1 >= 2 eventually holds.
+Before m0 >= 1, it is always the case that if v22 = 1 holds, then b13 < 0 eventually holds and is succeeded by v23 > 2, where q13 > 2 does not hold between b13 < 0 and v23 > 2 .
+Globally, c3 >= 3 eventually holds.
+Between l22 = 3 and s17 < 1, it is always the case that if g20 = 2 holds, then x16 > 3 previously held and was preceded by d18 <= 0 .
+Between t20 <= 2 and q17 >= 0, it is always the case that if o9 >= 0 holds and is succeeded by r18 < 0, then c15 <= 3 previously held.
+After n22 >= 0 until g14 = 1, it is always the case that if u6 < 3 holds, then o16 < 3 eventually holds.
+After c13 > 2 until x12 >= 2, it is never the case that q6 < 2 holds.
+Globally, it is always the case that if x16 >= 3 holds, then j14 < 1 previously held and was preceded by s21 < 3 .
+After p6 = 2 until i21 = 3, it is always the case that if n7 >= 1 holds, then k21 = 2 previously held.
+After y21 = 3, it is always the case that if x3 <= 3 holds and is succeeded by x7 < 3, then k17 < 1 previously held.
+After n0 < 0, it is always the case that if w15 <= 0 holds, then v6 <= 3 previously held.
+Between t22 = 1 and l8 = 2, it is always the case that if z1 < 2 holds and is succeeded by b5 >= 2, then z1 >= 2 eventually holds after b5 >= 2 .
+After c22 > 2 until d20 <= 1, it is always the case that if b21 < 0 holds, then m22 > 3 eventually holds and is succeeded by t23 <= 1, where s21 = 3 does not hold between m22 > 3 and t23 <= 1 .
+After j19 > 0, it is always the case that y2 >= 3 holds.
+After s5 < 2, it is always the case that if j16 >= 2 holds, then h7 <= 1 eventually holds and is succeeded by m7 > 1 .
+Between d7 = 0 and f21 <= 2, it is always the case that if m7 < 3 holds, then x19 = 0 eventually holds.
+Between v0 <= 1 and v7 = 0, it is always the case that if i11 >= 3 holds, then c6 = 2 eventually holds and is succeeded by z6 = 3 .
+Before a23 = 0, it is never the case that t21 > 2 holds.
+Between u16 = 0 and n9 <= 1, it is always the case that if r14 = 2 holds and is succeeded by n1 <= 0, then q10 >= 0 eventually holds after n1 <= 0 .
+After u21 <= 0 until a3 <= 0, it is always the case that if i7 > 3 holds, then b0 < 1 previously held and was preceded by c17 < 0 .
+Globally, it is always the case that if j10 <= 0 holds, then h4 < 2 previously held.
+After p15 >= 3, it is always the case that if n17 = 2 holds, then l10 < 0 previously held.
+After c11 < 2 until a22 = 1, it is always the case that if c21 < 1 holds and is succeeded by s4 < 3, then v1 = 3 previously held.
+After q15 <= 1 until o10 < 3, it is always the case that if q13 >= 3 holds, then l6 <= 1 previously held.
+Between s17 >= 2 and g16 = 3, p22 < 0 eventually holds.
+Before d18 = 0, it is always the case that if x20 < 0 holds, then s0 >= 0 previously held.
+After h15 > 3, it is always the case that if z18 <= 2 holds and is succeeded by h17 = 3, then u16 >= 2 eventually holds after h17 = 3 .
+Between y10 > 2 and c2 <= 2, it is never the case that y21 = 1 holds.
+Globally, it is never the case that o0 > 1 holds.
+After e13 > 3 until m20 <= 2, it is always the case that if b6 = 1 holds, then a18 <= 2 previously held and was preceded by g24 >= 2 .
+Between k18 < 3 and o11 >= 2, it is never the case that j9 <= 1 holds.
+Between t9 > 1 and v6 < 2, it is always the case that if e17 <= 2 holds, then d3 = 1 eventually holds.
+Before k22 < 1, it is always the case that if p3 < 2 holds, then f17 >= 0 eventually holds.
+Between i15 <= 2 and e16 >= 1, it is always the case that if l0 <= 0 holds, then g14 = 3 previously held.
+Between w11 < 1 and h24 < 1, m12 > 0 eventually holds.
+Between h4 >= 3 and y18 <= 1, it is always the case that d3 = 3 holds.
+Before o23 = 2, it is always the case that if v4 < 2 holds, then i13 < 2 eventually holds.
+Before y8 = 2, it is always the case that if x3 = 2 holds, then c3 <= 1 previously held.
+After a11 > 1, it is always the case that w9 > 3 holds.
+Globally, it is always the case that if k9 < 1 holds and is succeeded by b7 <= 1, then c9 < 3 eventually holds after b7 <= 1 .
+Globally, it is always the case that if b10 > 3 holds and is succeeded by i1 <= 3, then z11 < 3 eventually holds after i1 <= 3 .
+Before c6 < 0, it is always the case that if z17 = 2 holds and is succeeded by j3 < 3, then h9 < 1 eventually holds after j3 < 3 .
+After x1 <= 0, it is always the case that if d5 = 1 holds, then x7 = 3 eventually holds.
+Before b14 <= 2, a21 <= 1 eventually holds.
+Before o20 <= 0, it is always the case that if n10 = 0 holds, then p21 > 3 previously held.
+After n20 = 1 until k3 >= 3, it is always the case that if c0 >= 1 holds, then o1 = 3 previously held and was preceded by o11 <= 0 .
+Before f23 = 3, n23 = 1 eventually holds.
+Between p14 <= 0 and h8 > 1, it is always the case that if o15 >= 0 holds, then y16 <= 2 eventually holds and is succeeded by n21 > 3, where d21 >= 3 does not hold between y16 <= 2 and n21 > 3 .
+After c2 = 3 until q14 <= 2, it is always the case that x20 >= 2 holds.
+After l8 = 2, it is always the case that if n24 < 1 holds, then k2 < 3 previously held.
+Before x10 > 0, it is always the case that c12 = 0 holds.
+Before l6 < 2, it is always the case that if x5 = 3 holds, then w19 = 2 eventually holds.
+Globally, it is always the case that if l20 < 3 holds and is succeeded by m1 >= 0, then u9 >= 3 previously held.
+Before h10 < 1, it is always the case that if t9 = 2 holds, then u18 < 2 eventually holds and is succeeded by k6 < 0 .
+Before i11 <= 3, it is always the case that if g4 < 0 holds, then u1 >= 2 previously held.
+Between g5 > 1 and i11 <= 0, it is always the case that if f0 = 0 holds and is succeeded by b3 = 0, then s2 <= 2 previously held.
+After x16 = 1 until f22 <= 2, it is always the case that if q5 = 1 holds and is succeeded by z5 <= 3, then u8 = 3 previously held.
+After j10 = 0 until c2 > 3, it is always the case that if x3 < 3 holds, then c12 >= 1 previously held.
+Globally, it is always the case that if n5 < 0 holds, then z16 = 0 eventually holds and is succeeded by g23 >= 3 .
+Globally, it is always the case that if i13 >= 2 holds, then d5 = 0 eventually holds and is succeeded by q0 < 2 .
+Globally, f21 <= 3 eventually holds.
+Globally, it is always the case that if z1 = 1 holds, then i6 = 1 previously held and was preceded by s10 > 0 .
+Between n2 < 0 and g9 = 1, it is always the case that if j7 >= 3 holds, then o20 = 2 previously held and was preceded by k11 = 0 .
+Between w15 >= 1 and x4 < 0, n8 <= 1 eventually holds.
+Between u21 > 1 and d6 = 3, l19 >= 3 eventually holds.
+After i12 >= 2, it is always the case that if z12 < 2 holds, then z4 <= 0 eventually holds and is succeeded by s20 > 3, where x6 >= 3 does not hold between z4 <= 0 and s20 > 3 .
+Between r1 >= 0 and i2 >= 1, it is never the case that h8 > 0 holds.
+After m17 >= 1 until g1 > 3, it is always the case that if l13 >= 1 holds and is succeeded by f1 <= 2, then z3 > 1 previously held.
+Between n3 <= 0 and h6 = 1, it is always the case that if j10 > 3 holds and is succeeded by d11 <= 1, then s13 = 2 previously held.
+Between x21 <= 0 and w23 >= 1, it is always the case that if f8 >= 2 holds, then i14 > 0 previously held and was preceded by g5 = 0 .
+After k9 >= 2, it is always the case that if n21 = 3 holds, then e1 > 1 previously held and was preceded by u10 >= 3 .
+Before p18 < 3, it is always the case that if r17 <= 0 holds, then f0 > 2 eventually holds.
+Globally, it is always the case that if k6 > 1 holds, then s15 = 1 previously held.
+After y1 > 2, it is always the case that if g9 < 2 holds, then n21 > 0 eventually holds.
+After l11 >= 3 until v12 <= 2, it is always the case that d16 = 0 holds.
+After y17 <= 0 until e18 < 3, it is never the case that w12 <= 2 holds.
+Before p13 >= 2, it is always the case that if p15 <= 0 holds, then k0 > 2 previously held.
+Before w21 <= 3, it is always the case that if k1 >= 3 holds, then g21 >= 3 eventually holds.
+Before f1 >= 0, it is never the case that q19 >= 0 holds.
+After t11 > 0, it is always the case that if c17 <= 3 holds, then a1 < 2 previously held.
+Before m13 >= 0, m8 <= 1 eventually holds.
+After n23 = 0 until h8 < 1, it is always the case that if q16 >= 2 holds, then s11 >= 3 previously held and was preceded by d17 <= 2 .
+After r1 < 2 until e10 >= 0, s14 > 1 eventually holds.
+After w5 > 3, it is always the case that if k2 > 1 holds and is succeeded by r14 > 1, then v8 <= 1 previously held.
+Globally, n23 < 1 eventually holds.
+Globally, it is always the case that if p12 >= 3 holds, then k15 >= 1 previously held.
+Before v8 > 2, it is always the case that if r9 > 0 holds and is succeeded by l0 >= 1, then r6 > 1 eventually holds after l0 >= 1 .
+Between l7 < 0 and g20 < 2, it is always the case that if y8 = 2 holds and is succeeded by q6 < 0, then p0 > 3 previously held.
+Globally, it is always the case that if c6 < 0 holds, then y19 < 3 previously held.
+Between k5 > 2 and s1 <= 0, it is always the case that if y23 > 2 holds and is succeeded by a5 > 1, then b20 = 0 eventually holds after a5 > 1 .
+After v3 = 3 until m9 < 1, it is always the case that g13 >= 0 holds.
+After q1 < 0, it is always the case that if r10 <= 3 holds, then x13 = 2 eventually holds and is succeeded by o9 >= 0, where j2 <= 0 does not hold between x13 = 2 and o9 >= 0 .
+Before c22 = 0, it is always the case that if g22 > 3 holds, then c21 = 0 eventually holds and is succeeded by f14 < 0, where w2 < 2 does not hold between c21 = 0 and f14 < 0 .
+After n7 < 2, it is always the case that if y16 <= 0 holds and is succeeded by b22 < 2, then u10 > 0 previously held.
+After n9 >= 2 until s0 = 2, it is always the case that if n18 >= 3 holds, then l6 = 0 eventually holds and is succeeded by t6 > 3 .
+Globally, it is always the case that if g21 < 0 holds, then d2 >= 0 eventually holds and is succeeded by d13 >= 1 .
+Between y4 = 0 and p19 <= 1, u1 < 2 eventually holds.
+Before g11 > 0, it is never the case that p17 = 0 holds.
+Globally, it is always the case that if d10 < 0 holds, then t1 <= 2 eventually holds and is succeeded by b6 <= 1, where d14 = 2 does not hold between t1 <= 2 and b6 <= 1 .
+After u22 >= 1 until u19 < 2, it is always the case that if u21 >= 0 holds, then m14 <= 2 previously held.
+Globally, it is always the case that n6 > 2 holds.
+After f22 = 2, it is always the case that if e0 < 0 holds, then p21 < 0 previously held.
+After k19 <= 1, it is always the case that if z12 <= 2 holds, then m9 = 3 previously held and was preceded by s19 <= 0 .
+After i24 >= 3, it is always the case that c23 < 3 holds.
+Between q2 > 2 and v7 < 1, it is always the case that if p4 < 0 holds, then p20 = 1 eventually holds and is succeeded by e2 >= 2, where m11 <= 3 does not hold between p20 = 1 and e2 >= 2 .
+Before w6 > 1, it is always the case that if c7 < 0 holds, then e24 < 1 previously held and was preceded by h12 >= 1 .
+Globally, it is always the case that if r7 < 0 holds, then g3 >= 1 eventually holds.
+Between j22 <= 3 and c1 < 2, it is always the case that if e5 = 0 holds, then d0 = 1 eventually holds.
+After r21 >= 3 until r20 >= 1, it is always the case that if b3 < 3 holds, then v0 >= 2 previously held.
+After j3 > 1, it is never the case that j12 <= 1 holds.
+Globally, it is never the case that r3 <= 2 holds.
+Between c6 = 0 and g13 < 2, it is always the case that if d5 = 3 holds and is succeeded by g2 < 3, then g23 = 3 eventually holds after g2 < 3 .
+Between d7 < 3 and v5 > 2, it is always the case that if p16 > 2 holds and is succeeded by l17 < 2, then x0 > 2 previously held.
+Globally, it is always the case that if n2 <= 1 holds, then i11 <= 1 eventually holds.
+Between p12 < 0 and w20 >= 2, it is always the case that if t18 = 2 holds, then l0 <= 0 eventually holds and is succeeded by i18 < 1, where y0 = 1 does not hold between l0 <= 0 and i18 < 1 .
+Between x3 >= 1 and q20 <= 3, it is always the case that if m1 < 0 holds and is succeeded by t16 = 1, then r18 = 2 previously held.
+After b9 > 2 until o8 <= 2, it is always the case that g3 = 3 holds.
+After o17 = 3, it is always the case that if j19 > 0 holds, then t12 < 3 eventually holds and is succeeded by a19 > 0, where v6 = 2 does not hold between t12 < 3 and a19 > 0 .
+After j19 <= 3, it is always the case that if j13 >= 2 holds, then x12 <= 0 eventually holds.
+After e24 = 0 until s7 >= 3, it is always the case that if p3 = 2 holds, then r12 >= 3 previously held.
+Globally, it is always the case that if r20 >= 0 holds and is succeeded by m23 < 1, then u19 >= 2 eventually holds after m23 < 1 .
+Between q15 >= 1 and v11 >= 3, it is always the case that if g1 <= 1 holds and is succeeded by h20 <= 0, then j20 = 1 eventually holds after h20 <= 0 .
+After d7 < 2 until l21 >= 0, it is always the case that if x0 > 0 holds, then d0 <= 3 eventually holds.
+Between o4 > 3 and v3 >= 1, it is always the case that if g19 < 1 holds, then g8 = 2 eventually holds.
+Before x1 > 2, it is always the case that if x21 = 2 holds, then z21 >= 3 previously held and was preceded by y6 < 2 .
+Before i0 > 2, it is always the case that if a6 >= 0 holds and is succeeded by t22 <= 2, then k4 = 0 eventually holds after t22 <= 2 .
+Globally, it is never the case that o0 <= 2 holds.
+After t6 > 0 until u3 >= 2, it is always the case that if j16 = 1 holds, then n12 >= 3 eventually holds and is succeeded by k7 > 3, where k17 <= 3 does not hold between n12 >= 3 and k7 > 3 .
+After b14 >= 3, it is never the case that m11 <= 3 holds.
+After j5 < 0 until k15 = 0, it is always the case that if v17 < 3 holds, then f5 = 0 previously held.
+Before f10 = 3, it is always the case that w13 <= 3 holds.
+After v9 < 0 until m6 > 2, t2 = 3 eventually holds.
+After q6 = 2, n23 < 0 eventually holds.
+Between j18 > 1 and f2 > 3, it is always the case that if k8 = 0 holds, then r21 <= 0 eventually holds.
+Between t14 > 3 and q10 = 2, it is always the case that if d10 >= 2 holds, then v6 < 1 previously held and was preceded by k11 >= 2 .
+Between q5 < 3 and v19 < 1, it is always the case that if s19 = 3 holds, then a23 >= 0 previously held.
+Before d5 > 0, it is always the case that if k5 > 0 holds, then w8 <= 0 previously held and was preceded by g9 < 1 .
+After j17 = 1, it is always the case that if f16 <= 2 holds, then u10 > 3 eventually holds.
+After x18 = 1, it is always the case that if n8 > 0 holds and is succeeded by f12 = 0, then l3 >= 2 eventually holds after f12 = 0 .
+After a6 >= 3, it is always the case that if q20 = 0 holds, then j3 >= 2 previously held.
+Globally, it is always the case that if w23 <= 1 holds, then j5 >= 1 previously held and was preceded by i1 < 2 .
+After y17 < 0 until z9 <= 1, it is always the case that if n20 = 3 holds and is succeeded by x4 = 0, then i19 > 2 eventually holds after x4 = 0 .
+Globally, it is always the case that if b7 < 0 holds and is succeeded by r9 > 3, then u0 = 0 eventually holds after r9 > 3 .
+After x4 >= 2 until m7 < 2, n9 < 0 eventually holds.
+Before t23 <= 2, it is never the case that p22 >= 0 holds.
+After b9 < 0 until a13 = 1, it is never the case that h4 < 1 holds.
+Globally, it is always the case that if w20 <= 1 holds, then m12 < 2 previously held.
+Between k3 > 1 and b6 < 1, it is always the case that if f0 = 1 holds and is succeeded by w12 >= 3, then w15 <= 3 previously held.
+Globally, it is always the case that if i8 <= 0 holds and is succeeded by b19 <= 2, then s21 >= 1 eventually holds after b19 <= 2 .
+After s12 > 0 until k11 > 2, it is always the case that if c9 <= 0 holds, then f7 < 2 eventually holds and is succeeded by s0 > 0 .
+Before o22 >= 2, it is always the case that if b22 >= 1 holds, then b17 > 1 previously held.
+After o1 = 0, it is always the case that if d18 <= 1 holds and is succeeded by u10 <= 2, then m23 >= 2 previously held.
+Before k12 >= 3, it is always the case that if u6 > 3 holds, then h6 > 2 eventually holds.
+After l11 <= 2 until d5 >= 2, it is always the case that if x21 < 0 holds, then y1 < 0 eventually holds.
+After c0 < 2, it is always the case that if g0 >= 3 holds, then s17 >= 0 eventually holds and is succeeded by y9 >= 2, where c16 <= 3 does not hold between s17 >= 0 and y9 >= 2 .
+Globally, it is always the case that if m21 < 1 holds, then k14 = 0 previously held and was preceded by i12 = 3 .
+Globally, it is always the case that if t13 < 0 holds, then e1 >= 0 previously held.
+Before l21 = 0, it is always the case that y13 <= 3 holds.
+After c8 >= 0 until w14 > 1, it is never the case that a8 > 2 holds.
+Between r6 >= 1 and w19 = 2, it is always the case that if g6 <= 2 holds, then i18 > 3 eventually holds and is succeeded by r23 < 0 .
+Between n13 <= 1 and q13 < 2, h13 < 1 eventually holds.
+After e13 < 2 until v8 > 1, d20 < 1 eventually holds.
+After s13 < 2, it is always the case that j4 > 3 holds.
+After b13 <= 2, b23 > 2 eventually holds.
+After g10 = 1, it is always the case that if p4 <= 1 holds, then a4 > 3 previously held and was preceded by s11 = 3 .
+Between g2 < 3 and i11 < 0, it is always the case that if a0 >= 0 holds and is succeeded by n3 = 3, then i18 < 0 previously held.
+Before d18 = 1, it is always the case that if i4 <= 3 holds, then o0 <= 2 eventually holds and is succeeded by u20 < 0 .
+After q9 > 3, it is always the case that if z2 <= 0 holds, then q9 <= 0 eventually holds and is succeeded by z15 >= 1, where v10 < 0 does not hold between q9 <= 0 and z15 >= 1 .
+Between f8 >= 1 and p22 < 0, it is always the case that if u3 >= 0 holds, then c17 = 1 previously held and was preceded by h6 >= 0 .
+After v23 = 1 until c24 <= 1, it is always the case that if y9 <= 1 holds and is succeeded by l6 > 1, then h19 = 2 previously held.
+Between l9 <= 1 and k20 < 0, it is always the case that if s4 > 0 holds, then c2 >= 0 eventually holds and is succeeded by a22 = 0 .
+Before d0 >= 3, it is always the case that if v19 > 3 holds, then b11 > 3 eventually holds and is succeeded by z3 = 3, where a15 = 2 does not hold between b11 > 3 and z3 = 3 .
+Globally, it is never the case that u12 < 2 holds.
+Between a18 <= 2 and n14 = 3, it is always the case that if l12 = 3 holds, then z13 > 2 eventually holds and is succeeded by l2 < 2 .
+Between v10 < 1 and k0 = 2, it is always the case that if y22 = 2 holds, then j5 = 3 previously held and was preceded by a5 = 3 .
+Between y20 = 3 and b10 > 2, it is always the case that if o22 = 3 holds and is succeeded by m7 > 2, then f0 > 2 eventually holds after m7 > 2 .
+After x2 > 0, q14 = 1 eventually holds.
+Before o6 >= 1, it is always the case that if d8 < 0 holds, then b22 >= 2 previously held and was preceded by y17 <= 1 .
+Before t15 < 0, it is never the case that a0 = 3 holds.
+Before z7 >= 0, it is always the case that if k4 >= 1 holds and is succeeded by w4 <= 1, then z22 = 0 previously held.
+After p22 <= 0, it is always the case that if n4 >= 0 holds, then z15 < 2 eventually holds.
+Globally, it is always the case that if h12 = 1 holds, then u7 <= 3 eventually holds and is succeeded by c24 >= 3, where x3 >= 1 does not hold between u7 <= 3 and c24 >= 3 .
+Before k9 < 1, it is always the case that x21 <= 3 holds.
+After p7 >= 2 until y8 = 2, it is always the case that t2 < 1 holds.
+Before u23 > 0, it is always the case that if a20 > 1 holds, then n23 > 3 eventually holds.
+After y17 <= 1, it is always the case that if z5 < 0 holds, then o0 <= 2 eventually holds.
+After w9 <= 1 until g2 > 3, it is always the case that if x2 > 0 holds, then u1 < 3 eventually holds and is succeeded by s1 < 2 .
+After f7 < 2 until n22 = 0, it is always the case that if y7 <= 2 holds, then v4 <= 3 eventually holds.
+Globally, it is always the case that if n9 < 1 holds, then w16 >= 3 eventually holds.
+After a9 <= 2, it is always the case that if a3 = 1 holds, then q22 = 0 previously held and was preceded by n17 >= 3 .
+Globally, r11 >= 2 eventually holds.
+After g23 < 2, it is always the case that if j2 >= 2 holds, then e18 > 1 previously held.
+After b15 < 2, it is always the case that if o24 < 3 holds and is succeeded by s7 < 0, then w0 = 1 previously held.
+Between u6 > 3 and d21 < 2, it is always the case that if o14 < 0 holds and is succeeded by i2 > 2, then d17 >= 2 previously held.
+Between k21 <= 0 and o1 = 3, it is always the case that v10 >= 2 holds.
+Before a23 >= 0, it is always the case that if k5 >= 2 holds, then n21 = 3 eventually holds.
+Globally, it is never the case that l12 = 2 holds.
+Before h0 = 2, it is always the case that if v19 = 3 holds, then c12 <= 0 eventually holds.
+Before v1 = 1, m21 < 0 eventually holds.
+After y23 > 0, it is always the case that b23 < 0 holds.
+After a10 <= 2 until x7 < 0, it is always the case that if y11 <= 2 holds and is succeeded by f19 >= 1, then w7 = 3 previously held.
+After y19 = 0 until m1 < 0, it is always the case that if n11 >= 0 holds and is succeeded by z16 >= 3, then a10 = 1 eventually holds after z16 >= 3 .
+After l22 = 2, it is always the case that if r18 < 0 holds and is succeeded by t21 >= 3, then x23 = 1 eventually holds after t21 >= 3 .
+Before m20 > 1, it is always the case that if y16 = 3 holds and is succeeded by j1 > 0, then n24 >= 0 eventually holds after j1 > 0 .
+Between g21 >= 3 and v3 > 0, it is always the case that if v7 = 2 holds and is succeeded by s22 >= 0, then t5 = 3 eventually holds after s22 >= 0 .
+Globally, it is always the case that if h5 = 2 holds, then s1 > 0 eventually holds and is succeeded by a21 >= 1, where m1 < 2 does not hold between s1 > 0 and a21 >= 1 .
+After d19 <= 1 until v9 < 3, it is always the case that if m21 = 1 holds, then z8 >= 0 previously held.
+After j18 = 2 until c21 >= 2, h4 = 0 eventually holds.
+Globally, it is always the case that if u23 < 3 holds, then v11 = 1 previously held.
+Globally, it is always the case that if w14 <= 2 holds, then g14 < 0 eventually holds and is succeeded by b1 = 1, where u7 > 3 does not hold between g14 < 0 and b1 = 1 .
+Between m11 < 3 and f24 >= 1, it is always the case that if o14 <= 2 holds and is succeeded by l21 >= 2, then n5 <= 1 previously held.
+Between o2 < 2 and p21 > 1, it is always the case that if c10 > 1 holds, then b12 > 2 eventually holds.
+After c15 < 2 until c5 >= 1, it is always the case that if a13 <= 1 holds, then f4 = 1 previously held and was preceded by v2 = 0 .
+Between y23 <= 3 and h23 = 1, it is always the case that m10 > 0 holds.
+Before v12 <= 0, it is never the case that c21 < 0 holds.
+After o9 <= 0 until y22 = 2, it is always the case that if m1 <= 1 holds, then h6 < 0 eventually holds and is succeeded by c8 >= 2, where b7 <= 3 does not hold between h6 < 0 and c8 >= 2 .
+Globally, it is always the case that if c11 < 0 holds and is succeeded by z10 = 3, then q7 = 3 previously held.
+Before o15 <= 2, it is always the case that if e13 > 1 holds, then z22 = 2 eventually holds and is succeeded by y0 = 3 .
+After a17 = 3 until q17 > 1, d9 = 3 eventually holds.
+Between m0 = 3 and t4 <= 3, it is always the case that if y10 < 0 holds, then f19 <= 1 eventually holds and is succeeded by z0 < 1 .
+Between o24 > 0 and u10 < 0, it is always the case that if l13 = 0 holds and is succeeded by u1 >= 0, then e7 <= 0 eventually holds after u1 >= 0 .
+After r14 <= 2 until r19 > 3, it is always the case that if t19 > 3 holds and is succeeded by s12 > 1, then k1 > 1 previously held.
+After y13 <= 2, it is always the case that if r5 = 0 holds, then k14 <= 3 previously held and was preceded by d12 < 1 .
+After t0 > 3 until w10 >= 3, it is always the case that if w13 = 3 holds, then h5 <= 0 eventually holds and is succeeded by e6 < 3 .
+Between f20 = 1 and m20 = 2, it is always the case that z18 = 1 holds.
+Globally, it is always the case that if w22 >= 3 holds and is succeeded by a2 = 2, then u18 > 3 eventually holds after a2 = 2 .
+After c14 = 2, it is always the case that if w22 = 2 holds, then a23 <= 1 eventually holds.
+Globally, it is always the case that if x19 < 3 holds, then f20 <= 1 eventually holds and is succeeded by r16 >= 2, where q8 > 0 does not hold between f20 <= 1 and r16 >= 2 .
+After y9 < 2, it is always the case that if x12 <= 2 holds, then e18 >= 2 eventually holds.
+After a2 = 2 until p20 >= 0, it is always the case that if m18 < 0 holds, then m11 <= 3 previously held.
+Before m19 <= 2, it is always the case that if n11 < 3 holds, then z0 = 1 previously held and was preceded by s14 < 0 .
+Globally, it is always the case that if s6 >= 1 holds, then w10 >= 0 previously held.
+Between n4 < 1 and z19 < 2, it is always the case that if i21 < 3 holds and is succeeded by f21 > 3, then n12 < 2 eventually holds after f21 > 3 .
+Globally, it is always the case that if z4 > 3 holds, then o11 < 1 eventually holds.
+Before k6 < 3, it is always the case that if r6 = 0 holds, then x2 < 1 previously held.
+Globally, it is always the case that if x2 = 2 holds, then l7 > 0 previously held and was preceded by j24 <= 2 .
+Before s22 >= 2, t5 < 2 eventually holds.
+After d8 = 2 until f12 <= 0, it is always the case that if j17 >= 0 holds, then i8 < 2 eventually holds.
+After h0 < 2, it is always the case that f16 < 2 holds.
+Before x16 <= 1, it is always the case that if d13 < 1 holds, then s19 >= 2 eventually holds and is succeeded by q11 <= 2 .
+After b16 <= 1, o23 >= 0 eventually holds.
+Globally, it is always the case that u3 = 1 holds.
+Globally, it is always the case that if e0 <= 1 holds, then g1 < 2 eventually holds.
+After h12 < 2 until a7 = 2, a17 = 0 eventually holds.
+Between r7 = 2 and l24 < 1, it is always the case that if r12 <= 2 holds, then m16 >= 0 eventually holds and is succeeded by j5 >= 3, where q18 >= 0 does not hold between m16 >= 0 and j5 >= 3 .
+Between a23 > 0 and v1 < 0, it is always the case that n1 <= 3 holds.
+Globally, w14 >= 0 eventually holds.
+After h13 < 3 until g20 > 0, it is always the case that if g21 <= 1 holds and is succeeded by t2 < 2, then l20 < 1 eventually holds after t2 < 2 .
+After d15 >= 3 until o4 = 1, it is always the case that b21 >= 2 holds.
+After i12 >= 2, it is always the case that g11 >= 1 holds.
+After n17 < 1, it is always the case that if n16 = 3 holds, then k8 <= 2 previously held.
+Globally, it is always the case that if t13 <= 3 holds, then f1 < 2 eventually holds.
+After w14 > 0 until h17 = 3, it is always the case that if x22 > 2 holds and is succeeded by z23 > 2, then a10 < 0 eventually holds after z23 > 2 .
+Before d2 <= 0, it is always the case that if c19 > 2 holds and is succeeded by a17 > 2, then e0 <= 0 eventually holds after a17 > 2 .
+After e4 <= 3, a23 > 3 eventually holds.
+Before g17 > 3, it is always the case that e16 > 3 holds.
+Between o22 = 3 and f15 > 0, it is always the case that if r7 > 1 holds, then w6 >= 3 previously held.
+Between l3 <= 2 and f0 = 2, it is always the case that if o9 < 3 holds and is succeeded by k20 = 1, then i15 >= 3 eventually holds after k20 = 1 .
+After l11 = 3 until i12 > 0, it is always the case that if r14 >= 1 holds, then q3 <= 2 eventually holds and is succeeded by q9 < 0 .
+Between y17 <= 3 and n12 = 3, b23 >= 1 eventually holds.
+Between c3 >= 2 and v7 < 1, it is always the case that if s18 < 2 holds and is succeeded by k14 > 3, then v10 < 3 previously held.
+Before v0 > 1, it is always the case that if f11 >= 2 holds, then d6 >= 2 previously held.
+Globally, it is always the case that if m15 >= 3 holds, then v18 >= 0 eventually holds and is succeeded by i20 <= 1, where i5 = 1 does not hold between v18 >= 0 and i20 <= 1 .
+Between j15 > 0 and o9 < 1, it is always the case that if x17 < 3 holds and is succeeded by o13 < 0, then d23 >= 3 eventually holds after o13 < 0 .
+After l11 = 1, it is always the case that if c14 >= 2 holds, then u22 = 0 eventually holds and is succeeded by q17 < 3, where h17 > 2 does not hold between u22 = 0 and q17 < 3 .
+Between l17 = 3 and u20 > 1, it is always the case that if h7 >= 0 holds, then s12 < 2 eventually holds.
+After l24 <= 3, it is always the case that if v18 > 0 holds, then k13 < 2 previously held and was preceded by s9 = 1 .
+After c16 < 0 until h10 = 0, it is always the case that if r12 >= 3 holds, then s23 = 2 previously held and was preceded by g12 >= 0 .
+Globally, it is always the case that if r3 <= 2 holds, then p13 < 3 eventually holds and is succeeded by y21 >= 3 .
+After y20 <= 3 until q18 < 1, it is always the case that if m13 < 1 holds, then a6 <= 2 previously held.
+After x8 <= 1 until n0 < 0, it is always the case that if s16 > 3 holds, then h20 <= 1 eventually holds.
+Between e13 >= 1 and k12 > 0, it is always the case that f9 <= 0 holds.
+Before y0 <= 0, it is always the case that if f11 = 1 holds, then g12 < 3 eventually holds and is succeeded by e21 = 3, where q8 <= 1 does not hold between g12 < 3 and e21 = 3 .
+After z3 < 2, w21 > 3 eventually holds.
+Globally, it is always the case that if s13 < 2 holds, then c18 = 1 eventually holds.
+After y12 <= 0 until w7 < 2, it is always the case that if g14 >= 0 holds and is succeeded by i4 < 1, then t4 < 1 eventually holds after i4 < 1 .
+After p16 >= 1, j19 > 2 eventually holds.
+Globally, it is always the case that if o0 = 0 holds, then g13 < 1 eventually holds.
+After f5 < 3 until x11 <= 1, it is always the case that if p4 < 2 holds, then w12 > 0 previously held and was preceded by h20 < 0 .
+Before q12 > 1, it is always the case that if w22 >= 0 holds, then j7 <= 1 eventually holds and is succeeded by e1 >= 0, where l12 > 2 does not hold between j7 <= 1 and e1 >= 0 .
+Globally, it is always the case that if w1 > 1 holds and is succeeded by x18 > 1, then o19 = 0 previously held.
+After m0 >= 3 until y5 <= 1, it is always the case that if a14 >= 0 holds, then n2 = 0 previously held.
+After f14 = 1, p19 <= 0 eventually holds.
+After b4 >= 1 until n3 >= 1, it is always the case that if t16 = 3 holds, then h17 >= 3 previously held.
+Between u20 >= 1 and f23 > 3, it is never the case that p11 >= 2 holds.
+Between w17 >= 2 and w23 < 1, it is always the case that if x21 > 3 holds, then d8 >= 1 eventually holds and is succeeded by l14 = 2 .
+Globally, it is always the case that if d13 < 2 holds, then h1 = 2 eventually holds and is succeeded by o13 < 0, where j4 = 1 does not hold between h1 = 2 and o13 < 0 .
+Globally, it is always the case that if a13 <= 2 holds and is succeeded by t16 > 1, then s14 < 1 previously held.
+After x9 <= 3 until b8 <= 3, v18 <= 0 eventually holds.
+Before d5 <= 3, it is always the case that s5 > 1 holds.
+After g14 <= 2, it is always the case that if k16 >= 2 holds, then z15 = 1 eventually holds and is succeeded by a4 <= 2 .
+After k18 < 3 until o13 = 3, d5 < 2 eventually holds.
+Before r15 = 1, it is always the case that v6 > 3 holds.
+After u20 = 1 until x11 = 1, it is always the case that if o19 = 3 holds, then h0 <= 3 previously held and was preceded by j24 >= 0 .
+Between b13 = 0 and n17 < 3, it is always the case that if j24 >= 3 holds and is succeeded by k13 > 2, then g12 = 3 eventually holds after k13 > 2 .
+Globally, it is always the case that if v1 = 3 holds, then t13 >= 0 previously held and was preceded by o7 = 1 .
+Globally, it is always the case that m8 = 1 holds.
+After i7 >= 0 until h8 >= 3, it is always the case that if n17 = 1 holds, then z18 < 2 previously held and was preceded by e5 <= 2 .
+Before z17 <= 3, it is always the case that if e19 = 0 holds, then q21 = 1 previously held.
+Between c18 <= 2 and m1 >= 1, it is always the case that if k8 >= 2 holds and is succeeded by y1 = 2, then q8 <= 1 previously held.
+Before o18 >= 2, it is always the case that if l10 > 0 holds and is succeeded by m20 <= 0, then a23 = 0 previously held.
+Between z5 > 3 and s20 = 2, it is always the case that if l22 <= 3 holds, then o2 <= 0 previously held and was preceded by i1 < 3 .
+After m1 <= 1, it is always the case that if x16 <= 2 holds, then s7 < 1 eventually holds.
+After k0 = 3, it is never the case that q11 < 0 holds.
+Globally, it is always the case that if j5 >= 3 holds, then w7 <= 1 previously held and was preceded by x1 = 2 .
+Globally, it is never the case that i7 > 0 holds.
+Before c24 >= 0, u23 = 2 eventually holds.
+Between v17 < 3 and c19 = 2, it is always the case that if g1 = 0 holds, then v22 >= 3 previously held and was preceded by w18 < 2 .
+Between x22 >= 0 and j16 < 1, it is never the case that b2 > 1 holds.
+Before f7 < 3, it is always the case that if p11 <= 2 holds, then h23 <= 2 eventually holds and is succeeded by s10 <= 0 .
+Globally, it is always the case that if x21 > 2 holds and is succeeded by l14 > 3, then s14 < 2 previously held.
+After r5 < 3 until z12 <= 3, it is always the case that if f0 > 2 holds, then k19 <= 2 eventually holds and is succeeded by t5 > 3, where e21 >= 2 does not hold between k19 <= 2 and t5 > 3 .
+After e12 <= 3 until h20 > 0, x15 <= 3 eventually holds.
+Between i11 > 1 and x13 <= 1, it is always the case that if d1 > 2 holds, then n10 >= 0 previously held.
+After q8 > 2, it is always the case that if i7 = 2 holds, then v15 = 0 eventually holds and is succeeded by b12 >= 0 .
+After g1 > 2, it is always the case that if e1 >= 2 holds, then e19 >= 0 eventually holds and is succeeded by b11 >= 2 .
+Between u14 = 0 and z20 > 2, it is always the case that if m9 <= 2 holds, then q8 <= 1 eventually holds and is succeeded by r3 < 1 .
+Between s3 = 3 and i8 = 3, it is always the case that if m10 < 2 holds and is succeeded by j17 = 2, then p3 <= 1 eventually holds after j17 = 2 .
+After w16 > 3 until g0 <= 0, it is always the case that if h21 <= 2 holds and is succeeded by n14 >= 1, then n10 >= 3 eventually holds after n14 >= 1 .
+After w13 < 3, it is always the case that if o21 = 1 holds and is succeeded by y2 < 2, then s1 = 0 eventually holds after y2 < 2 .
+After d5 < 0 until k19 > 2, it is never the case that w18 = 3 holds.
+Before k8 >= 1, it is always the case that if g24 <= 1 holds, then x1 > 3 previously held and was preceded by x15 > 0 .
+Before t20 >= 0, it is never the case that l5 <= 3 holds.
+Between v4 >= 0 and a11 <= 3, it is always the case that z10 = 2 holds.
+Before l16 < 1, it is always the case that if g17 <= 1 holds, then j16 = 2 previously held.
+Before o6 > 2, w23 < 3 eventually holds.
+Before e11 <= 2, it is always the case that r3 = 1 holds.
+Between w17 >= 0 and y18 = 2, it is always the case that u15 < 2 holds.
+Before f7 < 3, it is always the case that if g9 < 3 holds, then d3 = 0 previously held and was preceded by x16 <= 1 .
+After z6 < 3 until k8 > 2, it is always the case that if i10 >= 1 holds, then b24 = 0 eventually holds and is succeeded by d21 < 0 .
+Between w8 >= 0 and i7 <= 3, it is always the case that if q13 <= 2 holds, then z2 = 3 eventually holds and is succeeded by c8 = 3, where i16 < 1 does not hold between z2 = 3 and c8 = 3 .
+Between n9 > 2 and y5 <= 1, it is always the case that if t10 > 1 holds, then t5 = 1 eventually holds and is succeeded by l16 < 0 .
+After t12 <= 0 until y7 < 2, it is always the case that if d0 > 3 holds, then v10 < 1 previously held and was preceded by c23 < 3 .
+Between o11 > 3 and f14 < 3, it is always the case that if f4 > 3 holds and is succeeded by e18 < 3, then w18 <= 3 eventually holds after e18 < 3 .
+After s21 >= 0, it is always the case that if r17 <= 0 holds, then w20 >= 0 eventually holds and is succeeded by w2 < 0 .
+Before k9 >= 1, it is always the case that if y8 >= 3 holds, then t23 >= 2 eventually holds and is succeeded by z21 <= 2 .
+Before s18 < 2, it is always the case that if w23 = 2 holds and is succeeded by e7 > 0, then p3 > 3 previously held.
+Globally, it is always the case that if k18 = 0 holds, then o17 = 2 eventually holds and is succeeded by m8 > 0, where v6 >= 1 does not hold between o17 = 2 and m8 > 0 .
+Globally, it is always the case that if y15 < 0 holds, then q5 <= 2 previously held and was preceded by k3 > 1 .
+Before x12 <= 2, it is always the case that if r4 = 1 holds, then c22 = 2 previously held.
+Between x16 > 2 and d10 < 2, it is always the case that if f9 >= 1 holds, then f10 = 3 eventually holds.
+Between j8 < 3 and n0 > 2, it is always the case that if q5 = 3 holds and is succeeded by z6 < 2, then j9 <= 0 eventually holds after z6 < 2 .
+Before q16 = 1, it is always the case that if o21 > 3 holds, then g16 > 3 eventually holds and is succeeded by l20 = 1, where b23 = 3 does not hold between g16 > 3 and l20 = 1 .
+After l21 < 1, it is never the case that k14 >= 1 holds.
+Before b20 = 3, it is always the case that if i18 > 3 holds and is succeeded by k15 <= 1, then z10 > 0 eventually holds after k15 <= 1 .
+Before c12 < 0, it is always the case that if v10 = 3 holds and is succeeded by i10 < 2, then q16 <= 1 previously held.
+After r20 = 2, it is always the case that if p4 = 1 holds, then a22 <= 0 eventually holds.
+After c12 > 2 until v9 >= 1, it is always the case that if w14 = 1 holds, then z15 <= 2 eventually holds.
+Between v8 = 3 and e16 <= 3, it is always the case that if x9 >= 3 holds and is succeeded by s4 > 2, then l23 = 2 previously held.
+Between v9 < 2 and q4 = 3, it is always the case that if n3 > 3 holds, then c21 > 3 previously held and was preceded by a15 <= 2 .
+After h16 >= 3 until x0 < 0, it is always the case that if k1 <= 0 holds, then t5 > 1 previously held.
+Globally, it is always the case that if z13 > 0 holds and is succeeded by k15 <= 3, then f19 < 3 eventually holds after k15 <= 3 .
+After p22 > 3, it is always the case that if n24 = 2 holds and is succeeded by w20 >= 1, then o21 > 2 eventually holds after w20 >= 1 .
+Before h0 < 1, it is always the case that if g14 >= 3 holds, then g13 = 3 eventually holds and is succeeded by q14 = 2, where r18 > 2 does not hold between g13 = 3 and q14 = 2 .
+Globally, it is always the case that if g11 > 1 holds, then m7 > 2 eventually holds and is succeeded by s9 < 0, where h12 > 3 does not hold between m7 > 2 and s9 < 0 .
+Between m15 > 0 and g2 <= 2, o13 >= 0 eventually holds.
+Globally, it is never the case that z1 < 3 holds.
+Before w7 > 1, it is always the case that if r22 < 1 holds, then x22 <= 2 eventually holds and is succeeded by d17 = 2 .
+After x7 > 0 until q9 > 2, g4 <= 1 eventually holds.
+After g21 > 3 until n11 <= 1, it is always the case that if s15 < 1 holds, then u7 <= 1 eventually holds and is succeeded by t16 < 2 .
+Between b20 >= 0 and p0 <= 1, it is always the case that if p18 > 2 holds and is succeeded by c13 >= 3, then t8 > 0 previously held.
+After j10 < 3, it is always the case that if s12 > 0 holds and is succeeded by l0 <= 3, then x21 < 3 eventually holds after l0 <= 3 .
+After i3 > 0, it is always the case that if e8 < 1 holds, then f2 > 2 eventually holds and is succeeded by w3 <= 2 .
+Between h0 >= 3 and b17 < 3, it is always the case that if m20 <= 3 holds, then d1 < 3 eventually holds and is succeeded by s8 < 1 .
+Globally, z10 >= 1 eventually holds.
+After k16 > 1 until u8 >= 3, it is never the case that w18 = 0 holds.
+After m5 <= 1, it is always the case that if r11 <= 3 holds, then s10 >= 0 previously held.
+Globally, it is always the case that if k19 >= 3 holds, then k22 > 0 previously held and was preceded by f21 <= 2 .
+Globally, it is always the case that if p12 < 1 holds, then a16 > 2 eventually holds and is succeeded by w6 = 0, where o9 > 1 does not hold between a16 > 2 and w6 = 0 .
+Before k0 <= 2, it is always the case that if q23 >= 1 holds, then s1 > 1 eventually holds and is succeeded by w3 > 3, where m22 <= 2 does not hold between s1 > 1 and w3 > 3 .
+Before s9 = 0, it is always the case that if e14 <= 1 holds, then a22 > 0 previously held and was preceded by a23 = 1 .
+Before z18 <= 2, it is always the case that if m24 = 0 holds and is succeeded by q16 < 3, then c11 <= 1 eventually holds after q16 < 3 .
+Between w17 >= 1 and q16 <= 0, it is always the case that if a23 <= 3 holds, then w4 > 3 previously held and was preceded by i12 <= 2 .
+Between z1 <= 1 and s5 >= 1, it is always the case that if g23 <= 1 holds, then y5 < 0 previously held.
+Before o18 >= 3, it is always the case that if n3 <= 3 holds and is succeeded by f14 < 3, then x2 >= 1 previously held.
+Before l20 = 0, it is always the case that if f12 <= 2 holds, then a9 < 0 previously held and was preceded by e16 < 2 .
+After n8 > 1 until r13 >= 3, m0 >= 3 eventually holds.
+Between k6 <= 1 and s1 > 2, it is always the case that if o1 >= 0 holds, then v17 <= 0 previously held.
+Between p20 < 1 and x3 <= 1, it is always the case that if o14 > 3 holds, then m20 < 1 eventually holds.
+Between z11 >= 2 and f19 > 3, it is always the case that h1 < 3 holds.
+Between p7 >= 0 and w13 >= 1, it is always the case that if w6 <= 0 holds, then q15 < 3 previously held and was preceded by k16 < 0 .
+Globally, it is always the case that if d0 > 1 holds, then o4 > 0 eventually holds and is succeeded by j5 < 3 .
+After h11 <= 1, e18 > 0 eventually holds.
+After r9 < 3 until y11 > 3, it is always the case that if s6 <= 2 holds and is succeeded by f18 <= 3, then e10 = 1 previously held.
+Globally, it is always the case that k21 > 1 holds.
+Before l22 <= 3, it is always the case that if w20 > 0 holds, then l10 = 1 previously held and was preceded by l23 = 0 .
+Globally, it is always the case that if n20 <= 1 holds, then l10 > 3 previously held and was preceded by z11 > 1 .
+Between z4 = 0 and y22 > 1, f7 >= 0 eventually holds.
+Globally, it is always the case that if z5 > 3 holds, then k20 >= 2 eventually holds.
+Before a3 = 0, it is never the case that i4 = 0 holds.
+Between a6 >= 2 and d13 < 3, it is always the case that if c23 >= 1 holds and is succeeded by y13 < 3, then d8 <= 2 previously held.
+Globally, it is always the case that if j0 >= 0 holds, then t7 <= 0 eventually holds and is succeeded by u15 = 3 .
+Between y2 = 2 and d22 <= 0, j5 <= 2 eventually holds.
+After h3 >= 2, t5 < 3 eventually holds.
+Before f8 >= 2, q12 > 1 eventually holds.
+Globally, it is never the case that x22 < 1 holds.
+Between r17 <= 3 and r18 >= 0, it is always the case that if q4 <= 2 holds, then k18 = 3 previously held and was preceded by z19 = 0 .
+After h12 = 1 until n0 > 3, it is always the case that if r7 > 1 holds and is succeeded by q16 < 1, then r5 >= 0 previously held.
+After h22 > 0, it is always the case that if o8 < 3 holds and is succeeded by k0 < 3, then h14 = 2 eventually holds after k0 < 3 .
+After g2 = 0 until e6 >= 3, it is never the case that f5 < 2 holds.
+Before o9 <= 0, it is always the case that if l17 <= 1 holds, then y20 < 3 eventually holds and is succeeded by m10 <= 1 .
+Before e14 = 2, it is always the case that x10 <= 3 holds.
+Globally, it is never the case that e18 > 0 holds.
+After v12 > 1 until d24 > 3, it is always the case that if w8 = 3 holds, then r0 >= 1 eventually holds and is succeeded by s4 > 3 .
+Before v5 <= 3, it is always the case that if j3 < 1 holds, then o0 = 0 previously held.
+After j24 < 1, it is always the case that if p15 < 2 holds, then q14 >= 0 previously held.
+After v2 <= 1, it is always the case that if y14 > 3 holds, then e20 > 2 eventually holds.
+Between c9 > 1 and v19 = 3, it is always the case that if b10 < 1 holds and is succeeded by t15 < 1, then t0 <= 3 previously held.
+After j3 = 1 until b23 <= 3, it is always the case that if r13 = 1 holds and is succeeded by v3 >= 0, then k15 < 1 eventually holds after v3 >= 0 .
+Before k1 > 0, it is always the case that if t21 < 2 holds and is succeeded by g3 > 2, then w20 >= 2 previously held.
+After q22 >= 2 until a8 < 2, it is always the case that if t18 = 3 holds, then k9 <= 0 eventually holds and is succeeded by b7 = 3, where l15 <= 1 does not hold between k9 <= 0 and b7 = 3 .
+After c10 > 2 until z17 < 2, it is always the case that if p17 < 0 holds, then f14 > 2 eventually holds.
+Before b7 > 3, it is always the case that if b19 < 1 holds and is succeeded by h4 >= 0, then j3 = 1 eventually holds after h4 >= 0 .
+Before y1 > 2, it is never the case that j9 > 0 holds.
+Globally, it is always the case that if w23 <= 3 holds, then b24 <= 2 previously held.
+Before r1 = 1, it is always the case that if e19 < 0 holds, then t23 = 2 previously held and was preceded by g1 = 0 .
+Between h23 > 2 and x15 < 2, it is always the case that if x9 < 1 holds, then y6 = 1 eventually holds and is succeeded by l24 > 3, where w1 >= 0 does not hold between y6 = 1 and l24 > 3 .
+After d1 <= 3 until v0 = 0, it is always the case that if p11 < 0 holds, then b16 > 0 eventually holds and is succeeded by s14 >= 0, where r20 > 2 does not hold between b16 > 0 and s14 >= 0 .
+Globally, it is always the case that if d3 > 0 holds, then r4 < 0 previously held and was preceded by b20 >= 2 .
+Between b8 > 2 and j17 = 3, it is always the case that if b10 <= 1 holds and is succeeded by g9 > 3, then d6 = 2 previously held.
+After a24 <= 2, it is always the case that b0 <= 2 holds.
+Before g6 < 1, it is always the case that if v20 >= 2 holds, then x1 >= 2 previously held.
+Between q18 <= 3 and x14 <= 0, it is never the case that h15 <= 0 holds.
+After f1 < 1, it is always the case that if f19 < 0 holds and is succeeded by p23 < 0, then d9 >= 3 previously held.
+After g15 < 0 until v9 > 2, it is always the case that if i15 = 3 holds and is succeeded by d9 > 1, then i5 <= 1 eventually holds after d9 > 1 .
+Globally, it is always the case that if s7 <= 0 holds, then x17 <= 2 eventually holds.
+After r22 > 1 until k13 > 1, e3 > 1 eventually holds.
+Before w7 >= 0, it is always the case that if d22 > 3 holds and is succeeded by r18 = 2, then z15 = 3 previously held.
+After o1 >= 2, it is always the case that if z12 < 0 holds, then p10 < 1 eventually holds.
+After q20 > 2, it is always the case that if i21 < 3 holds, then n9 > 2 previously held and was preceded by a14 = 0 .
+Between l17 = 3 and w22 > 0, it is always the case that if h6 <= 1 holds, then t17 <= 2 previously held and was preceded by r1 >= 1 .
+Between p19 >= 3 and y1 > 1, it is always the case that if l10 = 2 holds, then i8 <= 1 eventually holds and is succeeded by w9 < 2, where r10 <= 0 does not hold between i8 <= 1 and w9 < 2 .
+Globally, it is always the case that if h22 >= 2 holds and is succeeded by a12 > 1, then i21 >= 1 eventually holds after a12 > 1 .
+After a17 = 1 until k0 = 2, u22 <= 3 eventually holds.
+After f24 > 2, it is always the case that if w13 = 3 holds, then o11 < 3 eventually holds.
+Between n24 > 2 and x17 > 0, it is always the case that if g7 >= 1 holds and is succeeded by e10 < 2, then o4 > 1 previously held.
+Before y18 > 2, i16 >= 2 eventually holds.
+Globally, it is always the case that if a19 > 0 holds, then i13 >= 3 previously held and was preceded by p8 < 3 .
+Globally, it is always the case that if v1 <= 0 holds and is succeeded by r19 >= 0, then m12 > 2 eventually holds after r19 >= 0 .
+Globally, it is never the case that k10 < 3 holds.
+After u22 <= 3, e6 < 2 eventually holds.
+Between y16 < 3 and v9 < 1, it is always the case that if g16 >= 0 holds, then q0 > 0 eventually holds and is succeeded by c13 <= 1 .
+After b20 >= 3, it is always the case that if t12 > 0 holds and is succeeded by d6 = 1, then a8 > 3 previously held.
+Before t23 > 3, it is always the case that if y18 < 2 holds and is succeeded by f6 = 0, then t8 <= 3 previously held.
+After q10 < 3, it is always the case that if l19 >= 2 holds, then d18 > 0 previously held.
+Before a24 <= 1, it is always the case that if n19 = 0 holds and is succeeded by y1 = 0, then r15 < 3 previously held.
+After a16 > 3, it is always the case that if o4 <= 2 holds, then r8 <= 2 eventually holds and is succeeded by l23 <= 2 .
+After s7 > 0, it is always the case that s18 > 1 holds.
+Before o9 < 3, it is always the case that if t0 <= 0 holds, then l19 < 3 previously held.
+After h2 <= 3 until h5 < 1, it is always the case that if b0 > 3 holds, then h22 > 3 previously held and was preceded by p21 = 3 .
+After p7 >= 1, it is always the case that w0 <= 3 holds.
+After i8 = 1 until n7 <= 3, it is never the case that n20 > 3 holds.
+After a16 > 1 until r18 = 0, it is always the case that if h8 > 3 holds, then z0 >= 3 eventually holds and is succeeded by e7 >= 1 .
+Between p6 >= 1 and q22 > 1, d20 > 0 eventually holds.
+Globally, it is always the case that if k1 = 3 holds and is succeeded by w0 >= 3, then j18 >= 0 eventually holds after w0 >= 3 .
+Between u20 >= 1 and m14 <= 0, it is never the case that t19 = 3 holds.
+Globally, it is always the case that if t18 <= 1 holds, then h9 <= 2 eventually holds.
+Between v6 >= 2 and r13 = 0, it is always the case that if l22 < 0 holds, then o12 = 1 eventually holds and is succeeded by l20 > 2, where m24 > 0 does not hold between o12 = 1 and l20 > 2 .
+Between c5 <= 0 and s8 > 1, i16 >= 1 eventually holds.
+Before b14 >= 0, it is never the case that b18 > 0 holds.
+Before u13 <= 0, it is always the case that if r23 = 3 holds, then n20 < 0 eventually holds and is succeeded by f6 = 1 .
+Before b17 >= 0, it is always the case that if q9 > 0 holds, then u4 > 2 eventually holds and is succeeded by o18 <= 1 .
+After f7 >= 3, it is always the case that o14 <= 3 holds.
+After i0 >= 2 until m16 >= 2, it is always the case that if u12 < 0 holds, then y4 = 0 eventually holds.
+Globally, it is always the case that if p20 < 1 holds, then w11 < 0 eventually holds and is succeeded by x0 > 0 .
+After p22 < 3 until x7 = 2, it is always the case that if q23 < 2 holds, then r13 < 0 eventually holds.
+Before k0 <= 0, it is always the case that if r4 >= 3 holds, then g8 > 1 eventually holds and is succeeded by z4 = 0, where x2 > 3 does not hold between g8 > 1 and z4 = 0 .
+After v5 = 1 until y11 >= 0, m24 > 1 eventually holds.
+After z21 >= 1, it is never the case that q18 > 2 holds.
+Before s17 < 0, it is always the case that if x8 > 3 holds, then g3 > 1 eventually holds and is succeeded by b1 > 3 .
+After b9 > 1 until p17 >= 1, it is always the case that if c19 = 0 holds, then p0 > 1 eventually holds and is succeeded by s2 = 2, where f3 > 3 does not hold between p0 > 1 and s2 = 2 .
+After u2 < 3, it is always the case that i13 >= 1 holds.
+Before w12 > 2, it is never the case that g13 <= 2 holds.
+Before d21 > 3, it is always the case that if d6 = 3 holds, then a2 <= 3 eventually holds and is succeeded by l9 = 3, where j3 > 0 does not hold between a2 <= 3 and l9 = 3 .
+Globally, it is always the case that if n5 < 2 holds, then l7 > 1 eventually holds.
+Globally, it is always the case that if g10 < 1 holds, then e3 >= 3 eventually holds and is succeeded by h1 <= 3, where a21 = 0 does not hold between e3 >= 3 and h1 <= 3 .
+After d7 <= 0, it is always the case that if d14 <= 3 holds and is succeeded by n8 > 3, then g6 <= 1 eventually holds after n8 > 3 .
+Globally, e13 = 3 eventually holds.
+After d8 > 3, it is always the case that if t1 <= 3 holds, then o19 > 2 eventually holds.
+After f19 = 2 until w11 = 0, it is always the case that if g14 <= 0 holds and is succeeded by e8 >= 3, then u1 < 1 previously held.
+Between a11 < 3 and h19 = 2, it is always the case that if g10 <= 0 holds, then l11 >= 0 eventually holds and is succeeded by a17 = 1 .
+After d16 >= 2, it is always the case that if q8 > 1 holds, then x20 >= 2 eventually holds.
+After c3 >= 0, b20 <= 1 eventually holds.
+After i21 >= 2, it is always the case that if l9 = 0 holds, then c9 >= 3 eventually holds and is succeeded by e6 >= 2 .
+Before q20 >= 3, it is always the case that if u19 >= 2 holds, then b0 = 3 eventually holds and is succeeded by s15 > 0 .
+After x1 < 0, it is always the case that d24 <= 2 holds.
+After m19 > 1 until g19 >= 0, m6 > 0 eventually holds.
+Between d23 >= 1 and z17 >= 2, it is always the case that if j23 >= 0 holds, then w18 > 2 eventually holds and is succeeded by h16 >= 0 .
+Globally, it is always the case that if g9 <= 0 holds, then n4 <= 1 previously held and was preceded by g15 < 2 .
+After j17 = 2 until x14 >= 2, it is never the case that e17 < 1 holds.
+Globally, it is always the case that if a23 = 0 holds, then x16 <= 1 eventually holds and is succeeded by n21 > 3, where v21 = 3 does not hold between x16 <= 1 and n21 > 3 .
+After o6 >= 2 until k18 >= 1, it is always the case that if p23 <= 2 holds, then p21 <= 0 previously held.
+Globally, it is always the case that if m7 >= 2 holds and is succeeded by s1 > 2, then u10 <= 2 eventually holds after s1 > 2 .
+After s14 <= 3 until k7 > 0, it is always the case that if g2 = 1 holds, then o2 <= 2 previously held and was preceded by e23 <= 0 .
+Before p0 = 0, it is always the case that if z8 < 1 holds and is succeeded by v20 <= 2, then t23 <= 2 eventually holds after v20 <= 2 .
+After m23 > 1 until b15 > 3, it is always the case that if i12 > 2 holds and is succeeded by x7 > 2, then y5 >= 1 previously held.
+After u3 >= 0, it is always the case that if d5 >= 0 holds, then u17 < 2 eventually holds and is succeeded by i14 <= 1, where n18 > 1 does not hold between u17 < 2 and i14 <= 1 .
+Between p15 <= 0 and g9 <= 1, it is always the case that if m1 = 2 holds, then b13 <= 3 eventually holds and is succeeded by e3 < 1, where g22 > 3 does not hold between b13 <= 3 and e3 < 1 .
+After o16 = 3 until h22 < 2, it is always the case that if w15 = 0 holds, then a11 = 1 eventually holds and is succeeded by s11 > 1, where l5 <= 1 does not hold between a11 = 1 and s11 > 1 .
+After l8 < 1 until k22 >= 3, it is always the case that y19 < 3 holds.
+Globally, it is always the case that if i10 >= 1 holds, then f14 > 1 previously held and was preceded by m2 > 3 .
+Before x12 <= 3, it is always the case that if b1 = 2 holds and is succeeded by r10 < 2, then c14 < 0 previously held.
+After g9 >= 1 until z23 <= 3, m7 <= 0 eventually holds.
+Before v20 = 2, it is always the case that y6 < 1 holds.
+After e18 >= 1 until f10 = 0, j21 > 1 eventually holds.
+Between r16 <= 2 and h15 = 2, it is always the case that if m7 < 0 holds, then w15 < 2 previously held and was preceded by i22 <= 0 .
+Globally, it is always the case that if w7 <= 3 holds, then b7 > 3 previously held.
+Globally, it is always the case that if m23 = 0 holds and is succeeded by v11 > 2, then a1 <= 0 eventually holds after v11 > 2 .
+Between p0 >= 1 and p10 >= 1, it is always the case that if o11 < 1 holds, then x2 < 0 previously held.
+Globally, it is always the case that if f7 > 0 holds, then v14 <= 1 previously held and was preceded by w15 < 3 .
+After n3 < 3, l23 <= 3 eventually holds.
+After m3 < 2, it is always the case that b6 = 2 holds.
+After i1 <= 3 until f20 < 3, it is always the case that if o15 <= 2 holds, then f21 > 2 previously held and was preceded by y6 > 2 .
+Globally, it is always the case that if h8 >= 0 holds, then g17 <= 2 eventually holds and is succeeded by q18 <= 3, where q6 > 1 does not hold between g17 <= 2 and q18 <= 3 .
+Between m18 = 0 and v2 > 1, it is always the case that if f23 = 2 holds, then l8 <= 3 eventually holds and is succeeded by i9 >= 2 .
+Globally, it is always the case that if w22 > 3 holds, then q8 <= 2 previously held and was preceded by q4 > 0 .
+After m13 <= 0, it is always the case that c21 > 1 holds.
+After z21 > 3 until f2 > 2, it is always the case that if i14 > 2 holds and is succeeded by l4 > 2, then j22 >= 3 previously held.
+After r21 = 3, it is always the case that if x5 >= 3 holds, then z11 > 1 eventually holds and is succeeded by b5 = 2 .
+After y4 <= 1, it is always the case that d19 > 1 holds.
+After s15 > 0 until v12 < 1, it is always the case that n4 >= 0 holds.
+After b4 < 2, b17 = 2 eventually holds.
+After l23 <= 2, it is never the case that q20 > 1 holds.
+Between y12 > 2 and h20 < 0, it is always the case that if n12 < 3 holds, then f22 <= 3 eventually holds.
+Between z18 > 2 and q20 > 3, it is always the case that if e5 > 2 holds, then f6 > 2 previously held and was preceded by v1 <= 0 .
+Before z16 >= 3, it is always the case that p16 > 2 holds.
+Between r4 >= 1 and a20 > 2, it is always the case that if e17 >= 2 holds, then s12 > 2 eventually holds and is succeeded by h12 = 0, where t8 >= 3 does not hold between s12 > 2 and h12 = 0 .
+After s11 <= 0, it is never the case that p9 > 1 holds.
+Before z16 > 3, it is always the case that if g23 > 0 holds, then k4 < 3 eventually holds and is succeeded by i23 < 2, where q17 > 3 does not hold between k4 < 3 and i23 < 2 .
+Between n6 <= 0 and y10 < 2, it is always the case that v21 = 3 holds.
+Before g3 = 3, it is always the case that if z7 >= 3 holds and is succeeded by j2 <= 2, then i21 >= 1 previously held.
+Globally, it is always the case that if b10 >= 1 holds, then m19 = 1 eventually holds.
+Globally, it is always the case that if x22 >= 1 holds, then v19 > 3 eventually holds and is succeeded by n12 <= 2 .
+Before o5 = 3, it is always the case that z1 >= 3 holds.
+Before x22 <= 3, it is always the case that if k24 > 3 holds, then p23 > 3 previously held and was preceded by o4 > 0 .
+Before u9 > 3, o12 <= 2 eventually holds.
+After z4 <= 1, it is always the case that if l12 > 1 holds and is succeeded by i7 > 2, then c14 >= 1 previously held.
+Between d15 = 1 and y20 >= 2, it is always the case that if m16 < 0 holds and is succeeded by f14 < 3, then c13 > 3 previously held.
+After v13 < 1 until j10 = 0, k4 = 0 eventually holds.
+Globally, it is always the case that if h23 <= 0 holds, then n9 <= 2 eventually holds and is succeeded by h22 = 2 .
+After j23 = 2, i14 >= 2 eventually holds.
+Before j14 > 1, it is always the case that if w11 >= 3 holds, then n20 = 0 previously held.
+After x4 < 3 until b1 = 2, it is always the case that if i8 >= 2 holds, then s1 = 1 eventually holds and is succeeded by f2 = 2 .
+Globally, it is always the case that if b18 >= 3 holds, then u18 >= 2 eventually holds.
+Before r18 >= 0, b22 <= 0 eventually holds.
+Before x16 > 2, q17 >= 2 eventually holds.
+Globally, it is never the case that t21 = 3 holds.
+After i7 <= 0, it is always the case that if e10 <= 3 holds, then u22 <= 3 eventually holds.
+Between g11 >= 1 and e6 = 3, it is never the case that v22 > 2 holds.
+Globally, it is always the case that l11 >= 3 holds.
+Globally, it is always the case that if d4 <= 0 holds, then j9 <= 3 eventually holds.
+Between d15 <= 0 and g4 < 1, it is always the case that if n12 >= 2 holds and is succeeded by r22 >= 3, then u16 <= 1 eventually holds after r22 >= 3 .
+Globally, it is always the case that if h7 = 1 holds, then h22 = 3 previously held and was preceded by n16 <= 2 .
+Globally, it is never the case that g22 > 2 holds.
+Globally, it is always the case that o24 = 0 holds.
+After k13 > 0 until o2 >= 2, it is always the case that if s19 = 0 holds and is succeeded by f17 > 3, then y9 <= 2 previously held.
+Before e12 = 1, it is never the case that s6 < 3 holds.
+Before n9 >= 0, it is always the case that a3 >= 1 holds.
+Between o2 = 3 and w4 > 0, it is never the case that n16 >= 3 holds.
+After f0 >= 1, it is never the case that c3 > 3 holds.
+Between l23 <= 1 and u7 > 0, it is always the case that n15 > 2 holds.
+Between d23 < 3 and c19 <= 0, it is always the case that if x8 < 1 holds, then q6 >= 0 eventually holds and is succeeded by x12 < 1, where m18 >= 0 does not hold between q6 >= 0 and x12 < 1 .
+Before v13 > 3, it is never the case that z17 < 1 holds.
+Globally, it is always the case that if k22 = 1 holds and is succeeded by g5 <= 1, then s21 < 2 previously held.
+After u3 < 0 until p16 < 1, it is always the case that if f17 < 3 holds, then j3 = 3 previously held.
+Between l21 <= 2 and o6 >= 3, it is always the case that if v0 <= 0 holds, then e0 <= 2 eventually holds.
+After b24 >= 2 until c10 > 2, it is always the case that if g1 <= 1 holds and is succeeded by a3 = 0, then q6 < 1 eventually holds after a3 = 0 .
+After y6 < 3 until a6 >= 3, it is always the case that if q0 < 3 holds, then u17 < 2 eventually holds and is succeeded by h22 > 2 .
+Before l7 = 2, it is always the case that if b22 > 3 holds and is succeeded by i18 = 2, then d24 > 1 previously held.
+Before v3 >= 2, it is always the case that if i7 > 1 holds and is succeeded by m4 <= 0, then g14 <= 3 eventually holds after m4 <= 0 .
+Before u8 > 3, it is never the case that p21 > 2 holds.
+Globally, it is always the case that if h14 <= 2 holds, then h11 <= 1 previously held.
+Between g8 > 0 and j1 < 0, it is always the case that if i15 > 1 holds, then o8 <= 3 previously held.
+After n15 < 2 until h14 = 0, it is always the case that if w0 > 2 holds, then s9 < 1 eventually holds and is succeeded by p19 = 1, where s10 >= 3 does not hold between s9 < 1 and p19 = 1 .
+After b6 > 3, it is always the case that q4 <= 2 holds.
+Between b6 <= 1 and i18 < 1, it is always the case that if p13 >= 1 holds, then s4 >= 2 eventually holds and is succeeded by g14 < 1, where a9 > 2 does not hold between s4 >= 2 and g14 < 1 .
+Globally, it is always the case that if g6 < 0 holds, then e1 <= 3 eventually holds.
+Globally, it is always the case that if m0 < 0 holds and is succeeded by y11 <= 0, then a11 > 2 eventually holds after y11 <= 0 .
+Globally, it is always the case that if w9 < 1 holds, then c4 = 1 eventually holds.
+Between q7 > 3 and d0 < 2, it is always the case that if s8 < 2 holds, then u5 = 3 eventually holds and is succeeded by y0 < 0, where r12 < 1 does not hold between u5 = 3 and y0 < 0 .
+Globally, it is always the case that if c0 > 0 holds, then o12 > 3 eventually holds.
+After x10 < 1 until g18 <= 1, it is always the case that if b4 >= 1 holds, then x6 > 1 eventually holds and is succeeded by a0 >= 0, where x13 < 0 does not hold between x6 > 1 and a0 >= 0 .
+Globally, it is always the case that if y8 = 2 holds, then c12 > 2 previously held and was preceded by r13 <= 3 .
+After h13 > 1 until x16 > 3, it is always the case that x16 > 3 holds.
+After e8 < 3, it is always the case that if d13 = 2 holds and is succeeded by k22 <= 1, then d9 > 2 previously held.
+Globally, m16 < 0 eventually holds.
+Between v19 < 2 and o15 > 0, it is always the case that if l23 >= 1 holds, then y11 = 2 eventually holds and is succeeded by g6 < 0 .
+After c20 = 2 until y13 >= 1, it is always the case that if w15 >= 1 holds and is succeeded by i8 <= 3, then p11 >= 3 previously held.
+Globally, it is always the case that if l17 > 1 holds, then q16 < 1 eventually holds and is succeeded by l7 >= 3 .
+Between d4 >= 1 and h2 <= 1, it is always the case that if f1 <= 0 holds and is succeeded by j17 >= 1, then d14 > 3 previously held.
+Before m11 > 1, it is always the case that if y4 < 0 holds, then w13 > 3 eventually holds.
+Before m5 > 0, it is never the case that x17 < 1 holds.
+Globally, it is always the case that l15 >= 0 holds.
+After s21 <= 2 until s18 < 3, it is always the case that if n14 < 2 holds, then s11 >= 1 previously held.
+After j19 = 3, u16 = 0 eventually holds.
+Before v1 > 2, it is always the case that if b7 = 2 holds, then u19 < 3 eventually holds and is succeeded by g1 < 1, where a2 <= 1 does not hold between u19 < 3 and g1 < 1 .
+After b1 = 2, it is always the case that if n13 <= 0 holds and is succeeded by r3 < 3, then y17 = 2 previously held.
+Between w21 <= 0 and n6 < 1, it is always the case that if a12 >= 2 holds and is succeeded by v13 <= 1, then m21 > 3 eventually holds after v13 <= 1 .
+Between g2 <= 0 and s20 > 2, it is never the case that g6 <= 1 holds.
+Between z6 >= 2 and u18 < 3, it is always the case that if s2 = 2 holds, then e9 >= 1 eventually holds and is succeeded by e13 < 1, where q5 <= 2 does not hold between e9 >= 1 and e13 < 1 .
+After j3 < 1, it is never the case that r3 <= 3 holds.
+Before k4 = 2, it is always the case that if g12 <= 2 holds, then f18 = 3 previously held.
+After a14 <= 2, it is always the case that if q22 < 0 holds, then g20 > 2 eventually holds and is succeeded by p21 <= 1 .
+After o16 = 0, it is always the case that if h2 < 1 holds and is succeeded by f20 >= 3, then u16 >= 2 previously held.
+Between v11 <= 1 and a10 = 1, it is never the case that m4 >= 3 holds.
+After c12 = 0 until b1 > 0, it is always the case that x23 > 3 holds.
+After n18 >= 0, it is always the case that if d4 <= 0 holds, then y21 < 2 eventually holds and is succeeded by w17 = 1 .
+After v22 > 2 until z11 >= 3, it is always the case that if g9 < 2 holds, then b23 > 2 previously held.
+Globally, it is always the case that if u14 >= 3 holds, then n18 <= 0 eventually holds and is succeeded by d8 > 2 .
+Between j15 = 2 and s14 < 0, it is always the case that if r10 <= 2 holds and is succeeded by v14 > 0, then l21 > 0 previously held.
+Between d18 <= 3 and a0 <= 2, it is always the case that if u2 = 3 holds and is succeeded by j21 > 1, then t16 > 3 previously held.
+Between n9 > 2 and y5 <= 2, it is always the case that if s7 > 3 holds, then a7 > 0 eventually holds.
+Globally, it is always the case that if a15 >= 3 holds, then j9 <= 3 eventually holds and is succeeded by g21 <= 3, where h6 > 3 does not hold between j9 <= 3 and g21 <= 3 .
+Before k22 <= 2, it is always the case that if p12 <= 3 holds, then j3 > 0 eventually holds and is succeeded by g11 > 2, where d2 < 0 does not hold between j3 > 0 and g11 > 2 .
+After l3 = 3 until g22 > 3, it is always the case that if c6 <= 0 holds, then c19 < 1 eventually holds and is succeeded by a21 <= 3, where o19 <= 2 does not hold between c19 < 1 and a21 <= 3 .
+Globally, it is always the case that if n15 > 1 holds, then f14 = 0 eventually holds and is succeeded by i11 >= 0 .
+Globally, it is always the case that if f15 < 2 holds, then w3 <= 1 previously held.
+Globally, r1 < 1 eventually holds.
+After c15 < 2 until z4 >= 3, it is always the case that if p11 < 1 holds, then b12 >= 3 previously held and was preceded by t8 >= 2 .
+After a16 > 0, it is never the case that a19 >= 1 holds.
+After d18 = 1 until v2 < 0, t10 <= 0 eventually holds.
+After f13 < 1 until j11 < 3, it is always the case that if n0 >= 2 holds, then g22 = 3 previously held and was preceded by h20 = 1 .
+Between l4 < 1 and n23 >= 3, it is always the case that s17 < 0 holds.
+Between w9 < 0 and s22 > 1, y6 >= 2 eventually holds.
+Between q9 >= 1 and o21 < 2, it is always the case that if k17 > 0 holds, then k19 = 3 eventually holds and is succeeded by u19 < 3, where x14 > 2 does not hold between k19 = 3 and u19 < 3 .
+After y18 < 0 until u12 = 1, it is always the case that if p23 = 3 holds, then r2 = 2 previously held and was preceded by z18 < 0 .
+Globally, it is always the case that if f16 = 0 holds, then c18 = 3 previously held.
+Before c6 = 2, it is always the case that if g18 = 0 holds, then p15 = 2 eventually holds.
+After k0 = 2, it is always the case that if g2 <= 1 holds, then a11 = 2 eventually holds and is succeeded by e15 <= 0 .
+After w7 < 3 until b5 >= 0, it is always the case that if o2 = 3 holds, then r2 > 1 eventually holds.
+After j10 >= 1, g4 >= 0 eventually holds.
+After c13 < 3 until i8 <= 1, it is always the case that if h1 > 2 holds, then g6 <= 1 eventually holds and is succeeded by n17 <= 3 .
+Globally, it is always the case that if r14 > 0 holds, then h11 > 0 eventually holds.
+Before d1 = 0, it is always the case that if j8 = 2 holds, then p12 > 0 previously held and was preceded by x15 <= 1 .
+After t18 > 2 until f12 <= 3, it is always the case that if a12 > 0 holds, then e24 < 3 eventually holds.
+Before i8 > 2, it is always the case that if w11 = 3 holds and is succeeded by r21 < 1, then u13 > 1 eventually holds after r21 < 1 .
+After f20 < 2, x14 < 3 eventually holds.
+After o24 > 1, it is always the case that if p5 = 1 holds, then l10 = 1 eventually holds.
+After n3 = 3 until c14 < 0, it is always the case that if l21 > 1 holds and is succeeded by k9 < 1, then z16 > 2 previously held.
+Globally, it is always the case that if n20 <= 3 holds, then y0 > 0 eventually holds.
+Between p11 <= 2 and c13 <= 3, it is never the case that g9 = 2 holds.
+Between l0 > 0 and w21 >= 1, it is always the case that if o22 <= 2 holds, then w7 = 0 previously held and was preceded by q4 < 2 .
+Before v16 < 2, it is always the case that n6 >= 3 holds.
+After m6 < 0 until l12 >= 3, it is always the case that if x19 > 1 holds, then f3 = 1 eventually holds and is succeeded by q7 >= 0 .
+After h12 < 0 until c10 > 3, i24 = 2 eventually holds.
+Before k18 > 1, it is always the case that if c6 > 3 holds, then t1 <= 2 eventually holds and is succeeded by f17 = 1, where l18 < 0 does not hold between t1 <= 2 and f17 = 1 .
+Globally, it is always the case that if m19 = 0 holds and is succeeded by d11 <= 0, then i23 >= 0 previously held.
+After f9 = 1 until i18 >= 0, it is always the case that if q1 >= 1 holds, then q19 >= 2 eventually holds.
+After a18 <= 0, it is never the case that o9 < 3 holds.
+Between u19 > 1 and v10 <= 3, it is always the case that if u3 >= 3 holds, then g1 <= 0 previously held and was preceded by f17 > 3 .
+Before v23 < 3, it is never the case that t4 >= 3 holds.
+After d24 <= 2, it is never the case that c4 = 1 holds.
+Globally, it is always the case that j5 > 0 holds.
+Globally, it is always the case that if v23 <= 0 holds and is succeeded by m13 > 1, then c4 > 3 eventually holds after m13 > 1 .
+After a0 = 2 until k1 < 0, it is always the case that if g24 < 1 holds, then k13 >= 1 eventually holds and is succeeded by h5 = 1, where t17 = 2 does not hold between k13 >= 1 and h5 = 1 .
+Between s2 > 3 and z9 >= 3, it is never the case that s1 > 0 holds.
+Globally, it is always the case that if z20 > 1 holds, then t15 <= 2 previously held and was preceded by c8 >= 3 .
+Globally, it is always the case that v2 > 1 holds.
+Before d0 >= 3, it is always the case that if k4 <= 2 holds, then x7 < 0 previously held and was preceded by d3 >= 2 .
+Between b21 >= 1 and e16 = 2, it is always the case that if c23 <= 0 holds, then y23 >= 0 eventually holds.
+Between g22 <= 2 and g3 < 2, it is always the case that if p16 = 3 holds, then e12 > 2 eventually holds.
+After v18 = 3 until j24 = 1, it is always the case that if d23 > 3 holds and is succeeded by a14 >= 2, then c24 = 3 previously held.
+Between f19 < 0 and m24 > 3, it is always the case that if m10 = 1 holds, then u0 < 1 previously held.
+After s0 > 2, it is always the case that if u9 = 2 holds, then s17 = 0 previously held.
+Before t7 <= 2, t2 = 1 eventually holds.
+Globally, it is always the case that if y16 <= 0 holds and is succeeded by p1 >= 1, then o21 >= 2 eventually holds after p1 >= 1 .
+Between k10 < 0 and w16 > 0, it is always the case that if f18 = 0 holds and is succeeded by o10 = 2, then n20 <= 0 previously held.
+Globally, it is always the case that if p1 <= 1 holds and is succeeded by r8 < 0, then a18 = 0 previously held.
+After h21 <= 2 until c1 = 0, it is always the case that y3 <= 2 holds.
+After k10 > 3, it is always the case that if q21 <= 0 holds, then p21 > 3 eventually holds and is succeeded by x13 < 2, where k12 >= 2 does not hold between p21 > 3 and x13 < 2 .
+Between t21 > 0 and f6 <= 3, i5 <= 2 eventually holds.
+After k8 >= 2 until f12 >= 2, it is always the case that if w20 > 1 holds and is succeeded by a6 > 0, then p21 = 1 eventually holds after a6 > 0 .
+After a9 = 1, it is always the case that if m23 > 3 holds, then m0 >= 3 previously held.
+Before m0 < 0, o0 >= 0 eventually holds.
+After a19 <= 2 until k3 <= 0, it is always the case that if t0 > 2 holds and is succeeded by c1 < 3, then y6 < 3 eventually holds after c1 < 3 .
+After u8 >= 0 until m11 = 1, it is always the case that if k9 < 3 holds and is succeeded by i15 >= 1, then v19 >= 2 previously held.
+After o8 <= 3, u2 < 1 eventually holds.
+Between j14 < 2 and o12 >= 1, it is always the case that if p12 > 1 holds, then y13 = 2 previously held.
+Before l18 = 1, it is never the case that b1 >= 1 holds.
+Between p7 >= 1 and n4 = 1, it is always the case that if i3 >= 1 holds and is succeeded by r18 > 3, then v18 <= 1 previously held.
+After x21 <= 1 until f7 < 1, it is always the case that if w19 < 1 holds, then g1 >= 1 previously held.
+Before c19 = 1, it is always the case that if d5 < 0 holds and is succeeded by p1 <= 3, then a17 < 1 previously held.
+After r2 > 0 until x4 <= 1, it is always the case that if g20 < 1 holds, then h16 = 1 eventually holds and is succeeded by l19 = 0, where v7 <= 3 does not hold between h16 = 1 and l19 = 0 .
+After c11 > 2, it is always the case that if m5 > 2 holds and is succeeded by l7 = 2, then q18 = 3 previously held.
+After i15 > 3, it is always the case that j23 < 2 holds.
+Before u20 = 1, it is always the case that h24 > 2 holds.
+Between a5 = 0 and b7 < 1, it is always the case that m12 < 2 holds.
+After s13 < 3 until c7 <= 1, it is always the case that k16 > 1 holds.
+Between k5 < 1 and a9 <= 1, it is never the case that j13 <= 2 holds.
+After f12 > 0 until f15 < 3, it is always the case that if i19 < 0 holds and is succeeded by j4 < 1, then o23 >= 2 previously held.
+Between s17 <= 1 and u18 = 2, it is always the case that if s23 = 1 holds, then n20 = 2 previously held and was preceded by e3 = 0 .
+Before j1 > 1, it is always the case that if t18 < 2 holds, then c23 <= 1 previously held and was preceded by o8 > 2 .
+After y7 <= 2 until o6 >= 3, it is always the case that if x11 > 2 holds and is succeeded by z12 >= 2, then q22 >= 1 previously held.
+Globally, it is always the case that if e1 <= 2 holds, then p7 < 1 previously held and was preceded by n21 <= 3 .
+After i4 > 1 until m12 > 3, it is always the case that if m21 <= 3 holds, then q22 < 3 eventually holds and is succeeded by a20 < 3, where t0 <= 3 does not hold between q22 < 3 and a20 < 3 .
+Before l0 = 2, it is never the case that v16 <= 1 holds.
+Globally, it is never the case that q4 > 0 holds.
+Between g24 = 3 and w3 > 0, it is always the case that if v5 <= 0 holds and is succeeded by i8 < 2, then v17 > 3 previously held.
+Between k1 < 0 and l10 > 1, it is always the case that if t14 = 3 holds and is succeeded by z20 >= 1, then s23 = 1 previously held.
+After l2 = 2 until b24 = 0, u12 = 1 eventually holds.
+After c21 = 0 until q6 = 1, it is always the case that if x23 >= 1 holds, then g20 > 2 eventually holds and is succeeded by v21 >= 3, where q5 >= 3 does not hold between g20 > 2 and v21 >= 3 .
+After l3 >= 2 until b21 > 0, it is always the case that r18 >= 3 holds.
+Between v3 > 0 and p4 > 3, m0 > 3 eventually holds.
+Between h23 >= 2 and h18 > 2, it is never the case that d4 >= 1 holds.
+After c21 > 2 until g9 > 3, it is always the case that if g6 = 2 holds, then x5 <= 0 previously held.
+Between v6 = 0 and b2 > 2, it is always the case that if b20 > 1 holds, then y13 > 3 eventually holds and is succeeded by q14 < 3 .
+Globally, it is always the case that f12 = 2 holds.
+After h0 = 0 until l2 < 3, it is always the case that if m1 < 2 holds and is succeeded by d17 >= 1, then j10 = 3 eventually holds after d17 >= 1 .
+After d2 = 2, it is never the case that g17 = 3 holds.
+After t7 < 3 until k21 > 0, it is never the case that m5 > 3 holds.
+Globally, q23 <= 0 eventually holds.
+Between b10 < 2 and m17 < 0, it is always the case that l15 > 3 holds.
+Globally, it is always the case that if r18 >= 0 holds, then k13 >= 1 eventually holds and is succeeded by h0 > 3, where y0 = 3 does not hold between k13 >= 1 and h0 > 3 .
+Between h0 <= 1 and h14 >= 0, it is always the case that if t16 < 1 holds, then o11 = 3 previously held.
+After p18 > 2 until d1 >= 2, it is always the case that if o11 > 3 holds, then j4 < 0 eventually holds and is succeeded by r22 < 2, where z16 = 0 does not hold between j4 < 0 and r22 < 2 .
+Between i12 <= 1 and m22 >= 2, it is always the case that t13 > 3 holds.
+Globally, it is always the case that if b12 > 3 holds, then f17 < 3 eventually holds.
+After c17 = 0, it is always the case that if b15 > 1 holds and is succeeded by r7 < 3, then t4 <= 0 previously held.
+Between o23 >= 1 and k19 >= 1, it is never the case that c6 < 3 holds.
+After a3 > 0, it is always the case that if c17 <= 2 holds, then g18 = 1 eventually holds and is succeeded by c11 < 0, where p15 = 2 does not hold between g18 = 1 and c11 < 0 .
+After j9 >= 3 until w16 <= 1, f9 > 2 eventually holds.
+Between c23 > 0 and o0 <= 1, it is always the case that if v12 < 3 holds, then x22 >= 1 eventually holds.
+After l10 = 3 until y17 = 1, it is always the case that if l1 > 1 holds, then a3 <= 2 eventually holds and is succeeded by v7 > 2 .
+Between g13 >= 2 and i11 < 1, it is always the case that if t21 = 3 holds, then z0 < 3 eventually holds and is succeeded by i13 < 3 .
+Before p4 < 2, it is always the case that if t17 <= 0 holds, then h8 < 3 eventually holds and is succeeded by k19 = 1, where d6 < 3 does not hold between h8 < 3 and k19 = 1 .
+After u3 >= 2 until b2 < 0, it is always the case that if u16 > 1 holds and is succeeded by o11 < 2, then f2 >= 3 previously held.
+After z17 < 2, it is always the case that if m5 <= 1 holds and is succeeded by j3 <= 2, then q18 = 3 eventually holds after j3 <= 2 .
+Before n12 >= 3, u13 >= 1 eventually holds.
+Between j11 > 3 and n2 > 2, it is always the case that s0 = 0 holds.
+Between k17 >= 2 and q15 >= 3, it is never the case that p23 <= 3 holds.
+Globally, it is always the case that if r6 > 2 holds and is succeeded by p2 < 2, then w20 = 3 previously held.
+After q9 <= 0 until p8 = 2, it is always the case that if j20 = 3 holds, then b17 = 0 previously held and was preceded by o5 <= 1 .
+Globally, it is always the case that if t3 < 1 holds, then f21 >= 2 eventually holds and is succeeded by s14 = 1 .
+Before m3 <= 3, it is always the case that if q10 <= 0 holds, then k9 > 1 eventually holds and is succeeded by m2 < 0 .
+Globally, it is always the case that if f5 <= 2 holds, then z22 < 3 eventually holds and is succeeded by s14 >= 0, where h22 >= 3 does not hold between z22 < 3 and s14 >= 0 .
+After y1 >= 1 until k4 < 2, c1 < 1 eventually holds.
+Globally, it is always the case that if e20 = 0 holds, then j2 = 3 previously held.
+Before e5 > 1, it is always the case that if z10 < 0 holds, then e1 > 3 eventually holds and is succeeded by i3 < 2, where l17 <= 2 does not hold between e1 > 3 and i3 < 2 .
+Between a3 < 3 and y21 <= 0, it is always the case that if t11 >= 2 holds, then a13 < 2 eventually holds and is succeeded by h1 = 0 .
+After s3 <= 0, it is always the case that if g17 > 0 holds, then l21 >= 2 eventually holds and is succeeded by a20 = 0, where k19 = 0 does not hold between l21 >= 2 and a20 = 0 .
+Between y13 < 1 and p9 <= 1, it is always the case that if u5 >= 1 holds, then e8 < 3 eventually holds and is succeeded by x20 <= 0, where c10 = 3 does not hold between e8 < 3 and x20 <= 0 .
+Before r4 <= 0, it is always the case that if v15 = 1 holds, then o6 >= 3 eventually holds and is succeeded by i6 >= 1, where a19 < 2 does not hold between o6 >= 3 and i6 >= 1 .
+Between n20 >= 3 and e2 >= 1, it is always the case that if u12 >= 0 holds, then r21 < 3 eventually holds.
+Globally, it is always the case that if o7 < 1 holds, then h17 > 3 eventually holds and is succeeded by x1 = 2 .
+After h6 > 3 until m14 <= 1, it is always the case that if r11 = 2 holds, then v13 >= 3 eventually holds and is succeeded by g5 = 3, where n1 >= 3 does not hold between v13 >= 3 and g5 = 3 .
+Before q18 > 3, it is always the case that if u11 < 3 holds and is succeeded by l13 > 0, then r17 = 3 previously held.
+Globally, it is always the case that if u15 = 3 holds, then e2 > 1 previously held and was preceded by m4 < 3 .
+After z7 < 1 until n17 >= 0, it is always the case that if c13 = 3 holds, then p20 >= 1 previously held.
+After q12 > 3, q19 < 0 eventually holds.
+Globally, it is always the case that if y20 > 1 holds, then z21 < 1 previously held.
+Globally, it is always the case that if s6 < 1 holds, then b23 >= 3 previously held and was preceded by a9 > 1 .
+After z17 >= 1, it is always the case that if i8 > 2 holds, then o19 < 0 previously held and was preceded by u12 >= 1 .
+Between b21 <= 3 and r2 >= 2, it is always the case that if c19 <= 0 holds, then y23 < 1 eventually holds and is succeeded by k23 < 3, where r18 < 2 does not hold between y23 < 1 and k23 < 3 .
+After v6 = 0, it is never the case that m5 >= 2 holds.
+After a3 < 2 until m23 < 2, it is always the case that if b3 >= 1 holds, then n3 < 0 eventually holds and is succeeded by v11 < 0, where g2 < 2 does not hold between n3 < 0 and v11 < 0 .
+Globally, it is always the case that if i15 = 2 holds, then d24 > 1 eventually holds and is succeeded by a21 > 1 .
+Between h9 > 1 and w5 = 3, it is always the case that if p7 > 3 holds, then j24 >= 0 eventually holds and is succeeded by o10 < 1, where c11 >= 1 does not hold between j24 >= 0 and o10 < 1 .
+Globally, it is always the case that if s11 = 3 holds, then l8 > 0 eventually holds.
+Globally, it is always the case that if b23 = 2 holds, then y20 < 1 previously held and was preceded by m13 >= 1 .
+After w15 <= 0 until s14 < 0, it is always the case that if x0 <= 2 holds, then y7 <= 3 eventually holds.
+After d13 >= 0, it is always the case that if y17 = 3 holds, then k22 = 2 eventually holds and is succeeded by b9 > 3 .
+After a22 >= 0 until b16 = 0, it is always the case that if a8 < 2 holds, then w2 = 1 previously held and was preceded by n1 <= 0 .
+Between v3 > 2 and k14 >= 3, it is always the case that if n13 >= 2 holds, then i8 = 0 eventually holds and is succeeded by d13 = 1, where h7 < 3 does not hold between i8 = 0 and d13 = 1 .
+Before e20 = 3, it is always the case that if m18 > 2 holds, then e5 < 3 eventually holds.
+After o21 = 1, it is always the case that if g4 < 0 holds and is succeeded by f23 < 3, then g15 <= 3 eventually holds after f23 < 3 .
+Globally, it is always the case that if d10 >= 3 holds and is succeeded by h18 <= 3, then z7 = 1 previously held.
+Globally, g8 < 1 eventually holds.
+After w7 <= 1, it is always the case that if d11 = 0 holds, then m14 <= 2 eventually holds.
+After d2 >= 1 until w19 < 0, it is always the case that if r2 >= 1 holds, then l15 = 3 eventually holds and is succeeded by a14 = 0, where b7 < 1 does not hold between l15 = 3 and a14 = 0 .
+Before k23 > 0, it is always the case that if t5 >= 1 holds, then e11 > 0 previously held.
+Globally, it is never the case that o15 > 0 holds.
+Between p19 >= 2 and v11 <= 0, it is always the case that if p12 = 3 holds, then g10 < 3 eventually holds and is succeeded by j6 = 1 .
+Before y1 = 0, it is always the case that if b10 > 2 holds, then r1 > 0 eventually holds and is succeeded by y18 > 2, where z7 < 2 does not hold between r1 > 0 and y18 > 2 .
+Before q18 < 0, it is always the case that if r11 >= 1 holds and is succeeded by l9 > 1, then p9 <= 0 eventually holds after l9 > 1 .
+After k18 < 1 until c9 = 0, it is always the case that v2 >= 2 holds.
+Between g6 = 3 and s23 <= 1, it is always the case that if m16 > 2 holds, then a2 = 3 eventually holds and is succeeded by n6 < 0, where h21 <= 3 does not hold between a2 = 3 and n6 < 0 .
+After r15 = 1 until f2 = 0, it is always the case that if e23 <= 3 holds and is succeeded by m24 <= 0, then b16 = 2 previously held.
+Before t10 < 2, it is always the case that if y21 < 2 holds, then f2 < 3 eventually holds and is succeeded by v12 >= 1 .
+After r14 < 2, it is never the case that d2 = 2 holds.
+After r12 = 3 until e22 >= 1, it is never the case that z3 > 2 holds.
+After o1 > 2 until g19 <= 3, it is always the case that if l12 <= 0 holds, then i1 = 0 eventually holds and is succeeded by l0 > 3 .
+Between w2 < 0 and q16 < 0, it is always the case that if p13 <= 3 holds, then c15 = 0 eventually holds and is succeeded by w3 > 2 .
+Globally, it is always the case that if q19 >= 2 holds, then e12 <= 0 previously held.
+Globally, it is always the case that if a9 = 3 holds, then e17 <= 2 previously held.
+Globally, it is always the case that if h11 > 1 holds and is succeeded by f15 <= 3, then f4 <= 2 previously held.
+Globally, j6 > 0 eventually holds.
+After u3 < 2, it is always the case that if z2 < 2 holds, then c7 > 3 eventually holds and is succeeded by y4 > 0 .
+Globally, it is never the case that n15 > 0 holds.
+Before w16 <= 1, m5 < 3 eventually holds.
+After i4 = 3 until r23 < 2, it is always the case that if p22 = 0 holds and is succeeded by z20 <= 3, then s21 < 0 eventually holds after z20 <= 3 .
+Before s21 > 0, it is always the case that if p4 < 3 holds, then r8 > 1 previously held and was preceded by i7 >= 2 .
+Before d23 <= 0, q21 < 3 eventually holds.
+Before c1 = 0, t21 > 2 eventually holds.
+After d16 > 2, k5 < 2 eventually holds.
+After e2 > 2 until h12 >= 3, it is always the case that if k17 = 1 holds and is succeeded by p7 <= 1, then r4 >= 2 previously held.
+Between h14 >= 2 and i5 < 1, it is always the case that if b10 > 1 holds, then g10 >= 3 eventually holds and is succeeded by h24 >= 2 .
+After m21 <= 3 until q18 = 2, it is always the case that if e20 >= 2 holds, then t11 <= 1 eventually holds.
+Between z10 <= 0 and y12 >= 0, it is always the case that c2 = 3 holds.
+Before f5 < 1, it is always the case that if o16 >= 3 holds, then p10 < 1 eventually holds and is succeeded by n10 = 0, where x8 > 2 does not hold between p10 < 1 and n10 = 0 .
+Globally, it is never the case that z22 < 0 holds.
+After j13 < 3, it is always the case that if b8 <= 1 holds and is succeeded by f15 < 0, then p6 < 0 previously held.
+Globally, it is never the case that s21 < 2 holds.
+After m9 < 0, it is always the case that m22 < 3 holds.
+After l7 = 3, it is never the case that d21 <= 0 holds.
+Between g7 > 1 and h11 < 2, it is always the case that if y0 <= 1 holds, then g9 > 2 eventually holds and is succeeded by d23 = 1 .
+Between q16 < 3 and v1 < 1, b23 <= 2 eventually holds.
+After m14 > 2 until v12 <= 2, q20 = 3 eventually holds.
+Before u4 < 1, it is always the case that b22 >= 3 holds.
